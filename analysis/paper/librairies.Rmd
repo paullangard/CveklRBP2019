@@ -1,0 +1,6 @@
+```{r librairies}
+require(tidyverse)
+require(ggpubr)
+require(magrittr)
+```
+

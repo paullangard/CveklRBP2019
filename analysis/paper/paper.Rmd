@@ -20,20 +20,22 @@ knitr::opts_chunk$set(
 
 ```
 
-```{r librairies, echo=T}
-library(tidyverse)
-library(ggpubr)
-library(magrittr)
-```
-
 
 # Introduction
 
-# Systematic Analysis of Lens-Expressed RNA-Binding Proteins
+#Results
 
-```{r test, child='systematicAnalysis.Rmd'}
+##Systematic Analysis of Lens-Expressed RNA-Binding Proteins
+
+```{r resultsAnalysis, child='systematicAnalysis.Rmd'}
 
 ```
 
 
+##RNA-binding predictions
 
+```{r resultsBinding, child='rnabindingPredictions.Rmd'}
+
+```
+
+#Discussion
