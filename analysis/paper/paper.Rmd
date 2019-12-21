@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 
 #Results
 
-##Systematic Analysis of Lens-Expressed RNA-Binding Proteins
+##Systematic Analysis of Lens-Expressed RNA-Binding Proteins {#functionalanalysis} 
 
 ```{r resultsAnalysis, child='systematicAnalysis.Rmd'}
 

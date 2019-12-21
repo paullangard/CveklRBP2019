@@ -1,3 +1,89 @@
-```{r librairies, child="librairies.Rmd"}
+```{r librairies-systematicAnalysis}
+require(tidyverse)
+require(ggpubr)
+require(magrittr)
+```
 
+
+```{r parameters-systematicAnalysis}
+proteomicRanking.cutoff <- 1800
+```
+
+```{r transcriptomicZhao, include=F, cache=T}
+#table conversion to long format for ease of manipulation
+t_transcriptomicZhao <- read_tsv("../data/raw_data/rnaseq_zhao2018_mouse_rawcount.tsv") %>%
+  gather(-gene, key="key", value="FPKM") %>%
+  separate(col="key", into=c("stage", "tissue"), sep="_") %>%
+  arrange(gene, stage, tissue) %>%
+  mutate(replicate = str_remove(tissue, "epi|fiber"),
+         tissue = str_remove(tissue, "[1-3]")) %T>%
+  write_tsv("../data/derived_data/transcriptomicZhao2018.tsv")
+```
+
+```{r proteomicZhao, include=TRUE, cache=TRUE}
+#explore available data
+filepath_ProteomeZhao2018 <- "../data/raw_data/DAVI-429_proteinGroups.xlsx"
+#data are located in the excel sheet "proteinGroups"
+
+#not all columns are of interest, define which one to keep at data import
+coltypes_ProteomeZhao2018 <- c(
+  rep("skip",7),
+  rep("text",2),#col Protein names and gene names
+  rep("skip",29),
+  rep("numeric",2), #col intensity epith and intensity fibers
+  rep("skip",3),
+  rep("numeric",2), #col ibaq epithelium + rank
+  "skip",
+  rep("numeric",2), #col ibaq fiber + rank
+  rep("skip",4),
+  rep("numeric",2), #lfq fibers and epith
+  rep("skip",5),
+  rep("numeric",2), # ms/ms fiber and epith
+  rep("skip",20),
+  "text", #uniprot id,
+  rep("skip",5),
+  "text", #mgi gene name,
+  rep("skip",2),
+  rep("text",14), #annotation
+  "skip")
+
+ 
+#get R friendly colnames for few annotation columns
+annotationsFeatures <- readxl::read_xlsx(filepath_ProteomeZhao2018, 
+                                         n_max = 10, 
+                                         skip = 4, 
+                                         sheet = "proteinGroups") %>% 
+  names() %>% .[91:104] %>% 
+  str_remove(.,"KW: |GO: ") %>% 
+  str_remove(.," ")
+
+#defining colnames
+colnames_ProteomeZhao2018 <- c(
+  "ProteinNames",
+  "GeneNames",
+  paste0("Intensity",c("Epith","Fibers")),
+  paste0(c("iBAQ","rank"),"Epith"),
+  paste0(c("iBAQ","rank"),"Fibers"),
+  paste0("LFQ",c("Epith","Fibers")),
+  paste0("MsMs",c("Epith","Fibers")),
+  "UniprotID",
+  "MGIGeneNames",
+  annotationsFeatures
+)
+
+#import dataset proteomic zhao 2018
+ds_ProteomeZhao2018 <- readxl::read_xlsx(filepath_ProteomeZhao2018, 
+                                    skip = 5, 
+                                    sheet = "proteinGroups",
+                                    col_types = coltypes_ProteomeZhao2018, 
+                                    col_names = colnames_ProteomeZhao2018) %>% 
+  mutate(GeneNames=MGIGeneNames) %>% 
+  separate_rows(sep=";",GeneNames) %>% #split lines with mentionning multiple genes
+  dplyr::filter(!is.na(GeneNames))  %T>% 
+  write_tsv("../data/derived_data/proteomicZhao2018.tsv")
+```
+
+```{r importdatasets}
+#ds_ProteomeZhao2018 <- read_tsv("data/proteomic/processed/zhao_proteomic_processed.tsv")
+#t_ProteomeZhao2018_RBP <- read_tsv("data/proteomic/processed/zhao_proteomic_RBPfiltered_threshold1800.tsv")
 ```
