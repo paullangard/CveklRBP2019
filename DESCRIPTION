@@ -1,7 +1,7 @@
 Package: CveklRBP2019
 Title: Systematic Analysis of Lens-Expressed RNA-Binding Proteins
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "Paul",
            family = "Langard",
            role = c("aut", "cre"),
@@ -13,3 +13,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/paullangard/CveklRBP2019
 BugReports: https://github.com/paullangard/CveklRBP2019/issues
+Imports: bookdown,
+    here
+Suggests: devtools,
+    git2r
