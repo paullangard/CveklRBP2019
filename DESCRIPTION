@@ -1,13 +1,13 @@
 Package: CveklRBP2019
-Title: What the Package Does (One Line, Title Case)
+Title: Systematic Analysis of Lens-Expressed RNA-Binding Proteins
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Paul",
+           family = "Langard",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph)
-License: What license it uses
+           email = "langardpaul@gmail.com")
+Description: This package provides data and code for the analysis of lens-expressed RBP, including the code to generates figure.
+License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
