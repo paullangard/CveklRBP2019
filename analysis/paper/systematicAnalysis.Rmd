@@ -2,6 +2,8 @@
 require(tidyverse)
 require(ggpubr)
 require(magrittr)
+require(ggimage)
+require(ggrepel)
 ```
 
 
@@ -9,81 +11,237 @@ require(magrittr)
 proteomicRanking.cutoff <- 1800
 ```
 
-```{r transcriptomicZhao, include=F, cache=T}
-#table conversion to long format for ease of manipulation
-t_transcriptomicZhao <- read_tsv("../data/raw_data/rnaseq_zhao2018_mouse_rawcount.tsv") %>%
-  gather(-gene, key="key", value="FPKM") %>%
-  separate(col="key", into=c("stage", "tissue"), sep="_") %>%
-  arrange(gene, stage, tissue) %>%
-  mutate(replicate = str_remove(tissue, "epi|fiber"),
-         tissue = str_remove(tissue, "[1-3]")) %T>%
-  write_tsv("../data/derived_data/transcriptomicZhao2018.tsv")
+```{r importDatasets-SA, include=F, cache=T}
+#import from package data, data wrangling scripts are in data-raw
+t_transcriptomicZhao2018 <- CveklRBP2019::t_transcriptomicZhao2018
+t_proteomicZhao2018 <- CveklRBP2019::t_proteomicZhao2018
 ```
 
-```{r proteomicZhao, include=TRUE, cache=TRUE}
-#explore available data
-filepath_ProteomeZhao2018 <- "../data/raw_data/DAVI-429_proteinGroups.xlsx"
-#data are located in the excel sheet "proteinGroups"
-
-#not all columns are of interest, define which one to keep at data import
-coltypes_ProteomeZhao2018 <- c(
-  rep("skip",7),
-  rep("text",2),#col Protein names and gene names
-  rep("skip",29),
-  rep("numeric",2), #col intensity epith and intensity fibers
-  rep("skip",3),
-  rep("numeric",2), #col ibaq epithelium + rank
-  "skip",
-  rep("numeric",2), #col ibaq fiber + rank
-  rep("skip",4),
-  rep("numeric",2), #lfq fibers and epith
-  rep("skip",5),
-  rep("numeric",2), # ms/ms fiber and epith
-  rep("skip",20),
-  "text", #uniprot id,
-  rep("skip",5),
-  "text", #mgi gene name,
-  rep("skip",2),
-  rep("text",14), #annotation
-  "skip")
-
- 
-#get R friendly colnames for few annotation columns
-annotationsFeatures <- readxl::read_xlsx(filepath_ProteomeZhao2018, 
-                                         n_max = 10, 
-                                         skip = 4, 
-                                         sheet = "proteinGroups") %>% 
-  names() %>% .[91:104] %>% 
-  str_remove(.,"KW: |GO: ") %>% 
-  str_remove(.," ")
-
-#defining colnames
-colnames_ProteomeZhao2018 <- c(
-  "ProteinNames",
-  "GeneNames",
-  paste0("Intensity",c("Epith","Fibers")),
-  paste0(c("iBAQ","rank"),"Epith"),
-  paste0(c("iBAQ","rank"),"Fibers"),
-  paste0("LFQ",c("Epith","Fibers")),
-  paste0("MsMs",c("Epith","Fibers")),
-  "UniprotID",
-  "MGIGeneNames",
-  annotationsFeatures
-)
-
-#import dataset proteomic zhao 2018
-ds_ProteomeZhao2018 <- readxl::read_xlsx(filepath_ProteomeZhao2018, 
-                                    skip = 5, 
-                                    sheet = "proteinGroups",
-                                    col_types = coltypes_ProteomeZhao2018, 
-                                    col_names = colnames_ProteomeZhao2018) %>% 
-  mutate(GeneNames=MGIGeneNames) %>% 
-  separate_rows(sep=";",GeneNames) %>% #split lines with mentionning multiple genes
-  dplyr::filter(!is.na(GeneNames))  %T>% 
-  write_tsv("../data/derived_data/proteomicZhao2018.tsv")
+```{r filterRBP-SA, cache=T}
+#import proteomic dataset
+t_proteomicZhao2018_RBP <- t_proteomicZhao2018 %>% 
+  #filter for RNA-binding proteins
+  filter_all(any_vars(str_detect(., pattern = "RNA-binding"))) %>%
+  #exclude wrongly annotated RBP (manual exclusion)
+  filter(!GeneNames %in% c('Tsn','Impdh2','Nudt5','Tdrkh','Trir','Jmjd6','Ro60', "Trove2")) %>%
+  filter(rankEpith < 1800 | rankFibers < 1800) %>%
+  mutate(tissue = case_when(
+    #define gene as epi, fiber or both if it passed the threshold in one or two tissues
+    (rankEpith < 1800 & rankFibers >= 1800) ~ "epi",
+    (rankEpith >= 1800 & rankFibers < 1800) ~ "fibers",
+    (rankEpith < 1800 & rankFibers < 1800) ~ "both"
+  )) %>% 
+  dplyr::select(gene=GeneNames, starts_with("rank"), tissue) %T>%
+  write_tsv("../data/derived_data/proteomicZhao2018_RBP.tsv")
 ```
 
-```{r importdatasets}
-#ds_ProteomeZhao2018 <- read_tsv("data/proteomic/processed/zhao_proteomic_processed.tsv")
-#t_ProteomeZhao2018_RBP <- read_tsv("data/proteomic/processed/zhao_proteomic_RBPfiltered_threshold1800.tsv")
+
+```{r functionalanalysis}
+###########################################################
+#import DAVID annotations
+###########################################################
+t_DAVID_annotationsRBP <- read_tsv("../data/raw_data/DAVID_annotationsRBP.tsv") %>%
+  #select all annotations columns
+  dplyr::select(ID, UP_KEYWORDS, starts_with("GO"), starts_with("KEGG"), BIOCARTA) %>%
+  #gather all columns in one
+  unite(col = "KEYWORDS", UP_KEYWORDS, BIOCARTA, KEGG_PATHWAY, starts_with("GOTERM"), sep="") %>%
+  #transform table so that one row = one gene and one keyword
+  separate_rows(KEYWORDS, sep=",") %>%
+  #clean table
+  dplyr::filter(!KEYWORDS=="") %>% drop_na() %>%
+  mutate(KEYWORDS=str_replace_all(KEYWORDS, "GO:", "GO")) %>%
+  separate(col="KEYWORDS", into=c("keyID", "keyTerm"), sep="~|:", fill = "left") %>% 
+  dplyr::select(gene=ID, keyTerm) %>%
+  write_tsv("../data/derived_data/DAVID_annotationsRBP_processed.tsv") 
+
+###########################################################
+#import Home annotations
+###########################################################
+
+t_CVEKL_annotationsRBP <- read_tsv("../data/raw_data/CVEKL_annotationsRBP.tsv",
+  col_types = "cccc",
+  col_names = c("gene", "groups", "subgroups", "category"),
+  skip=1)  %>% 
+  unite(col="keyTerm", groups:category, sep=", ") %>%
+  separate_rows(keyTerm, sep=", ")  %>% 
+  mutate(keyTerm = case_when(keyTerm=="splicing" ~ "mRNA splicing", 
+                             TRUE ~ keyTerm)) %T>%
+  write_tsv("../data/derived_data/CVEKL_annotationsRBP_processed.tsv") 
+
+
+###########################################################
+#compile annotations
+###########################################################
+t_functionalGridRBP <- read_tsv("../data/raw_data/RBP_functionalannotationsGrid.tsv")
+
+t_annotationsRBP <- bind_rows(t_DAVID_annotationsRBP, t_CVEKL_annotationsRBP) %>%
+  #process our annotations table through the grid
+  #note that annotations that are not represented are dropped
+  right_join(t_functionalGridRBP, by="keyTerm") 
+
+
+###########################################################
+#post-process to establish a hierarchy of annotations
+###########################################################
+
+
+t_annotationsRBP <- t_annotationsRBP %>%
+  mutate(category = as.character(category),
+         category = case_when(
+           category=="pre-mRNA processing and transport" ~ "pre-mrna processing",
+           TRUE ~ category
+         ))  %>%
+  mutate(group1 = case_when(grepl("putative", category, ignore.case = T) ~ "putative RBP",
+                            grepl("putative", category, ignore.case = T) == FALSE ~ "RBP"),
+         group5 = case_when(grepl("translational regulation", category, ignore.case = T) ~ "translational regulation",
+                            grepl("translational initiation", category, ignore.case = T) ~ "translational initiation",
+                            grepl("ribosome", category, ignore.case = T) ~ "ribosome"),
+         #grepl("splice", keyTerm, ignore.case = T) ~ "Spliceosomal complex",
+         #grepl("alternative splicing", category, ignore.case = T) ~ "Alternative splicing"),
+         group4 = case_when(grepl("stress", group,ignore.case = T) ~ "Stress response",
+                            grepl("translation|ribosome", category, ignore.case = T) ~ "Translation",
+                            grepl("mRNA transport", category, ignore.case = T) ~ "mRNA transport",
+                            grepl("mRNA stability", category, ignore.case = T) ~ "mRNA stability",
+                            grepl("polyadenylation|decapping", keyTerm, ignore.case = T) ~ "mRNA processing",
+                            grepl("mRNA processing", category, ignore.case = F) ~ "mRNA processing",
+                            grepl("mRNA sequestration", category, ignore.case = T) ~ "mRNA sequestration",
+                            category == "pre-mrna processing" ~ "pre-mRNA Transport and processing",
+                            grepl("spliceo", category, ignore.case = T) ~ "splicing",
+                            keyTerm == "mRNA splicing" ~ "splicing",
+                            keyTerm == "Alternative splicing" & keyTerm == "splicing" ~ "splicing",
+                            grepl("mRNA degradation", category) ~ "mRNA degradation",
+                            grepl("snRN", keyTerm, ignore.case = T) ~ "snRNA binding",
+                            grepl("tRNA", keyTerm, ignore.case = T) ~ "tRNA binding",
+                            grepl("rRNA", keyTerm, ignore.case = T) ~ "rRNA binding"
+         ),
+         group3 = case_when(group == "ncRNA binding" ~ "ncRNA binding",
+                            group == "mRNA binding" ~ "mRNA binding",
+                            group == "pre-mRNA binding" ~ "pre-mRNA binding",
+                            grepl("Stress response|Translation|mRNA transport|mRNA stability|mRNA sequestration|mRNA processing|mRNA degradation", group4) ~ "mRNA binding",
+                            grepl("snRNA|tRNA|rRNA", group4) ~ "ncRNA binding",
+                            grepl("pre-mRNA|splicing|alternative splicing", group4) ~ "pre-mRNA binding")) 
+
+list.putativeRBP <- t_annotationsRBP %>% dplyr::filter(category=="putative RBP") %$% gene
+
+t_annotationsRBP_processed <- t_annotationsRBP %>% 
+  dplyr::filter(!gene%in%list.putativeRBP) %>% #remove putative RBP
+  dplyr::select(gene, group1, group3, group4, group5) %>% 
+  drop_na(gene) %>% 
+  ungroup() %>% 
+  {mutate(., na_count = apply(., 1, function(x) sum(is.na(x))))} %>%
+  group_by(gene) %>% 
+  #putative RBP must not overlap with RBP annotations
+  dplyr::filter(group1==group1[nchar(group1)==max(nchar(group1))]) %>% ungroup() %>% 
+  distinct() %T>%
+  write_tsv("../data/derived_data/RBP_functionalannotations_processed.tsv")
+
+
+t_annotationsRBP_annotated <- t_annotationsRBP %>%
+  group_by(gene, group3, group4, group5) %>% summarise()  %>% 
+  right_join(t_proteomicZhao2018_RBP, by="gene")  %>%
+  gather(group3, group4, group5, key="level", value="group") %>%
+  dplyr::filter(!is.na(group)) %T>%
+  write_tsv("../data/derived_data/RBP_functionalannotations_annotated.tsv")
 ```
+
+```{r include=T, echo=FALSE, warning=F, message=F, fig.cap="\\textbf{\\label{fig:articlevennRBP}Systematic analysis of lens-expressed RBPs.} (A) Venn diagram of highly-expressed RBPs grouped in either lens epithelial or fiber cells or both. (B) Functional representativity of lens-expressed RBPs, divided with regard of target RNAs class. (C) Dotplot showing the functional classification of expressed RBPs in the lens. The tissue specificity of an RBP is indicated by a colored sign next to its name.", fig.height=9, fig.width=7}
+
+fig_barplotSA <- source("../figures/barplotSA.R")
+fig_functionalSA <- source("../figures/functionalSA.R")
+
+p <- ggplot() + theme_void() + theme(aspect.ratio = 0.6875)
+q <- ggplot() + theme_void() + theme(aspect.ratio = 0.5)
+
+
+q1 <- ggbackground(p, "../figures/vennDiagram_redblue.png") + 
+  theme(aspect.ratio = 0.6875, plot.margin = unit(rep(.4,4), "lines"))
+
+#pdf("../figures/systematicAnalysisRBP.pdf", width = 6.3, height = 7.9)
+ggarrange(ggarrange(q1,fig_barplotSA$value, ncol=2, nrow=1, widths = c(.3,.7), labels = c("A", "B")), fig_functionalSA$value , nrow=2, heights =c(.3,.7), labels = c("", "C")) 
+#dev.off()
+```
+```{r include=T, echo=FALSE, warning=F, message=F, fig.width=6.29, fig.height=2.9} 
+t_ISYTE_enrichment <- read_tsv("../data/raw_data/ISYTE_enrichment.tsv") %>% dplyr::rename(gene=Symbol)
+
+t_proteomicEnrichment <- t_ISYTE_enrichment %>%
+  gather(-gene, -Rank, key="stage", value="enrichement") %>%
+  mutate(stage=str_extract(string = stage, "E[0-9]{1,2}|P[0-9]{1,2}"), #extract stage
+         enrichement = as.numeric(enrichement)) %>%
+  group_by(gene) %>%
+  summarise(enrich_category = max(enrichement, na.rm = T)) %>%
+  mutate(enrich_category = case_when(enrich_category < 2 ~ "< 2",
+                                     enrich_category >= 2 & enrich_category < 5 ~ "[2;5[",
+                                     enrich_category >= 5 & enrich_category < 10 ~ "[5;10[",
+                                     enrich_category >= 10 & enrich_category < 50 ~ "[10;50[",
+                                     enrich_category >= 50 ~ "> 50")) %>%
+  mutate(enrich_category = factor(enrich_category, levels = c("< 2", "[2;5[", "[5;10[","[10;50[", "> 50")))%>%
+  right_join(t_annotationsRBP_figure, by="gene") %>% 
+  filter(groups %in% c("translational regulation", "mRNA degradation", "mRNA stability")) %>%
+  mutate(groups = factor(groups, levels = c("mRNA stability", "translational regulation","mRNA degradation"))) %>%
+  replace_na(list(enrich_category="NA"))
+
+listRBPinterest <- "Caprin2,Carhsp1,Celf1,Ddx39b,Fxr1,Igf2bp1,Igf2bp3,Hnrnpd,Rbm8a,Lsm5,Magohb,Pabpc1,Ptbp1,Tardbp,Rbm38,Syncrip,Tdrd7,Ybx1,Ybx3,Lsm2,Eif5a,Pdcd4,Upf1" %>% 
+  str_split(pattern = ",") %>% 
+  unlist()
+
+t_proteomicEnrichment_interest <- t_proteomicEnrichment %>% 
+  filter(gene %in% listRBPinterest) 
+
+t_proteomicEnrichment %>%
+  ggplot(aes(x=rankEpith, y=rankFibers, color=tissue, size=enrich_category, shape=tissue)) +
+  geom_point() + 
+  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="both"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#c0c0c0", shape=16, inherit.aes = F, show.legend = F) +
+    geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="epi"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#0000ff", shape=17, inherit.aes = F, show.legend = F) +
+  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="fibers"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#ff0000", shape=15, inherit.aes = F, show.legend = F) +
+  scale_size_discrete(range= c(1, 4)) +
+  xlim(c(0,NA))+ ylim(c(0,NA))+
+  scale_shape_manual(values=c(1, 2, 0), 
+                     labels=c("Both", "Lens epithelium", "Lens fibers")) +
+ geom_text_repel(data=t_proteomicEnrichment_interest, 
+                 mapping = aes(label=gene, x=rankEpith, y=rankFibers), 
+                 inherit.aes = F,# segment.alpha = .5,
+                 fontface=2, 
+                 color="black", segment.color = "black",
+                 size=2.4, box.padding =  unit(.2, "lines"), segment.size = .4, min.segment.length = unit(1, "mm"),
+                 show.legend = F, max.iter = 10000, seed=22, force = 3) + 
+                 #segment.alpha = .4,  
+                 #direction = "both", 
+                 #seed=4) +
+  scale_color_manual(values = c("epi"="#0000ff", 
+                                 "fibers" = "#ff0000",
+                                 "both" = "#c0c0c0"), 
+                     labels=c("Both","Lens epithelium", "Lens fibers")) +
+  geom_hline(yintercept=1800, color="black", lty="dotted") + 
+  geom_vline(xintercept=1800, lty="dotted")+ 
+  guides(size = guide_legend(title = "Maximum enrichment in the lens (iSyTe)", title.position = "top", title.hjust = .5), 
+         color=guide_legend(title="proteomic rank < 1800", title.position = "top", title.hjust = .5),
+         shape=guide_legend(title="proteomic rank < 1800", title.position = "top", title.hjust = .5))+  theme_gray() + 
+  ylab("proteomic rank in lens fiber cells")+ 
+  xlab("proteomic rank in lens epithelial cells") +
+  theme(panel.border = element_rect(color="black", fill = "transparent"), 
+        axis.text.x = element_text(size=7, color="black"),
+        axis.text.y = element_text(size=7, color="black", angle=90, vjust=1, hjust=.5),
+        axis.title = element_text(size=7),
+        axis.ticks = element_line(size=.3, color="black"),
+        strip.background = element_rect(color="black", fill = "white"),
+        panel.background = element_rect(fill="transparent"),
+        panel.grid = element_blank(),
+        axis.text = element_text(size=8, color="black"),
+        strip.text = element_text(face="bold", size=7), 
+        legend.position = "top",
+        legend.margin = margin(0,0,0,10, "mm"),
+        legend.spacing = unit(0, "cm"),
+        legend.direction = "horizontal",
+        legend.box = "horizontal",
+        legend.title = element_text(size=7, face = "bold"), 
+        legend.box.margin = margin(0,0,0,0,"mm"),
+        legend.key = element_blank(),
+        legend.text = element_text(size=7)) + 
+  facet_wrap(~groups, scales = "free") + theme(plot.margin = margin(.05,.12,.05,.05,"cm"))
+```
+
+```{r}
+t_annotationsRBP_figure %>% 
+  filter(is.na(tissue))
+```
+

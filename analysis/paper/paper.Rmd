@@ -1,7 +1,10 @@
 ---
 title: "Systematic Analysis of Lens-Expressed RNA-Binding Proteins"
 author: "Paul Langard"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 
@@ -10,9 +13,7 @@ output: html_document
 ```{r setup, echo = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  warning = FALSE,
-  message = FALSE,
-  echo = FALSE,
+  include=FALSE,
   comment = "#>",
   fig.path = "../figures/",
   dpi = 300

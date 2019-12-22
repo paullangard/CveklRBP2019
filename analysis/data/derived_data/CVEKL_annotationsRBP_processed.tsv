@@ -1,0 +1,808 @@
+gene	keyTerm
+Caprin2	mRNA pathway
+Caprin2	mRNA transport
+Caprin2	mRNA transport
+Tdrd7	mRNA pathway
+Tdrd7	mRNA processing
+Tdrd7	translational regulation
+Tdrd7	Stress response
+Rbm38	mRNA pathway
+Rbm38	mRNA stabilization
+Rbm38	mRNA stability
+Eif4a2	Translation
+Eif4a2	initiation of translation
+Eif4a2	initiation of translation
+Larp4	mRNA pathway
+Larp4	mRNA stabilization
+Larp4	mRNA stability
+Nudt5	Enzyme
+Nudt5	putative RNA-binding
+Nudt5	no RNA-binding
+Nudt5	enzyme in nucleotide metabolism
+Nudt5	putative RBP
+Tdrkh	Putative RNA-binding
+Tdrkh	putative RNA-binding protein
+Tdrkh	Tudor domain
+Tdrkh	putative RBP
+Tnrc6b	miRNA pathway
+Tnrc6b	RNA-binding (Cell 2012)
+Tnrc6b	binds Argonaute
+Tnrc6b	miRNA pathway
+Thumpd3	mRNA pathway
+Thumpd3	mRNA degradation (Genome Res. 2004)
+Thumpd3	mRNA degradation
+Dis3l2	miRNA pathway
+Dis3l2	surveillance pathway for non-coding RNAs
+Dis3l2	ncRNA pathway
+Larp4b	Translation
+Larp4b	RNA-binding
+Larp4b	translational regulation
+Larp4b	translational regulation
+Eif4g3	Translation
+Eif4g3	initiation of translation
+Eif4g3	initiation of translation
+Fam120a	mRNA pathway
+Fam120a	mRNA stabilization
+Fam120a	RNA-binding (Cell 2012)
+Fam120a	Oxidative stress
+Fam120a	mRNA stability
+Fam120a	Stress response
+Upf1	mRNA pathway
+Upf1	mRNA transport and mRNA surveillance
+Upf1	RNA helicase
+Upf1	mRNA transport
+Upf1	mRNA surveillance
+Upf1	RNA helicase
+Csde1	mRNA pathway
+Csde1	mRNA stabilization and translation
+Csde1	mRNA stability
+Csde1	translational regulation
+Dhx36	mRNA pathway
+Dhx36	enzyme
+Dhx36	mRNA degradation
+Dhx36	RNA helicase
+Dhx36	mRNA degradation
+Dhx36	enzyme
+Pcbp4	mRNA pathway
+Pcbp4	mRNA stabilization
+Pcbp4	binds p21 mRNA
+Pcbp4	mRNA stability
+Sf3b5	Splicing
+Sf3b5	mRNA splicing
+Sf3b5	mRNA splicing
+Larp1	mRNA pathway
+Larp1	mRNA stabilization
+Larp1	mRNA stability
+Rps11	Ribosomal protein
+Rps11	ribosomal protein
+Rps11	ribosomal protein
+Celf1	mRNA pathway
+Celf1	mRNA splicing
+Celf1	Translation
+Celf1	splicing and mRNA binding
+Celf1	mRNA splicing
+Celf1	mRNA degradation
+Celf1	mRNA stability
+Celf1	translational regulation
+Xpot	tRNA pathway
+Xpot	export of tRNAs
+Xpot	tRNA pathway
+Fbll1	rRNA pathway
+Fbll1	enzyme
+Fbll1	snRNP particle
+Fbll1	enzyme- methylase
+Fbll1	rRNA pathway
+Fbll1	enzyme
+Pdcd4	Translation
+Pdcd4	Binds eIF4A and inhibits translation
+Pdcd4	translational regulation
+Lsm2	Splicing
+Lsm2	Pre-mRNA splicing through U4/U6 snRNP formation
+Lsm2	mRNA splicing
+Raly	Splicing
+Raly	mRNA splicing
+Raly	hnRNP protein
+Raly	mRNA splicing
+Rbmxl1	Splicing
+Rbmxl1	mRNA splicing
+Rbmxl1	mRNA splicing
+Ppp1r8	mRNA pathway
+Ppp1r8	enzyme
+Ppp1r8	mRNA degradation
+Ppp1r8	phosphatase
+Ppp1r8	mRNA degradation
+Dazap1	mRNA pathway
+Dazap1	mRNA splicing
+Dazap1	splicing and protein-binding/mRNA degradation
+Dazap1	mRNA splicing
+Dazap1	mRNA degradation
+Lrpprc	mtRNA pathway
+Lrpprc	RNA-binding (Cell 2012)
+Lrpprc	mitochondria
+Lrpprc	mtRNA pathway
+Ewsr1	mRNA pathway
+Ewsr1	mRNA processing and transport
+Ewsr1	mRNA transport
+Snu13	Splicing
+Snu13	U4/U6 snRNP
+Snu13	box C/D snoRNA binding
+Snu13	mRNA splicing
+Srsf3	Splicing
+Srsf3	mRNA splicing
+Srsf3	mRNA splicing
+Tst	rRNA pathway
+Tst	enzyme
+Tst	5S rRNA-binding
+Tst	also mitochondrial enzyme
+Tst	rRNA pathway
+Tst	enzyme
+Exosc4	mRNA pathways
+Exosc4	snRNA rRNA pathways
+Exosc4	mRNA surveillance
+Exosc4	snRNA
+Exosc4	rRNA
+Exosc4	mRNA surveillance
+Exosc4	ncRNA pathway
+Exosc4	rRNA pathway
+Cavin1	rRNA pathway
+Cavin1	Pol I trascription and 3' end of pre-rRNA transcripts
+Cavin1	rRNA pathway
+Pspc1	mRNA retention
+Pspc1	RNA-binding (Cell 2012)
+Pspc1	mRNA nuclear retention
+Prkra	DsRNA-binding
+Prkra	stress response
+Prkra	oxidative stress
+Prkra	Stress response
+Sf3b6	Splicing
+Sf3b6	mRNA splicing
+Sf3b6	mRNA splicing
+Hnrnpll	mRNA pathway
+Hnrnpll	mRNA splicing
+Hnrnpll	Splicing
+Hnrnpll	mRNA binding
+Hnrnpll	mRNA splicing
+Exosc6	mRNA pathway
+Exosc6	exosome
+Exosc6	mRNA degradation
+Exosc6	exosome
+Exosc6	mRNA degradation
+Exosc6	Exosome
+U2af1	Splicing
+U2af1	mRNA splicing
+U2af1	mRNA splicing
+Exosc3	mRNA pathway
+Exosc3	exosome
+Exosc3	mRNA degradation
+Exosc3	exosome
+Exosc3	mRNA degradation
+Exosc3	Exosome
+Eif4a3	mRNA pathway
+Eif4a3	non-sense RNA mediated decay
+Eif4a3	non-sense RNA mediated decay
+Eif4a3	NMD
+Ptbp3	Splicing
+Ptbp3	mRNA splicing
+Ptbp3	mRNA splicing
+Snrnp70	Splicing
+Snrnp70	mRNA splicing
+Snrnp70	mRNA splicing
+Hnrnpul1	mRNA pathway
+Hnrnpul1	mRNA transport
+Hnrnpul1	mRNA transport
+Zranb2	Splicing
+Zranb2	RNA-binding (Cell 2012)
+Zranb2	mRNA splicing
+Zranb2	mRNA splicing
+Fmr1	mRNA pathway
+Fmr1	mRNA binding
+Fmr1	trafficking
+Fmr1	mRNA transport
+Nxf1	mRNA pathway
+Nxf1	RNA-binding (Cell 2012)
+Nxf1	mRNA transport
+Ddx42	mRNA pathway
+Ddx42	chaperone
+Ddx42	mRNA-binding (Mol Cell 2012)
+Ddx42	RNA-chaperone
+Ddx42	chaperone
+Son	mRNA pathway
+Son	mRNA splicing
+Son	splicing and mRNA binding
+Son	mRNA splicing
+Snrpb2	Splicing
+Snrpb2	mRNA splicing
+Snrpb2	mRNA splicing
+Srsf6	Splicing
+Srsf6	mRNA splicing
+Srsf6	mRNA splicing
+Nelfb	RNA-binding
+Nelfb	transcriptional pausing in elongation
+Nelfb	binds RNA
+Nelfb	transcriptional elongation
+Nelfb	Pre-mRNA processing
+Hnrnph2	mRNA pathway
+Hnrnph2	Pre-mRNA processing and transport
+Hnrnph2	Pre-mRNA transport
+Ncbp2	mRNA pathway
+Ncbp2	mRNA splicing
+Ncbp2	Pre-mRNA splicing
+Ncbp2	3'-end processing
+Ncbp2	RNA nuclear export
+Ncbp2	and nonsense-mediated mRNA decay.
+Ncbp2	mRNA splicing
+Ncbp2	mRNA transport
+Ddx21	mRNA pathway
+Ddx21	dsRNA pathway
+Ddx21	enzyme
+Ddx21	RNA helicase
+Ddx21	dsRNA-binding
+Ddx21	enzyme
+Sf1	Splicing
+Sf1	pre-mRNA splicing
+Sf1	mRNA splicing
+Rnmt	mRNA pathway
+Rnmt	mRNA caping and methylation enzyme
+Rnmt	enzyme
+Tial1	mRNA pathway
+Tial1	mRNA binding
+Tial1	Stress response
+Prpf31	Splicing
+Prpf31	mRNA splicing
+Prpf31	mRNA splicing
+Trir	Telomerase
+Trir	telomerase RNA component interacting protein
+Trir	telomerase
+Srsf9	Splicing
+Srsf9	mRNA splicing
+Srsf9	mRNA splicing
+Xpo5	dsRNA pathway
+Xpo5	nuclear export
+Xpo5	transport of small RNAs and dsRNA-binding proteins
+Xpo5	ncRNA pathway
+Nifk	RNA-binding
+Nifk	RNA-binding (Cell 2012)
+Nifk	rRNA pathway
+Srrm1	Splicing
+Srrm1	mRNA splicing
+Srrm1	mRNA splicing
+Jmjd6	Enzyme
+Jmjd6	putative RNA-binding
+Jmjd6	methylase involved in splicing
+Jmjd6	not RNA-binding
+Jmjd6	putative RBP
+Qk	Splicing
+Qk	mRNA splicing
+Qk	mRNA splicing
+Rpl12	Ribosomal protein
+Rpl12	ribosomal protein
+Rpl12	ribosomal protein
+Eif5a	Translation
+Eif5a	elongation factor of translation
+Eif5a	translational regulation
+Hnrnpk	mRNA pathway
+Hnrnpk	Pre-mRNA processing and transport
+Hnrnpk	Pre-mRNA transport
+Carhsp1	mRNA pathway
+Carhsp1	mRNA stabilization and translation
+Carhsp1	mRNA stability
+Carhsp1	translational regulation
+Carhsp1	Stress response
+Serbp1	mRNA pathway
+Serbp1	mRNA binding
+Serbp1	mRNA stability
+Rpl7	Ribosomal protein
+Rpl7	ribosomal protein
+Rpl7	ribosomal protein
+Eif4a1	Translation
+Eif4a1	initiation of translation
+Eif4a1	initiation of translation
+Hnrnpa2b1	mRNA pathway
+Hnrnpa2b1	Pre-mRNA processing and transport
+Hnrnpa2b1	binds 3'-UTR
+Hnrnpa2b1	Pre-mRNA transport
+Rps3	Ribosomal protein
+Rps3	ribosomal protein
+Rps3	ribosomal protein
+Pcbp1	mRNA pathway
+Pcbp1	mRNA stabilization and translation
+Pcbp1	mRNA stability
+Pcbp1	translational regulation
+Rpl22	Ribosomal protein
+Rpl22	ribosomal protein
+Rpl22	ribosomal protein
+Hnrnph1	mRNA pathway
+Hnrnph1	Pre-mRNA processing and transport
+Hnrnph1	Pre-mRNA transport
+Hnrnpab	mRNA pathway
+Hnrnpab	Pre-mRNA processing and transport
+Hnrnpab	Pre-mRNA transport
+Tsn	Putative RNA-binding
+Tsn	no RNA-binding
+Tsn	putative RBP
+Ncl	mRNA pathway
+Ncl	binds 3'-UTR of mRNAs
+Ncl	synthesis and maturation of ribosomes
+Ncl	ribosomal protein
+Npm1	RNA-binding
+Npm1	chaperone
+Npm1	RNA-binding (Cell 2012)
+Npm1	chaperone
+Npm1	enzyme
+Npm1	chaperone
+Npm1	rRNA pathway
+Npm1	mRNA splicing
+Rps9	RNA-binding
+Rps9	rRNA pathway
+Rps9	ribosomal protein
+Rps9	rRNA processing
+Rps9	rRNA pathway
+Tardbp	mRNA pathway
+Tardbp	mRNA stabilization and translation
+Tardbp	mRNA stability
+Tardbp	translational regulation
+Rbm3	mRNA pathway
+Rbm3	stress inducible
+Rbm3	RNA processing
+Rbm3	cold and hypoxia inducible
+Rbm3	ncRNA pathway
+Rbm3	translational regulation
+Rbm3	Stress response
+Rbm3	ribosomal protein
+Fus	mRNA pathway
+Fus	Pre-mRNA processing and transport
+Fus	Pre-mRNA transport
+Pcbp2	mRNA pathway
+Pcbp2	mRNA stabilization and translation
+Pcbp2	mRNA stability
+Pcbp2	translational regulation
+Hnrnpd	mRNA pathway
+Hnrnpd	Pre-mRNA processing and transport
+Hnrnpd	Pre-mRNA transport
+Hnrnpu	mRNA pathway
+Hnrnpu	binds 3'-UTR of mRNAs
+Hnrnpu	hnRNA
+Hnrnpu	mRNA stability
+Hnrnpu	mRNA transport
+Ybx1	RNA-binding
+Ybx1	RNA-binding (Cell 2012)
+Ybx1	cold shock domain
+Ybx1	mRNA stability
+Ybx1	mRNA transport
+Ybx1	Stress response
+Ybx1	translational regulation
+Ybx1	mRNA splicing
+Lsm3	Splicing
+Lsm3	U4/U6 snRNP
+Lsm3	mRNA splicing
+Eif4h	Translation
+Eif4h	elongation factor of translation
+Eif4h	translational regulation
+Srsf1	mRNA pathway
+Srsf1	mRNA splicing
+Srsf1	splicing and mRNA binding
+Srsf1	mRNA splicing
+Apex1	mRNA pathway
+Apex1	mRNA-binding (Mol Cell 2012)
+Apex1	Stress response
+Srsf7	mRNA pathway
+Srsf7	mRNA splicing
+Srsf7	splicing and mRNA export
+Srsf7	mRNA splicing
+Srsf7	mRNA transport
+Pabpc1	mRNA pathway
+Pabpc1	mRNA decay
+Pabpc1	mRNA degradation
+Ptbp1	mRNA pathway
+Ptbp1	mRNA splicing
+Ptbp1	mRNA splicing
+Ptbp1	mRNA binding (Cell 2012)
+Ptbp1	mRNA splicing
+G3bp1	RNA-binding
+G3bp1	RNA-binding (Cell 2012)
+G3bp1	stress granules
+G3bp1	ATP-dependent
+G3bp1	Stress response
+Rtraf	RNA-binding
+Rtraf	RNA transport
+Rtraf	multiprotein complex
+Rtraf	mRNA transport
+Rps4x	Ribosomal protein
+Rps4x	ribosomal protein
+Rps4x	ribosomal protein
+Eif2s1	Translation
+Eif2s1	initiation of translation
+Eif2s1	translational regulation
+Syncrip	mRNA pathway
+Syncrip	mRNA splicing
+Syncrip	mRNA splicing
+Syncrip	polyadenylation
+Syncrip	mRNA transport
+Syncrip	mRNA splicing
+Syncrip	mRNA stability
+Syncrip	mRNA transport
+Eif4e	Translation
+Eif4e	initiation of translation
+Eif4e	translational regulation
+Ddx39b	mRNA pathway
+Ddx39b	mRNA splicing
+Ddx39b	enzyme
+Ddx39b	splicing and mRNA export
+Ddx39b	ATP helicase
+Ddx39b	mRNA splicing
+Ddx39b	enzyme
+Ddx39b	mRNA transport
+Eif3b	Translation
+Eif3b	initiation of translation
+Eif3b	translational regulation
+Hnrnpa1	mRNA pathway
+Hnrnpa1	mRNA processing and transport
+Hnrnpa1	mRNA transport
+Hnrnpa1	mRNA splicing
+Srsf10	Splicing
+Srsf10	mRNA splicing
+Srsf10	mRNA splicing
+Ddx3x	mRNA pathway
+Ddx3x	mRNA splicing
+Ddx3x	enzyme
+Ddx3x	splicing and mRNA export
+Ddx3x	translation
+Ddx3x	ATP-dependent
+Ddx3x	mRNA splicing
+Ddx3x	mRNA transport
+Ddx3x	translational regulation
+Hnrnpl	mRNA pathway
+Hnrnpl	mRNA transport
+Hnrnpl	mRNA transport
+Hnrnpl	mRNA splicing
+Eif3g	Translation
+Eif3g	initiation of translation
+Eif3g	translational regulation
+Pa2g4	rRNA pathway
+Pa2g4	ribosome assembly
+Pa2g4	rRNA processing
+Pa2g4	rRNA pathway
+Lsm5	Splicing
+Lsm5	mRNA splicing
+Lsm5	mRNA splicing
+Hnrnpf	mRNA pathway
+Hnrnpf	mRNA splicing
+Hnrnpf	mRNA splicing
+Hnrnpf	polyadenylation
+Hnrnpf	mRNA transport
+Hnrnpf	mRNA splicing
+Hnrnpf	mRNA transport
+Caprin1	RNA-binding
+Caprin1	RNA-binding (Cell 2012)
+Caprin1	Stress response
+Fxr1	mRNA pathway
+Fxr1	mRNA binding
+Fxr1	translational regulation
+Fxr1	mRNA stability
+Hnrnpdl	mRNA pathway
+Hnrnpdl	mRNA processing and transport
+Hnrnpdl	mRNA transport
+Sfpq	Splicing
+Sfpq	mRNA splicing
+Sfpq	mRNA splicing
+Eif3a	Translation
+Eif3a	initiation of translation
+Eif3a	translational regulation
+Park7	RNA-binding
+Park7	enzyme
+Park7	RNA-binding
+Park7	peptidase
+Park7	enzyme
+Park7	Stress response
+Eprs	tRNA pathway
+Eprs	tRNA synthetase
+Eprs	binds Syncrip protein
+Eprs	tRNA pathway
+Eprs	translational regulation
+Srsf5	Splicing
+Srsf5	mRNA splicing
+Srsf5	mRNA splicing
+Eif4b	Translation
+Eif4b	initiation of translation
+Eif4b	translational regulation
+Eif3d	Translation
+Eif3d	initiation of translation
+Eif3d	translational regulation
+Lsm8	Splicing
+Lsm8	U6 snRNA-binding protein
+Lsm8	mRNA splicing
+Ddx5	RNA-binding
+Ddx5	enzyme
+Ddx5	chaperone
+Ddx5	ATP-dependent
+Ddx5	enzyme
+Ddx5	mRNA splicing
+Igf2bp3	mRNA pathway
+Igf2bp3	mRNA binding
+Igf2bp3	mRNA transport
+Igf2bp3	mRNA stability
+Igf2bp3	translational regulation
+Snrpd3	Splicing
+Snrpd3	mRNA splicing
+Snrpd3	mRNA splicing
+Impdh2	Enzyme
+Impdh2	putative RNA-binding
+Impdh2	enzyme inosine monophospate dehydrogenase
+Impdh2	putative RBP
+U2af2	Splicing
+U2af2	mRNA splicing
+U2af2	mRNA splicing
+Aimp1	tRNA pathway
+Aimp1	tRNA binding
+Aimp1	cytokine induced by apoptosis
+Aimp1	tRNA pathway
+Elavl1	mRNA pathway
+Elavl1	3'-UTR mRNA stabilization
+Elavl1	mRNA stability
+Elavl1	translational regulation
+Yars	tRNA pathway
+Yars	enzyme
+Yars	tyrosyl tRNA synthetase
+Yars	tRNA pathway
+Matr3	mRNA pathway
+Matr3	mRNA stabilization
+Matr3	mRNA stability
+Hnrnpa0	mRNA pathway
+Hnrnpa0	3'-UTR mRNA stabilization
+Hnrnpa0	mRNA stability
+Ybx3	mRNA pathway
+Ybx3	3'-UTR mRNA stabilization
+Ybx3	stress response
+Ybx3	mRNA stability
+Ybx3	Stress response
+Eif4g1	Translation
+Eif4g1	initiation of translation
+Eif4g1	translational regulation
+Cryz	mRNA pathway
+Cryz	mRNA binding (AU-rich)
+Cryz	mRNA stability
+Cirbp	mRNA pathway
+Cirbp	stress inducible
+Cirbp	3'-UTR mRNA stabilization
+Cirbp	cold inducible
+Cirbp	mRNA stability
+Cirbp	Stress response
+Pabpn1	mRNA pathway
+Pabpn1	poly(A) binding
+Pabpn1	nuclear
+Pabpn1	mRNA degradation
+Pabpn1	mRNA transport
+Nhp2	rRNA pathway
+Nhp2	rRNA processing
+Nhp2	H/ACA snoRNPs
+Nhp2	rRNA pathway
+Nhp2	ncRNA pathway
+Aars	tRNA pathway
+Aars	enzyme
+Aars	tRNA synthetase
+Aars	tRNA pathway
+Aars	translational regulation
+Msi1	RNA-binding
+Msi1	RNA-binding protein (Mol Cell 2012)
+Msi1	tissue-restricted
+Msi1	translational regulation
+Igf2bp1	mRNA pathway
+Igf2bp1	3'-UTR mRNA stabilization
+Igf2bp1	tissue-restricted
+Igf2bp1	mRNA stability
+Hnrnpm	Splicing
+Hnrnpm	mRNA splicing
+Hnrnpm	oxidative stress
+Hnrnpm	mRNA splicing
+Hnrnpm	Stress response
+Hnrnpm	mRNA stability
+Srp14	rRNA pathway
+Srp14	rRNA binding
+Srp14	ER and membrane targeting
+Srp14	rRNA pathway
+Ssb	tRNA pathway
+Ssb	protection of Pol III transcripts
+Ssb	mRNA stability
+Ssb	IRES-mediated translation
+Rpl5	Ribosomal protein
+Rpl5	ribosomal protein
+Rpl5	ribosomal protein
+Khdrbs1	Splicing
+Khdrbs1	mRNA splicing
+Khdrbs1	mRNA splicing
+Khdrbs1	mRNA transport
+Alyref	mRNA pathway
+Alyref	chaperone
+Alyref	mRNA binding
+Alyref	export
+Alyref	molecular chaperone
+Alyref	mRNA transport
+Alyref	chaperone
+Nudt21	mRNA pathway
+Nudt21	mRNA processing and polyadenylation
+Nudt21	Pre-mRNA processing
+Snrpe	Splicing
+Snrpe	mRNA splicing
+Snrpe	mRNA splicing
+Magohb	Splicing
+Magohb	mRNA splicing
+Magohb	mRNA splicing
+Ddx1	mRNA splicing
+Ddx1	enzyme
+Ddx1	mRNA splicing
+Ddx1	ATP helicase
+Ddx1	mRNA splicing
+Ddx1	enzyme
+Khsrp	mRNA pathway
+Khsrp	mRNA splicing
+Khsrp	splicing and mRNA binding
+Khsrp	mRNA splicing
+Khsrp	mRNA degradation
+Puf60	Splicing
+Puf60	mRNA splicing
+Puf60	mRNA splicing
+Xpo1	snRNA pathway
+Xpo1	nuclear export of snRNAs
+Xpo1	ncRNA pathway
+Safb	RNA-binding
+Safb	RNA-binding (Cell 2012)
+Safb	binds many HNRNP proteins
+Safb	ncRNA pathway
+Safb	Stress response
+Igf2bp2	mRNA pathway
+Igf2bp2	5'-UTR mRNA binding
+Igf2bp2	binds ELAVs
+Igf2bp2	mRNA transport
+Igf2bp2	mRNA stability
+Igf2bp2	translational regulation
+Rbm8a	mRNA pathway
+Rbm8a	nuclear mRNA binding and export
+Rbm8a	NMD
+Rbm8a	mRNA transport
+Rbm8a	mRNA splicing
+Hnrnpc	mRNA pathway
+Hnrnpc	Pre-mRNA processing and transport
+Hnrnpc	Pre-mRNA processing
+Hnrnpc	Pre-mRNA transport
+Nsun2	tRNA pathway
+Nsun2	enzyme
+Nsun2	tRNA methyltransferase
+Nsun2	tRNA pathway
+Rnps1	mRNA pathway
+Rnps1	non-sense RNA mediated decay
+Rnps1	mRNA nuclear export and surveillance- nonsense mediated decay
+Rnps1	mRNA transport
+Rnps1	NMD
+Rnps1	mRNA splicing
+Hdlbp	RNA-binding
+Hdlbp	RNA-binding (Cell 2012)
+Hdlbp	mRNA transport
+Hdlbp	mRNA stability
+Hdlbp	translational regulation
+Dhx9	mRNA pathway
+Dhx9	mRNA binding
+Dhx9	ATP helicase
+Dhx9	c-myc mRNA stability
+Dhx9	mRNA stability
+Dhx9	Stress response
+Myef2	RNA-binding
+Myef2	RNA-binding protein (Mol Cell 2012)
+Myef2	high in brain
+Myef2	mRNA stability
+Myef2	Stress response
+Ddx19a	RNA-binding
+Ddx19a	enzyme
+Ddx19a	ATP helicase
+Ddx19a	enzyme
+Snrpa1	Splicing
+Snrpa1	mRNA splicing
+Snrpa1	mRNA splicing
+G3bp2	Translation
+G3bp2	regulation of translation with G3bp1 and Caprin1
+G3bp2	translational regulation
+Aco1	mRNA pathway
+Aco1	5'-UTR mRNA binding
+Aco1	regulation of ferritin mRNA
+Aco1	enzyme-aconitase
+Aco1	enzyme
+Aco1	mRNA stability
+Aco1	translational regulation
+Rbm39	Splicing
+Rbm39	mRNA splicing
+Rbm39	mRNA splicing
+Fbl	rRNA pathway
+Fbl	enzyme
+Fbl	snRNP component
+Fbl	enzyme: methyltransferase
+Fbl	rRNA pathway
+Fbl	enzyme
+Ilf3	mRNA pathway
+Ilf3	mRNA stabilization and cellular distribution
+Ilf3	binds also dsRNA
+Ilf3	mRNA stability
+Ilf3	translational regulation
+Ilf3	mRNA transport
+Ppie	mRNA pathway
+Ppie	mRNA splicing
+Ppie	mRNA splicing
+Ppie	poly(A) mRNA binding
+Ppie	chaperone
+Ppie	mRNA splicing
+Ppie	chaperone
+Ddx6	mRNA pathway
+Ddx6	enzyme
+Ddx6	mRNA degradation
+Ddx6	ATP helicase
+Ddx6	required for miRNA-mediated silencing
+Ddx6	mRNA degradation
+Ddx6	Helicase
+Snrpc	Splicing
+Snrpc	mRNA splicing
+Snrpc	snRNP particle
+Snrpc	mRNA splicing
+Mars	tRNA pathway
+Mars	enzyme
+Mars	tRNA synthetase
+Mars	tRNA pathway
+Ddx17	Splicing
+Ddx17	miRNA pathway
+Ddx17	enzyme
+Ddx17	ATP helicase
+Ddx17	transcription
+Ddx17	mRNA splicing
+Ddx17	mIRNAs
+Ddx17	mRNA splicing
+Ddx17	Helicase
+Srp19	signal recognition particle; binding to ribosomes
+Srp19	subunit of signal recognition particle (SRP)
+Srp19	mRNA transport
+Sf3b4	Splicing
+Sf3b4	mRNA splicing
+Sf3b4	mRNA splicing
+Nudt16l1	mRNA pathway
+Nudt16l1	RNA-binding protein (Mol Cell 2012)
+Nudt16l1	RNA decapping enzyme
+Nudt16l1	mRNA degradation
+Fip1l1	mRNA pathway
+Fip1l1	mRNA cleveage and polyadenylation
+Fip1l1	Pre-mRNA processing
+Nono	RNA-binding
+Nono	mRNA splicing
+Nono	RNA-binding (Cell 2012)
+Nono	transcription
+Nono	mRNA splicing
+Nono	mRNA splicing
+Dkc1	Telomerase
+Dkc1	enzyme
+Dkc1	snoRNP
+Dkc1	telomerase
+Dkc1	enzyme:pseudouridine synthase
+Dkc1	rRNA pathway
+Dkc1	snRNA pathway
+Trove2 (official: Ro60)	RNA-binding
+Trove2 (official: Ro60)	RNA-binding protein
+Trove2 (official: Ro60)	Alu transcripts
+Trove2 (official: Ro60)	ncRNA pathway
+Sart3	Splicing
+Sart3	mRNA splicing
+Sart3	U4/U6 recycling protein
+Sart3	mRNA splicing
+Sf3b1	Splicing
+Sf3b1	mRNA splicing
+Sf3b1	mRNA splicing
+Prpf8	Splicing
+Prpf8	splicing (retinal degeneration and glaucoma)
+Prpf8	mRNA splicing
+Cdc5l	Splicing
+Cdc5l	mRNA splicing
+Cdc5l	mRNA splicing
+Cstf2t	mRNA pathway
+Cstf2t	mRNA cleveage and polyadenylation
+Cstf2t	Pre-mRNA processing
+Srsf2	Splicing
+Srsf2	mRNA splicing
+Srsf2	RNA binding (Mol Cell 2012)
+Srsf2	mRNA splicing
+Rpl8	Ribosomal protein
+Rpl8	ribosomal protein
+Rpl8	ribosomal protein
