@@ -14,37 +14,24 @@ proteomicRanking.cutoff <- 1800
 ```{r importDatasets-SA, include=F, cache=T}
 #import from package data, data wrangling scripts are in data-raw
 t_transcriptomicZhao2018 <- CveklRBP2019::t_transcriptomicZhao2018
-t_proteomicZhao2018 <- CveklRBP2019::t_proteomicZhao2018
+t_proteomicZhao2018 <- CveklRBP2019::t_proteomicZhao2018 %>%
+  rename(gene=GeneNames)
 ```
 
 ```{r filterRBP-SA, cache=T}
 #import proteomic dataset
-t_proteomicZhao2018_RBP <- t_proteomicZhao2018 %>% 
-  #filter for RNA-binding proteins
-  filter_all(any_vars(str_detect(., pattern = "RNA-binding"))) %>%
-  #exclude wrongly annotated RBP (manual exclusion)
-  filter(!GeneNames %in% c('Tsn','Impdh2','Nudt5','Tdrkh','Trir','Jmjd6','Ro60', "Trove2")) %>%
-  filter(rankEpith < 1800 | rankFibers < 1800) %>%
-  mutate(tissue = case_when(
-    #define gene as epi, fiber or both if it passed the threshold in one or two tissues
-    (rankEpith < 1800 & rankFibers >= 1800) ~ "epi",
-    (rankEpith >= 1800 & rankFibers < 1800) ~ "fibers",
-    (rankEpith < 1800 & rankFibers < 1800) ~ "both"
-  )) %>% 
-  dplyr::select(gene=GeneNames, starts_with("rank"), tissue) %T>%
-  write_tsv("../data/derived_data/proteomicZhao2018_RBP.tsv")
+t_proteomicZhao2018_RBP <- read_rds("../data/derived_data/t_proteomicZhao2018_RBP.rds")
 ```
-
 
 ```{r functionalanalysis}
 ###########################################################
 #import DAVID annotations
 ###########################################################
-t_DAVID_annotationsRBP <- read_tsv("../data/raw_data/DAVID_annotationsRBP.tsv") %>%
+t_DAVID_annotationsRBP <- read_tsv("../data/raw_data/functionalanalysis/DAVID_annotations.tsv") %>%
   #select all annotations columns
-  dplyr::select(ID, UP_KEYWORDS, starts_with("GO"), starts_with("KEGG"), BIOCARTA) %>%
+  dplyr::select(ID, UP_KEYWORDS, starts_with("GO"), starts_with("KEGG")) %>%
   #gather all columns in one
-  unite(col = "KEYWORDS", UP_KEYWORDS, BIOCARTA, KEGG_PATHWAY, starts_with("GOTERM"), sep="") %>%
+  unite(col = "KEYWORDS", UP_KEYWORDS, KEGG_PATHWAY, starts_with("GOTERM"), sep="") %>%
   #transform table so that one row = one gene and one keyword
   separate_rows(KEYWORDS, sep=",") %>%
   #clean table
@@ -58,7 +45,7 @@ t_DAVID_annotationsRBP <- read_tsv("../data/raw_data/DAVID_annotationsRBP.tsv") 
 #import Home annotations
 ###########################################################
 
-t_CVEKL_annotationsRBP <- read_tsv("../data/raw_data/CVEKL_annotationsRBP.tsv",
+t_CVEKL_annotationsRBP <- read_tsv("../data/raw_data/functionalanalysis/CVEKL_annotationsRBP.tsv",
   col_types = "cccc",
   col_names = c("gene", "groups", "subgroups", "category"),
   skip=1)  %>% 
@@ -72,7 +59,7 @@ t_CVEKL_annotationsRBP <- read_tsv("../data/raw_data/CVEKL_annotationsRBP.tsv",
 ###########################################################
 #compile annotations
 ###########################################################
-t_functionalGridRBP <- read_tsv("../data/raw_data/RBP_functionalannotationsGrid.tsv")
+t_functionalGridRBP <- read_tsv("../data/raw_data/functionalanalysis/RBP_functionalannotationsGrid.tsv")
 
 t_annotationsRBP <- bind_rows(t_DAVID_annotationsRBP, t_CVEKL_annotationsRBP) %>%
   #process our annotations table through the grid
@@ -142,9 +129,12 @@ t_annotationsRBP_annotated <- t_annotationsRBP %>%
   gather(group3, group4, group5, key="level", value="group") %>%
   dplyr::filter(!is.na(group)) %T>%
   write_tsv("../data/derived_data/RBP_functionalannotations_annotated.tsv")
+
 ```
 
-```{r include=T, echo=FALSE, warning=F, message=F, fig.cap="\\textbf{\\label{fig:articlevennRBP}Systematic analysis of lens-expressed RBPs.} (A) Venn diagram of highly-expressed RBPs grouped in either lens epithelial or fiber cells or both. (B) Functional representativity of lens-expressed RBPs, divided with regard of target RNAs class. (C) Dotplot showing the functional classification of expressed RBPs in the lens. The tissue specificity of an RBP is indicated by a colored sign next to its name.", fig.height=9, fig.width=7}
+
+
+```{r figSystematic, include=T, echo=FALSE, warning=F, message=F, fig.cap="\\textbf{\\label{fig:articlevennRBP}Systematic analysis of lens-expressed RBPs.} (A) Venn diagram of highly-expressed RBPs grouped in either lens epithelial or fiber cells or both. (B) Functional representativity of lens-expressed RBPs, divided with regard of target RNAs class. (C) Dotplot showing the functional classification of expressed RBPs in the lens. The tissue specificity of an RBP is indicated by a colored sign next to its name.", fig.height=9, fig.width=7}
 
 fig_barplotSA <- source("../figures/barplotSA.R")
 fig_functionalSA <- source("../figures/functionalSA.R")
@@ -160,8 +150,10 @@ q1 <- ggbackground(p, "../figures/vennDiagram_redblue.png") +
 ggarrange(ggarrange(q1,fig_barplotSA$value, ncol=2, nrow=1, widths = c(.3,.7), labels = c("A", "B")), fig_functionalSA$value , nrow=2, heights =c(.3,.7), labels = c("", "C")) 
 #dev.off()
 ```
-```{r include=T, echo=FALSE, warning=F, message=F, fig.width=6.29, fig.height=2.9} 
-t_ISYTE_enrichment <- read_tsv("../data/raw_data/ISYTE_enrichment.tsv") %>% dplyr::rename(gene=Symbol)
+
+```{r functionalFigure, include=T, fig.width=6.29, fig.height=2.9} 
+
+t_ISYTE_enrichment <- read_tsv("../data/raw_data/functionalanalysis/ISYTE_enrichment.tsv") %>% dplyr::rename(gene=Symbol)
 
 t_proteomicEnrichment <- t_ISYTE_enrichment %>%
   gather(-gene, -Rank, key="stage", value="enrichement") %>%
@@ -190,23 +182,33 @@ t_proteomicEnrichment_interest <- t_proteomicEnrichment %>%
 t_proteomicEnrichment %>%
   ggplot(aes(x=rankEpith, y=rankFibers, color=tissue, size=enrich_category, shape=tissue)) +
   geom_point() + 
-  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="both"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#c0c0c0", shape=16, inherit.aes = F, show.legend = F) +
-    geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="epi"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#0000ff", shape=17, inherit.aes = F, show.legend = F) +
-  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="fibers"), mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), color="#ff0000", shape=15, inherit.aes = F, show.legend = F) +
+  geom_point(data = filter(t_proteomicEnrichment_interest, tissue=="both"), 
+             mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), 
+             color="#c0c0c0", shape=16, inherit.aes = F, show.legend = F) +
+  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="epi"), 
+             mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), 
+             color="#0000ff", shape=17, inherit.aes = F, show.legend = F) +
+  geom_point(data=filter(t_proteomicEnrichment_interest, tissue=="fibers"), 
+             mapping = aes(x=rankEpith, y=rankFibers, size=enrich_category), 
+             color="#ff0000", shape=15, inherit.aes = F, show.legend = F) +
   scale_size_discrete(range= c(1, 4)) +
   xlim(c(0,NA))+ ylim(c(0,NA))+
   scale_shape_manual(values=c(1, 2, 0), 
                      labels=c("Both", "Lens epithelium", "Lens fibers")) +
- geom_text_repel(data=t_proteomicEnrichment_interest, 
+ geom_text_repel(data = t_proteomicEnrichment_interest, 
                  mapping = aes(label=gene, x=rankEpith, y=rankFibers), 
-                 inherit.aes = F,# segment.alpha = .5,
-                 fontface=2, 
-                 color="black", segment.color = "black",
-                 size=2.4, box.padding =  unit(.2, "lines"), segment.size = .4, min.segment.length = unit(1, "mm"),
-                 show.legend = F, max.iter = 10000, seed=22, force = 3) + 
-                 #segment.alpha = .4,  
-                 #direction = "both", 
-                 #seed=4) +
+                 inherit.aes = F,
+                 fontface = 2, 
+                 color = "black", 
+                 segment.color = "black",
+                 size = 2.4, 
+                 box.padding =  unit(.2, "lines"), 
+                 segment.size = .4, 
+                 min.segment.length = unit(1, "mm"),
+                 show.legend = F, 
+                 max.iter = 10000, 
+                 seed = 22, 
+                 force = 3) + 
   scale_color_manual(values = c("epi"="#0000ff", 
                                  "fibers" = "#ff0000",
                                  "both" = "#c0c0c0"), 
@@ -237,11 +239,8 @@ t_proteomicEnrichment %>%
         legend.box.margin = margin(0,0,0,0,"mm"),
         legend.key = element_blank(),
         legend.text = element_text(size=7)) + 
-  facet_wrap(~groups, scales = "free") + theme(plot.margin = margin(.05,.12,.05,.05,"cm"))
+  facet_wrap(~groups, scales = "free") + 
+  theme(plot.margin = margin(.05,.12,.05,.05,"cm"))
 ```
 
-```{r}
-t_annotationsRBP_figure %>% 
-  filter(is.na(tissue))
-```
 

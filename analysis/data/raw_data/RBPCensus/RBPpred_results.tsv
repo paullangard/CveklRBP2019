@@ -1,0 +1,2605 @@
+Sequence name	SVM score	Prediction
+Rtcb 1	1.21	RNA-binding protein
+Fxr1 1	2.25	RNA-binding protein
+Kpnb1 1	0.84	RNA-binding protein
+Pabpc1 1	2.23	RNA-binding protein
+Ddx3x 1	0.87	RNA-binding protein
+Tpd52l2 1	2.10	RNA-binding protein
+Ilf2 1	1.07	RNA-binding protein
+S100a4 1	-0.01	RNA-binding protein
+Snd1 1	1.51	RNA-binding protein
+Ckb 1	0.91	RNA-binding protein
+Uba1 1	0.96	RNA-binding protein
+Rpl13 1	2.43	RNA-binding protein
+Cct3 1	0.86	RNA-binding protein
+Rpl10 1	2.75	RNA-binding protein
+Prkcsh 1	1.53	RNA-binding protein
+Eif3g 1	1.80	RNA-binding protein
+Hdgf 1	2.01	RNA-binding protein
+Calr 1	0.16	RNA-binding protein
+Hspb1 1	-0.05	RNA-binding protein
+Trim28 1	1.86	RNA-binding protein
+Rps9 1	3.23	RNA-binding protein
+Cstb 1	1.59	RNA-binding protein
+Sptbn1 1	0.57	RNA-binding protein
+Gars 1	1.24	RNA-binding protein
+Slc3a2 1	-0.69	Non RNA-binding protein
+Cs 1	-0.15	RNA-binding protein
+Crkl 1	1.32	RNA-binding protein
+U2af2 1	2.15	RNA-binding protein
+Ldha 1	0.81	RNA-binding protein
+Rps5 1	1.13	RNA-binding protein
+Srp14 1	2.58	RNA-binding protein
+Clic1 1	0.46	RNA-binding protein
+Carhsp1 1	1.13	RNA-binding protein
+Cand1 1	0.63	RNA-binding protein
+Pfn1 1	-1.27	Non RNA-binding protein
+Hspa4 1	1.32	RNA-binding protein
+Rpl19 1	2.47	RNA-binding protein
+Cars 1	1.22	RNA-binding protein
+Lta4h 1	-0.27	Non RNA-binding protein
+G3bp1 1	2.90	RNA-binding protein
+Lrrc59 1	2.97	RNA-binding protein
+Ubb 1	0.86	RNA-binding protein
+Hspa8 1	1.06	RNA-binding protein
+Surf4 1	-5.69	Non RNA-binding protein
+Snrpd3 1	2.79	RNA-binding protein
+Dync1h1 1	0.86	RNA-binding protein
+Canx 1	0.33	RNA-binding protein
+Erh 1	0.45	RNA-binding protein
+Mdh2 1	0.44	RNA-binding protein
+Myh9 1	0.34	RNA-binding protein
+Cct4 1	1.24	RNA-binding protein
+Psma6 1	-0.67	Non RNA-binding protein
+Pgam1 1	0.43	RNA-binding protein
+Hnrnpd 1	2.84	RNA-binding protein
+Actn1 1	0.77	RNA-binding protein
+Rars 1	1.11	RNA-binding protein
+Nme1 1	1.78	RNA-binding protein
+Ddx5 1	1.25	RNA-binding protein
+Fkbp3 1	0.87	RNA-binding protein
+Hsp90b1 1	-0.03	RNA-binding protein
+Prdx4 1	-1.12	Non RNA-binding protein
+Atp5o 1	1.94	RNA-binding protein
+Vim 1	-0.01	RNA-binding protein
+Cct6a 1	1.23	RNA-binding protein
+Anxa1 1	1.13	RNA-binding protein
+Fkbp4 1	0.96	RNA-binding protein
+Sfpq 1	2.88	RNA-binding protein
+Atp5a1 1	1.50	RNA-binding protein
+Eif4a2 1	0.51	RNA-binding protein
+Eif3e 1	0.05	RNA-binding protein
+Eif4e 1	-0.33	Non RNA-binding protein
+Rpl24 1	3.74	RNA-binding protein
+Ipo5 1	0.85	RNA-binding protein
+Dars 1	1.42	RNA-binding protein
+Park7 1	1.31	RNA-binding protein
+Btf3 1	2.03	RNA-binding protein
+P4hb 1	-0.57	Non RNA-binding protein
+Rps10 1	0.27	RNA-binding protein
+Gart 1	0.72	RNA-binding protein
+Etf1 1	0.72	RNA-binding protein
+Nars 1	0.99	RNA-binding protein
+Rps14 1	2.20	RNA-binding protein
+Rps26 1	0.79	RNA-binding protein
+Rbm38 1	-0.08	RNA-binding protein
+Sub1 1	-0.45	Non RNA-binding protein
+Hsp90aa1 1	-0.08	RNA-binding protein
+Plec 1	0.29	RNA-binding protein
+Rpn1 1	0.51	RNA-binding protein
+Hspd1 1	1.20	RNA-binding protein
+Cct7 1	1.26	RNA-binding protein
+Eif5b 1	0.80	RNA-binding protein
+Vdac2 1	-2.35	Non RNA-binding protein
+Rpl6 1	2.88	RNA-binding protein
+Hsd17b10 1	0.86	RNA-binding protein
+Ywhaz 1	0.18	RNA-binding protein
+Rps4x 1	-0.11	RNA-binding protein
+Rps3 1	1.76	RNA-binding protein
+Fscn1 1	-0.45	Non RNA-binding protein
+Atp5b 1	0.65	RNA-binding protein
+Hspa5 1	1.35	RNA-binding protein
+Pdap1 1	0.30	RNA-binding protein
+Vcp 1	1.93	RNA-binding protein
+Ncl 1	2.20	RNA-binding protein
+Atp2a2 1	-0.14	RNA-binding protein
+Mapre1 1	1.62	RNA-binding protein
+Cnbp 1	0.56	RNA-binding protein
+Cct8 1	0.76	RNA-binding protein
+Aimp1 1	1.42	RNA-binding protein
+Ran 1	0.74	RNA-binding protein
+Ybx3 1	2.08	RNA-binding protein
+Tsn 1	-0.83	Non RNA-binding protein
+Pdia3 1	0.74	RNA-binding protein
+Hspa9 1	1.54	RNA-binding protein
+Igf2bp3 1	1.88	RNA-binding protein
+Prdx5 1	-0.26	Non RNA-binding protein
+Tkt 1	0.51	RNA-binding protein
+Caprin1 1	1.00	RNA-binding protein
+Prdx1 1	-0.81	Non RNA-binding protein
+Anxa5 1	-0.25	Non RNA-binding protein
+Aldoa 1	0.97	RNA-binding protein
+Eif3c 1	1.04	RNA-binding protein
+Eif3a 1	0.90	RNA-binding protein
+Atic 1	0.33	RNA-binding protein
+Stip1 1	1.80	RNA-binding protein
+Hsp90ab1 1	0.42	RNA-binding protein
+Prpf19 1	-0.23	Non RNA-binding protein
+Psmc1 1	1.88	RNA-binding protein
+Paics 1	0.45	RNA-binding protein
+Pa2g4 1	1.60	RNA-binding protein
+Cct5 1	1.43	RNA-binding protein
+Srsf7 1	1.78	RNA-binding protein
+Ybx1 1	2.34	RNA-binding protein
+Rps27l 1	1.84	RNA-binding protein
+Psmd4 1	2.06	RNA-binding protein
+Eif5 1	1.23	RNA-binding protein
+Ppib 1	0.50	RNA-binding protein
+Eif3l 1	0.02	RNA-binding protein
+Eef2 1	1.19	RNA-binding protein
+Rpl27 1	2.42	RNA-binding protein
+Dync1li1 1	1.27	RNA-binding protein
+Eif4g1 1	1.96	RNA-binding protein
+Phgdh 1	0.50	RNA-binding protein
+Eif4h 1	2.43	RNA-binding protein
+C1qbp 1	1.02	RNA-binding protein
+Tardbp 1	1.25	RNA-binding protein
+Rps25 1	0.54	RNA-binding protein
+Mtch2 1	-5.57	Non RNA-binding protein
+Cbr1 1	1.84	RNA-binding protein
+Hnrnpa1 1	0.81	RNA-binding protein
+Gm6793 1	-5.57	Non RNA-binding protein
+Pabpc6 1	1.76	RNA-binding protein
+Nap1l4 1	1.02	RNA-binding protein
+Hist1h1c 1	0.39	RNA-binding protein
+Rps2 1	0.27	RNA-binding protein
+Rpl18a 1	1.57	RNA-binding protein
+Rpl36 1	3.59	RNA-binding protein
+Caprin2 1	1.85	RNA-binding protein
+Pebp1 1	0.31	RNA-binding protein
+Rpl9 1	2.15	RNA-binding protein
+Fus 1	0.37	RNA-binding protein
+Eif4a2 2	0.51	RNA-binding protein
+Hnrnpu 1	2.73	RNA-binding protein
+Rpsa 1	-0.60	Non RNA-binding protein
+Sptan1 1	0.73	RNA-binding protein
+Arf3 1	-0.26	Non RNA-binding protein
+Syncrip 1	1.99	RNA-binding protein
+Hnrnpab 1	3.07	RNA-binding protein
+Eno1 1	1.44	RNA-binding protein
+Gm8973 1	-5.57	Non RNA-binding protein
+Rps15 1	2.52	RNA-binding protein
+Rps21 1	1.31	RNA-binding protein
+Srsf1 1	1.48	RNA-binding protein
+Ahcy 1	-0.35	Non RNA-binding protein
+Atp1a1 1	-0.10	RNA-binding protein
+Rtn4 1	-0.78	Non RNA-binding protein
+Pcbp2 1	0.96	RNA-binding protein
+Plec 2	0.28	RNA-binding protein
+Csl 1	-0.06	RNA-binding protein
+Ddx19b 1	1.73	RNA-binding protein
+Npm1 1	1.39	RNA-binding protein
+Pura 1	1.95	RNA-binding protein
+Plec 3	0.37	RNA-binding protein
+Pcbp1 1	0.87	RNA-binding protein
+Plec 4	0.28	RNA-binding protein
+Iars 1	0.13	RNA-binding protein
+Eif2s1 1	1.20	RNA-binding protein
+Tpd52l2 2	1.99	RNA-binding protein
+Eif5a 1	0.91	RNA-binding protein
+Prdx6 1	-0.14	RNA-binding protein
+Prmt1 1	-1.49	Non RNA-binding protein
+Rpl22l1 1	0.88	RNA-binding protein
+Fasn 1	-0.01	RNA-binding protein
+Cotl1 1	-1.66	Non RNA-binding protein
+Ckap4 1	0.92	RNA-binding protein
+Rpl17 1	2.50	RNA-binding protein
+Ctnna1 1	1.78	RNA-binding protein
+Nap1l1 1	0.34	RNA-binding protein
+Ddx19a 1	1.59	RNA-binding protein
+Ddx39b 1	1.45	RNA-binding protein
+Gapdh 1	-0.04	RNA-binding protein
+Actn4 1	1.05	RNA-binding protein
+Plec 5	0.38	RNA-binding protein
+Hnrnpd 2	2.96	RNA-binding protein
+Aldoart1 1	0.89	RNA-binding protein
+Hyou1 1	1.85	RNA-binding protein
+D1Pas1 1	0.89	RNA-binding protein
+Arf1 1	-0.34	Non RNA-binding protein
+Rtn4 2	-1.50	Non RNA-binding protein
+Ywhae 1	0.29	RNA-binding protein
+Cltc 1	0.87	RNA-binding protein
+Farsb 1	0.13	RNA-binding protein
+Rpl18 1	3.11	RNA-binding protein
+Ywhag 1	0.17	RNA-binding protein
+Eif4g1 2	1.96	RNA-binding protein
+Map4 1	2.41	RNA-binding protein
+Rpl27a 1	-5.57	Non RNA-binding protein
+Eprs 1	1.12	RNA-binding protein
+Aars 1	1.09	RNA-binding protein
+Hnrnph1 1	0.51	RNA-binding protein
+Gdi2 1	0.46	RNA-binding protein
+Ezr 1	0.65	RNA-binding protein
+Tubb4b 1	0.22	RNA-binding protein
+Hnrnph1 2	0.65	RNA-binding protein
+Msi1 1	0.39	RNA-binding protein
+Rps17 1	2.16	RNA-binding protein
+Tbca 1	-3.44	Non RNA-binding protein
+Flna 1	1.39	RNA-binding protein
+Rps12 1	0.40	RNA-binding protein
+Rbm8a 1	2.40	RNA-binding protein
+Rbbp7 1	-0.22	Non RNA-binding protein
+Cct2 1	0.52	RNA-binding protein
+Rbm3 1	-0.39	Non RNA-binding protein
+Ddx19b 2	2.16	RNA-binding protein
+Eif2s3x 1	1.10	RNA-binding protein
+Lsm3 1	2.29	RNA-binding protein
+Eef1g 1	-0.12	RNA-binding protein
+Pkm 1	1.03	RNA-binding protein
+Hnrnpk 1	1.61	RNA-binding protein
+Glrx3 1	0.56	RNA-binding protein
+Plec 6	0.27	RNA-binding protein
+Hist1h1d 1	0.45	RNA-binding protein
+Phb 1	0.71	RNA-binding protein
+Hnrnpa2b1 1	1.84	RNA-binding protein
+Manf 1	-0.47	Non RNA-binding protein
+Rpl4 1	2.37	RNA-binding protein
+Rpl10a 1	2.76	RNA-binding protein
+Plec 7	0.28	RNA-binding protein
+Rps15 2	1.79	RNA-binding protein
+Prdx6 2	-0.22	Non RNA-binding protein
+Fus 2	-6.39	Non RNA-binding protein
+Lsm8 1	1.12	RNA-binding protein
+Rpl15 1	1.47	RNA-binding protein
+Hspe1 1	0.78	RNA-binding protein
+Rpl7 1	2.72	RNA-binding protein
+Gspt1 1	2.40	RNA-binding protein
+Dars 2	-0.38	Non RNA-binding protein
+Got2 1	0.77	RNA-binding protein
+Pdia6 1	0.10	RNA-binding protein
+Eef1a1 1	0.72	RNA-binding protein
+Cap1 1	1.79	RNA-binding protein
+Tuba1b 1	-0.29	Non RNA-binding protein
+Apex1 1	0.85	RNA-binding protein
+Pdia4 1	0.19	RNA-binding protein
+Strap 1	-0.73	Non RNA-binding protein
+Anxa2 1	0.62	RNA-binding protein
+Rpl38 1	0.13	RNA-binding protein
+Hist1h1e 1	0.71	RNA-binding protein
+Serbp1 1	3.97	RNA-binding protein
+Ptbp1 1	1.43	RNA-binding protein
+Flna 2	-5.57	Non RNA-binding protein
+Cnbp 2	-5.57	Non RNA-binding protein
+Ldha 2	-5.57	Non RNA-binding protein
+Caprin1 2	-5.57	Non RNA-binding protein
+Ldha 3	-0.66	Non RNA-binding protein
+Atp5a1 2	1.48	RNA-binding protein
+Uba52 1	2.17	RNA-binding protein
+Ddx5 2	1.80	RNA-binding protein
+Ywhag 2	-5.57	Non RNA-binding protein
+Eif4a2 3	0.50	RNA-binding protein
+Myh9 2	-5.57	Non RNA-binding protein
+Eno1 2	-5.57	Non RNA-binding protein
+Eef1a1 2	-5.57	Non RNA-binding protein
+Pcbp2 2	0.82	RNA-binding protein
+Tcp1 1	-5.57	Non RNA-binding protein
+Hnrnph1 3	-5.57	Non RNA-binding protein
+Aars 2	-5.57	Non RNA-binding protein
+Cnbp 3	0.55	RNA-binding protein
+Rps19 1	1.91	RNA-binding protein
+Pdap1 2	-5.57	Non RNA-binding protein
+Rps27a 1	1.72	RNA-binding protein
+Sptbn1 2	-5.57	Non RNA-binding protein
+Eif4a2 4	-5.57	Non RNA-binding protein
+Prdx1 2	-0.51	Non RNA-binding protein
+Rps17 2	-5.57	Non RNA-binding protein
+Ddx19a 2	-5.57	Non RNA-binding protein
+Eif3d 1	0.72	RNA-binding protein
+Pgd 1	0.16	RNA-binding protein
+Ptbp1 2	-5.57	Non RNA-binding protein
+Msi1 2	0.62	RNA-binding protein
+Hspe1 2	-5.57	Non RNA-binding protein
+Eef1g 2	-5.57	Non RNA-binding protein
+Hnrnpa3 1	1.21	RNA-binding protein
+Hsp90aa1 2	-0.69	Non RNA-binding protein
+Ppia 1	-3.15	Non RNA-binding protein
+Ywhaz 2	-2.31	Non RNA-binding protein
+Park7 2	-5.57	Non RNA-binding protein
+Yars 1	-0.05	RNA-binding protein
+Hnrnpc 1	1.61	RNA-binding protein
+Ddx5 3	2.35	RNA-binding protein
+Trim28 2	-5.57	Non RNA-binding protein
+Cnbp 4	0.38	RNA-binding protein
+Yars 2	-5.57	Non RNA-binding protein
+Hspa8 2	-5.57	Non RNA-binding protein
+Ddx5 4	-5.57	Non RNA-binding protein
+Rps14 2	1.79	RNA-binding protein
+Rpl10a 2	-5.57	Non RNA-binding protein
+Srp14 2	-0.78	Non RNA-binding protein
+Flna 3	1.40	RNA-binding protein
+Rpl7a 1	-5.57	Non RNA-binding protein
+Rpl22 1	-5.57	Non RNA-binding protein
+Pgk1 1	0.73	RNA-binding protein
+Eno1 3	1.51	RNA-binding protein
+Park7 3	0.81	RNA-binding protein
+Hnrnpab 2	2.10	RNA-binding protein
+Uba1 2	-5.57	Non RNA-binding protein
+Sptbn1 3	0.57	RNA-binding protein
+Rps3 2	1.49	RNA-binding protein
+Aldoa 2	1.36	RNA-binding protein
+Eif2s3x 2	-5.57	Non RNA-binding protein
+Rps24 1	2.23	RNA-binding protein
+Rbm3 2	-0.48	Non RNA-binding protein
+Eif4g1 3	2.36	RNA-binding protein
+Rpl9 2	2.15	RNA-binding protein
+Atp5o 2	-5.57	Non RNA-binding protein
+Hmgb1 1	-1.27	Non RNA-binding protein
+Park7 4	1.17	RNA-binding protein
+Cand1 2	0.64	RNA-binding protein
+Rps9 2	1.88	RNA-binding protein
+Prdx1 3	-0.79	Non RNA-binding protein
+Rpl13 2	-5.57	Non RNA-binding protein
+Serpinh1 1	0.34	RNA-binding protein
+Rtn4 3	-5.57	Non RNA-binding protein
+Rpl19 2	-5.57	Non RNA-binding protein
+Rtn4 4	1.80	RNA-binding protein
+Btf3 2	-5.57	Non RNA-binding protein
+Sptan1 2	-5.57	Non RNA-binding protein
+Sptan1 3	0.73	RNA-binding protein
+Rps6 1	3.29	RNA-binding protein
+Fus 3	0.36	RNA-binding protein
+Rpl23 1	2.37	RNA-binding protein
+Eif4a1 1	-0.97	Non RNA-binding protein
+Rpl7 2	-5.57	Non RNA-binding protein
+Lsm3 2	-5.57	Non RNA-binding protein
+Prmt1 2	-1.04	Non RNA-binding protein
+Rps2 2	-5.57	Non RNA-binding protein
+Sptan1 4	0.74	RNA-binding protein
+Gart 2	0.63	RNA-binding protein
+Ganab 1	-1.34	Non RNA-binding protein
+Rpl10l 1	2.75	RNA-binding protein
+Tpd52l2 3	-5.57	Non RNA-binding protein
+Mtch2 2	-2.27	Non RNA-binding protein
+Eif4g1 4	1.95	RNA-binding protein
+Calr 2	-5.57	Non RNA-binding protein
+Atp5b 2	-5.57	Non RNA-binding protein
+Elavl1 1	1.05	RNA-binding protein
+Usp10 1	1.54	RNA-binding protein
+Cap1 2	1.51	RNA-binding protein
+Tpt1 1	-5.57	Non RNA-binding protein
+Cars 2	-5.57	Non RNA-binding protein
+Rps20 1	-5.57	Non RNA-binding protein
+Fus 4	-1.41	Non RNA-binding protein
+Ybx3 2	1.69	RNA-binding protein
+Apex1 2	0.70	RNA-binding protein
+Rps27l 2	-0.71	Non RNA-binding protein
+Sptan1 5	0.76	RNA-binding protein
+Rbbp7 2	-0.21	Non RNA-binding protein
+Hspa5 2	-5.57	Non RNA-binding protein
+Flna 4	1.40	RNA-binding protein
+Rps19 2	1.29	RNA-binding protein
+Tpi1 1	-5.57	Non RNA-binding protein
+Ddx5 5	1.83	RNA-binding protein
+Plec 8	0.32	RNA-binding protein
+Rbm38 2	-5.57	Non RNA-binding protein
+Flna 5	1.31	RNA-binding protein
+Hist1h4a 1	2.82	RNA-binding protein
+Hsp90b1 2	-5.57	Non RNA-binding protein
+Vdac2 2	-5.57	Non RNA-binding protein
+Ass1 1	-5.57	Non RNA-binding protein
+Yars 3	1.56	RNA-binding protein
+Npm1 2	1.49	RNA-binding protein
+Hnrnpd 3	1.68	RNA-binding protein
+Samd1 1	0.10	RNA-binding protein
+Eno1 4	1.40	RNA-binding protein
+Pdia3 2	-5.57	Non RNA-binding protein
+Gapdh 2	0.54	RNA-binding protein
+Rps3 3	-5.57	Non RNA-binding protein
+Uba52 2	0.71	RNA-binding protein
+Ass1 2	1.07	RNA-binding protein
+Arf3 2	-5.57	Non RNA-binding protein
+Rps16 1	2.98	RNA-binding protein
+Cltc 2	-5.57	Non RNA-binding protein
+Rpl5 1	-5.57	Non RNA-binding protein
+Dync1h1 2	-5.57	Non RNA-binding protein
+Hmgb1 2	-5.57	Non RNA-binding protein
+Eif4a1 2	-5.57	Non RNA-binding protein
+Rps10 2	1.91	RNA-binding protein
+Rpl7a 2	2.84	RNA-binding protein
+Sub1 2	-5.57	Non RNA-binding protein
+Hnrnpa2b1 2	1.68	RNA-binding protein
+Phb 2	-5.57	Non RNA-binding protein
+Rnh1 1	-0.25	Non RNA-binding protein
+Rtn4 5	-0.83	Non RNA-binding protein
+Rpl23 2	-2.11	Non RNA-binding protein
+Hmgb1 3	1.82	RNA-binding protein
+Rps21 2	-5.57	Non RNA-binding protein
+Hnrnpab 3	2.13	RNA-binding protein
+Park7 5	0.92	RNA-binding protein
+Hspb1 2	-1.28	Non RNA-binding protein
+Rps8 1	2.56	RNA-binding protein
+Hnrnpa3 2	2.19	RNA-binding protein
+Cltc 3	0.16	RNA-binding protein
+Fus 5	-5.57	Non RNA-binding protein
+Prdx4 2	-5.57	Non RNA-binding protein
+Ptbp1 3	1.83	RNA-binding protein
+Eif4g1 5	1.02	RNA-binding protein
+Rpl10 2	-5.57	Non RNA-binding protein
+Nme1 2	0.97	RNA-binding protein
+Psmd4 2	2.01	RNA-binding protein
+Anxa2 2	0.63	RNA-binding protein
+Sptan1 6	0.72	RNA-binding protein
+Hsp90aa1 3	-5.57	Non RNA-binding protein
+Eif4g1 6	1.96	RNA-binding protein
+Rpl12 1	-5.57	Non RNA-binding protein
+Ddx3x 2	-5.57	Non RNA-binding protein
+Eif2s2 1	0.34	RNA-binding protein
+Atp1a1 2	-5.57	Non RNA-binding protein
+Prdx4 3	-0.13	RNA-binding protein
+Flna 6	-0.58	Non RNA-binding protein
+Hspd1 2	0.57	RNA-binding protein
+Cltc 4	0.85	RNA-binding protein
+Rpl3 1	2.46	RNA-binding protein
+Caprin2 2	-5.57	Non RNA-binding protein
+Hsp90b1 3	-0.12	RNA-binding protein
+Tardbp 2	1.11	RNA-binding protein
+Psmd4 3	1.60	RNA-binding protein
+Rps6 2	-5.57	Non RNA-binding protein
+Plec 9	0.17	RNA-binding protein
+Atp5a1 3	-5.57	Non RNA-binding protein
+Npm1 3	1.23	RNA-binding protein
+Tpt1 2	0.50	RNA-binding protein
+Mapre1 2	-5.57	Non RNA-binding protein
+Rpl10a 3	2.06	RNA-binding protein
+Usp10 2	-1.64	Non RNA-binding protein
+Sptan1 7	0.74	RNA-binding protein
+Mtch2 3	-0.73	Non RNA-binding protein
+Tdrd7 1	1.15	RNA-binding protein
+Myh9 3	0.56	RNA-binding protein
+Ddx5 6	1.51	RNA-binding protein
+Rpl19 3	2.50	RNA-binding protein
+Rps28 1	2.16	RNA-binding protein
+Hspa8 3	-0.32	Non RNA-binding protein
+Npm1 4	1.64	RNA-binding protein
+Hnrnpa1 2	1.40	RNA-binding protein
+Fscn1 2	-1.68	Non RNA-binding protein
+Ybx1 2	1.07	RNA-binding protein
+Ywhae 2	-0.22	Non RNA-binding protein
+Aars 3	-5.57	Non RNA-binding protein
+Pfn1 2	-2.47	Non RNA-binding protein
+Tpd52l2 4	1.74	RNA-binding protein
+Eif4g1 7	-5.57	Non RNA-binding protein
+Rpl27 2	0.98	RNA-binding protein
+Rpl24 2	-5.57	Non RNA-binding protein
+Tardbp 3	0.96	RNA-binding protein
+Apeh 1	-0.18	RNA-binding protein
+Rpl5 2	2.30	RNA-binding protein
+Eif4g1 8	1.95	RNA-binding protein
+Anxa6 1	0.77	RNA-binding protein
+Tcp1 2	1.18	RNA-binding protein
+Lsm8 2	-5.57	Non RNA-binding protein
+Fdps 1	0.69	RNA-binding protein
+Rpl9 3	-5.57	Non RNA-binding protein
+Rpl12 2	1.13	RNA-binding protein
+Eif3b 1	0.54	RNA-binding protein
+Uba52 3	-5.57	Non RNA-binding protein
+Hspa8 4	1.17	RNA-binding protein
+Ezr 2	-5.57	Non RNA-binding protein
+Hnrnpa3 3	2.92	RNA-binding protein
+Pebp1 2	0.01	RNA-binding protein
+Hnrnpu 2	-5.57	Non RNA-binding protein
+Rps19 3	-5.57	Non RNA-binding protein
+Caprin2 3	1.68	RNA-binding protein
+Prkcsh 2	1.51	RNA-binding protein
+Rbm3 3	0.25	RNA-binding protein
+Usp10 3	0.43	RNA-binding protein
+Pgd 2	-5.57	Non RNA-binding protein
+Mdh2 2	-5.57	Non RNA-binding protein
+Lgals1 1	-0.47	Non RNA-binding protein
+Eif2s3x 3	0.97	RNA-binding protein
+Aldoa 3	1.13	RNA-binding protein
+Rpl9 4	0.81	RNA-binding protein
+Rps19 4	2.53	RNA-binding protein
+Anxa2 3	0.53	RNA-binding protein
+Sfpq 2	-5.57	Non RNA-binding protein
+Usp10 4	-5.57	Non RNA-binding protein
+Hnrnpdl 1	1.80	RNA-binding protein
+Ube2l3 1	0.82	RNA-binding protein
+Ldha 4	1.11	RNA-binding protein
+Lars 1	0.83	RNA-binding protein
+Hsp90ab1 2	-0.35	Non RNA-binding protein
+Ppia 2	-0.17	RNA-binding protein
+Tardbp 4	1.82	RNA-binding protein
+Ube2n 1	0.14	RNA-binding protein
+Rps9 3	0.93	RNA-binding protein
+Kpnb1 2	-5.57	Non RNA-binding protein
+Rpl6 2	-5.57	Non RNA-binding protein
+Caprin2 4	1.13	RNA-binding protein
+Eif4a2 5	1.47	RNA-binding protein
+Mdh1 1	0.80	RNA-binding protein
+Srsf1 2	2.09	RNA-binding protein
+Hnrnpa3 4	-5.57	Non RNA-binding protein
+Phb 3	0.80	RNA-binding protein
+Rtn4 6	1.59	RNA-binding protein
+Btf3 3	1.80	RNA-binding protein
+Ran 2	-5.57	Non RNA-binding protein
+Tpd52l2 5	2.28	RNA-binding protein
+Rps9 4	-5.57	Non RNA-binding protein
+Prdx6 3	-5.57	Non RNA-binding protein
+Actn4 2	1.19	RNA-binding protein
+Impdh2 1	0.74	RNA-binding protein
+Rpl12 3	0.24	RNA-binding protein
+Ubc 1	0.43	RNA-binding protein
+Srsf1 3	-5.57	Non RNA-binding protein
+Ipo7 1	0.12	RNA-binding protein
+Sptan1 8	-0.77	Non RNA-binding protein
+Anxa6 2	0.79	RNA-binding protein
+Tdrd7 2	1.19	RNA-binding protein
+Ldha 5	1.39	RNA-binding protein
+Hnrnpa2b1 3	1.41	RNA-binding protein
+Srsf1 4	1.47	RNA-binding protein
+Msi1 3	-5.57	Non RNA-binding protein
+Ywhaz 3	-2.36	Non RNA-binding protein
+Hsd17b10 2	0.70	RNA-binding protein
+Sptbn1 4	0.52	RNA-binding protein
+Rps9 5	1.12	RNA-binding protein
+Ldha 6	-0.10	RNA-binding protein
+Cars 3	1.27	RNA-binding protein
+Mdh1 2	0.64	RNA-binding protein
+Tardbp 5	1.34	RNA-binding protein
+Rpl22 2	0.90	RNA-binding protein
+Rps27l 3	-5.57	Non RNA-binding protein
+Rpl31 1	1.68	RNA-binding protein
+Hnrnpk 2	1.64	RNA-binding protein
+Cfl1 1	0.97	RNA-binding protein
+Rplp0 1	0.69	RNA-binding protein
+Rps8 2	-5.57	Non RNA-binding protein
+Rps5 2	-5.57	Non RNA-binding protein
+Rbbp7 3	-0.59	Non RNA-binding protein
+Pgk1 2	-5.57	Non RNA-binding protein
+Ywhae 3	2.23	RNA-binding protein
+Rps19 5	0.16	RNA-binding protein
+Actn4 3	-5.57	Non RNA-binding protein
+Eif5 2	-5.57	Non RNA-binding protein
+Tdrd7 3	-5.57	Non RNA-binding protein
+Mdh2 3	-1.30	Non RNA-binding protein
+Fdps 2	-5.57	Non RNA-binding protein
+Rpl14 1	-5.57	Non RNA-binding protein
+Ppia 3	-0.10	RNA-binding protein
+Cct8 2	0.59	RNA-binding protein
+Eif4a1 3	0.71	RNA-binding protein
+Actn1 2	-5.57	Non RNA-binding protein
+Rpl13a 1	1.30	RNA-binding protein
+Rps2 3	0.36	RNA-binding protein
+Hnrnpa2b1 4	-5.57	Non RNA-binding protein
+Caprin1 3	-0.63	Non RNA-binding protein
+Fkbp3 2	2.29	RNA-binding protein
+Eno1 5	0.73	RNA-binding protein
+Eif2s2 2	-4.18	Non RNA-binding protein
+Hnrnpk 3	-5.57	Non RNA-binding protein
+Hnrnpd 4	0.29	RNA-binding protein
+Aldoa 4	-6.30	Non RNA-binding protein
+Lsm8 3	-0.19	RNA-binding protein
+Gspt1 2	-5.57	Non RNA-binding protein
+Rpsa 2	-1.60	Non RNA-binding protein
+Syncrip 2	1.40	RNA-binding protein
+Ilf2 2	-5.57	Non RNA-binding protein
+Syncrip 3	-5.57	Non RNA-binding protein
+Pdia6 2	-5.57	Non RNA-binding protein
+Atp5a1 4	-0.85	Non RNA-binding protein
+Hnrnpd 5	2.73	RNA-binding protein
+Serbp1 2	4.23	RNA-binding protein
+Hdgf 2	-5.57	Non RNA-binding protein
+Tardbp 6	1.81	RNA-binding protein
+Gspt1 3	0.19	RNA-binding protein
+Rpl18a 2	0.97	RNA-binding protein
+Rps27l 4	1.08	RNA-binding protein
+Rbbp7 4	0.07	RNA-binding protein
+Impdh2 2	-5.57	Non RNA-binding protein
+Fasn 2	-5.57	Non RNA-binding protein
+Prmt1 3	-2.32	Non RNA-binding protein
+Prpf19 2	-5.57	Non RNA-binding protein
+Ywhaz 4	-2.13	Non RNA-binding protein
+Eif4e 2	-0.47	Non RNA-binding protein
+Aldoa 5	1.07	RNA-binding protein
+Fxr1 2	-5.57	Non RNA-binding protein
+Cct5 2	-5.57	Non RNA-binding protein
+Caprin1 4	0.19	RNA-binding protein
+Cs 2	-5.57	Non RNA-binding protein
+Cars 4	0.16	RNA-binding protein
+Eif4h 2	-5.57	Non RNA-binding protein
+Hmgb1 4	2.14	RNA-binding protein
+Glrx3 2	0.47	RNA-binding protein
+Eef2 2	-5.57	Non RNA-binding protein
+Atic 2	-5.57	Non RNA-binding protein
+Rpl18 2	3.14	RNA-binding protein
+Fscn1 3	-5.57	Non RNA-binding protein
+Cct7 2	1.41	RNA-binding protein
+Ywhaz 5	-5.57	Non RNA-binding protein
+Slc3a2 2	-1.48	Non RNA-binding protein
+Fkbp4 2	0.53	RNA-binding protein
+Rps25 2	-5.57	Non RNA-binding protein
+Snd1 2	-5.57	Non RNA-binding protein
+Tpd52l2 6	1.70	RNA-binding protein
+Gdi2 2	-5.57	Non RNA-binding protein
+Serbp1 3	0.95	RNA-binding protein
+Mdh2 4	-0.81	Non RNA-binding protein
+U2af2 2	-5.57	Non RNA-binding protein
+Hnrnpd 6	-8.30	Non RNA-binding protein
+Flna 7	2.00	RNA-binding protein
+Rpl18 3	-5.57	Non RNA-binding protein
+Aldoa 6	-3.74	Non RNA-binding protein
+Rpl18a 3	0.98	RNA-binding protein
+Rbm3 4	-5.57	Non RNA-binding protein
+Hsp90ab1 3	-5.57	Non RNA-binding protein
+Rpl14 2	2.33	RNA-binding protein
+Vdac2 3	-3.13	Non RNA-binding protein
+Serbp1 4	-5.57	Non RNA-binding protein
+Rbm38 3	-1.13	Non RNA-binding protein
+Rpl3 2	-5.57	Non RNA-binding protein
+Mdh2 5	1.02	RNA-binding protein
+Fkbp3 3	-5.57	Non RNA-binding protein
+Manf 2	-0.43	Non RNA-binding protein
+Atp2a2 2	-5.57	Non RNA-binding protein
+Gapdh 3	-5.57	Non RNA-binding protein
+Aldoa 7	-5.57	Non RNA-binding protein
+Tubb4b 2	-5.57	Non RNA-binding protein
+Prdx5 2	-0.71	Non RNA-binding protein
+Cct8 3	-5.57	Non RNA-binding protein
+Mtch2 4	-1.84	Non RNA-binding protein
+Tardbp 7	-5.57	Non RNA-binding protein
+Lsm5 1	-5.57	Non RNA-binding protein
+Syncrip 4	1.97	RNA-binding protein
+Map4 2	2.67	RNA-binding protein
+Gart 3	1.02	RNA-binding protein
+Hnrnpk 4	2.36	RNA-binding protein
+P4hb 2	-1.29	Non RNA-binding protein
+Eif2s2 3	-5.57	Non RNA-binding protein
+Hnrnpu 3	-0.10	RNA-binding protein
+Rpl22l1 2	-5.57	Non RNA-binding protein
+Fus 6	1.58	RNA-binding protein
+Hnrnpk 5	0.63	RNA-binding protein
+Ptbp1 4	2.58	RNA-binding protein
+Pkm 2	-0.28	Non RNA-binding protein
+Ywhae 4	-5.57	Non RNA-binding protein
+Tpi1 2	0.60	RNA-binding protein
+Prmt1 4	-1.85	Non RNA-binding protein
+Hnrnpu 4	-4.11	Non RNA-binding protein
+Hspd1 3	0.97	RNA-binding protein
+U2af2 3	2.14	RNA-binding protein
+Pa2g4 2	-5.57	Non RNA-binding protein
+Map4 3	1.36	RNA-binding protein
+Anxa6 3	-5.57	Non RNA-binding protein
+Rps27l 5	-0.59	Non RNA-binding protein
+Paics 2	-5.57	Non RNA-binding protein
+Snd1 3	-8.18	Non RNA-binding protein
+Fkbp3 4	0.53	RNA-binding protein
+Rpl13a 2	0.42	RNA-binding protein
+Psmd4 4	-5.57	Non RNA-binding protein
+Ldha 7	0.72	RNA-binding protein
+Fdps 3	1.07	RNA-binding protein
+Rps10 3	0.83	RNA-binding protein
+Cct2 2	-1.08	Non RNA-binding protein
+Rpl13a 3	1.49	RNA-binding protein
+Cct7 3	0.48	RNA-binding protein
+Eif5 3	1.36	RNA-binding protein
+Ipo7 2	-5.57	Non RNA-binding protein
+Hspa4 2	-5.57	Non RNA-binding protein
+Tpi1 3	0.07	RNA-binding protein
+Syncrip 5	0.40	RNA-binding protein
+Flna 8	1.29	RNA-binding protein
+Fasn 3	-3.92	Non RNA-binding protein
+Rps10 4	-5.57	Non RNA-binding protein
+Ube2n 2	-5.57	Non RNA-binding protein
+Rpl18 4	3.30	RNA-binding protein
+Rps12 2	0.81	RNA-binding protein
+Cct7 4	-5.57	Non RNA-binding protein
+Tuba1b 2	-5.57	Non RNA-binding protein
+Anxa5 2	-5.57	Non RNA-binding protein
+Nap1l1 2	-5.57	Non RNA-binding protein
+Eif3c 2	-0.25	Non RNA-binding protein
+Serbp1 5	4.00	RNA-binding protein
+Rpl4 2	-5.57	Non RNA-binding protein
+Rps20 2	-0.54	Non RNA-binding protein
+Tpd52l2 7	1.88	RNA-binding protein
+Ybx1 3	-5.57	Non RNA-binding protein
+Vim 2	-5.57	Non RNA-binding protein
+Rpl13a 4	0.48	RNA-binding protein
+Prmt1 5	-1.09	Non RNA-binding protein
+Rps14 3	-5.57	Non RNA-binding protein
+Eif3b 2	-0.87	Non RNA-binding protein
+Gapdh 4	-1.23	Non RNA-binding protein
+Map4 4	-5.57	Non RNA-binding protein
+Pkm 3	-5.57	Non RNA-binding protein
+Serpinh1 2	-2.70	Non RNA-binding protein
+Rpl13a 5	0.51	RNA-binding protein
+Eprs 2	-5.57	Non RNA-binding protein
+Anxa2 4	-5.57	Non RNA-binding protein
+Srsf1 5	2.22	RNA-binding protein
+Rpl27a 2	-6.92	Non RNA-binding protein
+Gdi2 3	0.35	RNA-binding protein
+Rpl23 3	-5.57	Non RNA-binding protein
+Rpsa 3	-5.57	Non RNA-binding protein
+Eif4a2 6	0.45	RNA-binding protein
+Map4 5	1.04	RNA-binding protein
+Cct4 2	-5.57	Non RNA-binding protein
+Eif3c 3	1.41	RNA-binding protein
+Fkbp3 5	0.91	RNA-binding protein
+Serpinh1 3	0.34	RNA-binding protein
+Igf2bp3 2	-5.57	Non RNA-binding protein
+Aldoart1 2	0.78	RNA-binding protein
+Rps27a 2	-5.57	Non RNA-binding protein
+Farsb 2	-5.57	Non RNA-binding protein
+Prdx1 4	-5.57	Non RNA-binding protein
+Cct8 4	0.53	RNA-binding protein
+Nap1l4 2	1.10	RNA-binding protein
+Vcp 2	-5.57	Non RNA-binding protein
+Surf4 2	-6.74	Non RNA-binding protein
+Tsn 2	-5.57	Non RNA-binding protein
+Cap1 3	-5.57	Non RNA-binding protein
+Eif5b 2	-5.57	Non RNA-binding protein
+Erh 2	0.09	RNA-binding protein
+Rpl3 3	1.45	RNA-binding protein
+Dars 3	-5.57	Non RNA-binding protein
+Strap 2	-5.57	Non RNA-binding protein
+Pkm 4	-0.14	RNA-binding protein
+Hnrnpk 6	0.68	RNA-binding protein
+Pabpc1 2	-5.57	Non RNA-binding protein
+Hyou1 2	-5.57	Non RNA-binding protein
+Cct3 2	-5.57	Non RNA-binding protein
+Rpl31 2	-5.57	Non RNA-binding protein
+Snd1 4	1.77	RNA-binding protein
+Lta4h 2	-5.57	Non RNA-binding protein
+Ldha 8	0.37	RNA-binding protein
+Lrrc59 2	-5.57	Non RNA-binding protein
+Eif5 4	-0.50	Non RNA-binding protein
+Nap1l4 3	-2.10	Non RNA-binding protein
+Psmc1 2	-5.57	Non RNA-binding protein
+Tardbp 8	1.84	RNA-binding protein
+Hnrnpk 7	0.37	RNA-binding protein
+Plec 10	0.93	RNA-binding protein
+Prkcsh 3	-5.57	Non RNA-binding protein
+Rbm38 4	-0.15	RNA-binding protein
+Snd1 5	0.67	RNA-binding protein
+Ubb 2	0.74	RNA-binding protein
+Tbca 2	-5.57	Non RNA-binding protein
+Apeh 2	-0.29	Non RNA-binding protein
+Caprin1 5	-3.73	Non RNA-binding protein
+Ptbp1 5	1.80	RNA-binding protein
+Rpsa 4	0.11	RNA-binding protein
+Ptbp1 6	3.02	RNA-binding protein
+Prkcsh 4	-1.20	Non RNA-binding protein
+Map4 6	0.53	RNA-binding protein
+Rps19 6	2.47	RNA-binding protein
+Hnrnpu 5	2.79	RNA-binding protein
+Slc3a2 3	-0.97	Non RNA-binding protein
+Fkbp3 6	-0.32	Non RNA-binding protein
+Rbm8a 2	2.04	RNA-binding protein
+Hmgb1 5	0.23	RNA-binding protein
+Cct6a 2	-5.57	Non RNA-binding protein
+Map4 7	2.54	RNA-binding protein
+Rps12 3	-5.57	Non RNA-binding protein
+Eif4h 3	2.21	RNA-binding protein
+G3bp1 2	-5.57	Non RNA-binding protein
+Rpl13a 6	-5.57	Non RNA-binding protein
+Slc3a2 4	-5.57	Non RNA-binding protein
+Map4 8	2.77	RNA-binding protein
+Hnrnpdl 2	0.65	RNA-binding protein
+Rpn1 2	-5.57	Non RNA-binding protein
+Cotl1 2	-5.57	Non RNA-binding protein
+Cct2 3	-0.97	Non RNA-binding protein
+Tardbp 9	-1.91	Non RNA-binding protein
+Lsm5 2	1.27	RNA-binding protein
+Srp14 3	-5.57	Non RNA-binding protein
+Eif4g1 9	0.15	RNA-binding protein
+Rps12 4	-0.08	RNA-binding protein
+Actn1 3	0.71	RNA-binding protein
+Farsb 3	1.00	RNA-binding protein
+Rps26 2	-5.57	Non RNA-binding protein
+Hsp90ab1 4	-0.58	Non RNA-binding protein
+Apeh 3	-5.57	Non RNA-binding protein
+Hnrnpdl 3	-5.57	Non RNA-binding protein
+Eif4g1 10	0.60	RNA-binding protein
+Vdac2 4	-2.40	Non RNA-binding protein
+Ckb 2	-5.57	Non RNA-binding protein
+Usp10 5	1.54	RNA-binding protein
+Manf 3	-0.11	RNA-binding protein
+Caprin2 5	1.30	RNA-binding protein
+Serbp1 6	4.10	RNA-binding protein
+Prmt1 6	-1.32	Non RNA-binding protein
+Rpl14 3	1.87	RNA-binding protein
+Slc3a2 5	-0.63	Non RNA-binding protein
+Farsb 4	-0.42	Non RNA-binding protein
+Canx 2	-5.57	Non RNA-binding protein
+Prdx6 4	-4.66	Non RNA-binding protein
+Hnrnpk 8	-0.26	Non RNA-binding protein
+Ptbp1 7	1.91	RNA-binding protein
+Gdi2 4	1.19	RNA-binding protein
+Psma6 2	-2.99	Non RNA-binding protein
+Plec 11	1.15	RNA-binding protein
+Ptbp1 8	2.18	RNA-binding protein
+Prmt1 7	-5.57	Non RNA-binding protein
+Glrx3 3	-5.57	Non RNA-binding protein
+Gapdh 5	-0.90	Non RNA-binding protein
+Fasn 4	-0.02	RNA-binding protein
+Elavl1 2	-5.57	Non RNA-binding protein
+Syncrip 6	1.89	RNA-binding protein
+Hnrnpa2b1 5	1.06	RNA-binding protein
+Syncrip 7	2.27	RNA-binding protein
+Ahcy 2	-1.77	Non RNA-binding protein
+Prmt1 8	-0.40	Non RNA-binding protein
+Cct2 4	-0.45	Non RNA-binding protein
+Erh 3	0.65	RNA-binding protein
+Impdh2 3	-0.29	Non RNA-binding protein
+Hnrnpd 7	-1.24	Non RNA-binding protein
+Tardbp 10	-3.52	Non RNA-binding protein
+Fkbp4 3	0.22	RNA-binding protein
+C1qbp 2	-5.57	Non RNA-binding protein
+Apeh 4	0.59	RNA-binding protein
+Manf 4	-3.11	Non RNA-binding protein
+Tardbp 11	0.96	RNA-binding protein
+Pkm 5	-0.28	Non RNA-binding protein
+Eif2s1 2	-5.57	Non RNA-binding protein
+Erh 4	-5.57	Non RNA-binding protein
+Aimp1 2	-5.57	Non RNA-binding protein
+Rpl27a 3	2.52	RNA-binding protein
+Aimp1 3	1.33	RNA-binding protein
+Manf 5	-0.79	Non RNA-binding protein
+Ddx39b 2	-5.57	Non RNA-binding protein
+S100a4 2	-0.60	Non RNA-binding protein
+Pebp1 3	-0.21	Non RNA-binding protein
+Park7 6	0.95	RNA-binding protein
+Tbca 3	-6.04	Non RNA-binding protein
+Eif4g1 11	0.13	RNA-binding protein
+Prmt1 9	-2.20	Non RNA-binding protein
+Rps9 6	1.15	RNA-binding protein
+Tardbp 12	1.47	RNA-binding protein
+Hmgb1 6	1.86	RNA-binding protein
+Srsf1 6	0.54	RNA-binding protein
+Fdps 4	-0.67	Non RNA-binding protein
+Glrx3 4	-1.48	Non RNA-binding protein
+Nap1l1 3	0.06	RNA-binding protein
+Syncrip 8	1.97	RNA-binding protein
+Msi1 4	0.68	RNA-binding protein
+Fxr1 3	2.17	RNA-binding protein
+Fxr1 4	2.05	RNA-binding protein
+Hnrnpk 9	2.69	RNA-binding protein
+Rplp0 2	-5.57	Non RNA-binding protein
+Rpl18a 4	1.02	RNA-binding protein
+Rtcb 2	-5.57	Non RNA-binding protein
+Tkt 2	-5.57	Non RNA-binding protein
+Rps13 1	-5.57	Non RNA-binding protein
+Anxa1 2	1.10	RNA-binding protein
+Ldha 9	1.05	RNA-binding protein
+Rplp0 3	0.67	RNA-binding protein
+Gm15013 1	-5.57	Non RNA-binding protein
+Actn4 4	1.02	RNA-binding protein
+Cct8 5	-0.26	Non RNA-binding protein
+Hdgf 3	2.15	RNA-binding protein
+Hnrnpk 10	1.65	RNA-binding protein
+Anxa1 3	-5.57	Non RNA-binding protein
+Tardbp 13	0.89	RNA-binding protein
+Rpl10 3	1.79	RNA-binding protein
+Eif3g 2	-5.57	Non RNA-binding protein
+Plec 12	0.28	RNA-binding protein
+Cnbp 5	0.37	RNA-binding protein
+Rpl13a 7	-1.15	Non RNA-binding protein
+Rpl18a 5	-2.24	Non RNA-binding protein
+Eprs 3	-4.88	Non RNA-binding protein
+Actn4 5	1.24	RNA-binding protein
+Rps28 2	-5.57	Non RNA-binding protein
+Lsm5 3	-1.81	Non RNA-binding protein
+Ppia 4	-5.57	Non RNA-binding protein
+Rps28 3	2.40	RNA-binding protein
+U2af2 4	1.13	RNA-binding protein
+Pdia3 3	-2.01	Non RNA-binding protein
+Gm6576 1	-5.57	Non RNA-binding protein
+Rpl18a 6	-5.57	Non RNA-binding protein
+Prdx1 5	-1.01	Non RNA-binding protein
+Rbm8a 3	2.42	RNA-binding protein
+Pdia4 2	-5.57	Non RNA-binding protein
+Rps3 4	1.38	RNA-binding protein
+Rpl18 5	2.56	RNA-binding protein
+Tardbp 14	1.29	RNA-binding protein
+Serbp1 7	3.41	RNA-binding protein
+Ybx3 3	-5.57	Non RNA-binding protein
+Iars 2	-5.57	Non RNA-binding protein
+Manf 6	-5.57	Non RNA-binding protein
+Pkm 6	1.06	RNA-binding protein
+Cct8 6	0.72	RNA-binding protein
+Cct4 3	1.16	RNA-binding protein
+Rars 2	-5.57	Non RNA-binding protein
+Rps4x 2	-5.57	Non RNA-binding protein
+Hnrnpk 11	1.63	RNA-binding protein
+Eef1a1 3	-0.79	Non RNA-binding protein
+U2af2 5	0.45	RNA-binding protein
+Rpl18a 7	1.65	RNA-binding protein
+Pgk1 3	1.33	RNA-binding protein
+Hnrnpk 12	1.67	RNA-binding protein
+Snrpd3 2	-5.57	Non RNA-binding protein
+Hsp90aa1 4	-0.61	Non RNA-binding protein
+Rps2 4	0.42	RNA-binding protein
+Got2 2	-5.57	Non RNA-binding protein
+Eif4g1 12	0.96	RNA-binding protein
+Plec 13	0.29	RNA-binding protein
+Cand1 3	-5.57	Non RNA-binding protein
+Rnh1 2	-0.46	Non RNA-binding protein
+Ptbp1 9	0.07	RNA-binding protein
+Slc3a2 6	0.20	RNA-binding protein
+Tardbp 15	0.33	RNA-binding protein
+Nap1l4 4	-0.16	RNA-binding protein
+Tcp1 3	1.28	RNA-binding protein
+Ncl 2	-5.57	Non RNA-binding protein
+Eif5 5	2.60	RNA-binding protein
+Hnrnpd 8	1.69	RNA-binding protein
+Prdx5 3	-5.57	Non RNA-binding protein
+Rbm8a 4	-5.57	Non RNA-binding protein
+Gars 2	-5.57	Non RNA-binding protein
+Hnrnpd 9	-1.96	Non RNA-binding protein
+Nap1l4 5	-5.57	Non RNA-binding protein
+Ldha 10	1.72	RNA-binding protein
+Arf3 3	-5.20	Non RNA-binding protein
+Aimp1 4	-2.17	Non RNA-binding protein
+Rps25 3	1.40	RNA-binding protein
+Atp5o 3	1.65	RNA-binding protein
+Syncrip 9	2.03	RNA-binding protein
+Fscn1 4	-0.73	Non RNA-binding protein
+Ddx39b 3	1.51	RNA-binding protein
+Ipo7 3	1.14	RNA-binding protein
+Hsd17b10 3	-5.57	Non RNA-binding protein
+Ncl 3	-2.66	Non RNA-binding protein
+Map4 9	2.45	RNA-binding protein
+Hsp90ab1 5	-1.05	Non RNA-binding protein
+Rpl13a 8	3.10	RNA-binding protein
+Rps16 2	-5.57	Non RNA-binding protein
+Rps12 5	-0.21	Non RNA-binding protein
+Samd1 2	2.56	RNA-binding protein
+Dync1li1 2	-5.57	Non RNA-binding protein
+Map4 10	2.40	RNA-binding protein
+Cct3 3	1.13	RNA-binding protein
+Map4 11	2.55	RNA-binding protein
+Fxr1 5	2.13	RNA-binding protein
+Eif4e 3	-5.57	Non RNA-binding protein
+Serbp1 8	4.05	RNA-binding protein
+Slc3a2 7	-2.13	Non RNA-binding protein
+Prmt1 10	-1.10	Non RNA-binding protein
+Rpl3 4	2.24	RNA-binding protein
+Fxr1 6	2.12	RNA-binding protein
+Tardbp 16	-0.19	RNA-binding protein
+Cct2 5	-1.06	Non RNA-binding protein
+Cct2 6	-0.68	Non RNA-binding protein
+Eif4e 4	0.61	RNA-binding protein
+Rpl22l1 3	0.77	RNA-binding protein
+Rpn1 3	-1.51	Non RNA-binding protein
+Tkt 3	1.45	RNA-binding protein
+Npm1 5	-5.57	Non RNA-binding protein
+Rpl13a 9	1.77	RNA-binding protein
+Psma6 3	-0.79	Non RNA-binding protein
+Ldha 11	0.86	RNA-binding protein
+Eif4e 5	-0.54	Non RNA-binding protein
+Prdx5 4	-0.75	Non RNA-binding protein
+Farsb 5	1.05	RNA-binding protein
+Dync1h1 3	1.39	RNA-binding protein
+Eno1 6	1.69	RNA-binding protein
+Pkm 7	-0.42	Non RNA-binding protein
+Gstp1 1	0.67	RNA-binding protein
+Syncrip 10	2.01	RNA-binding protein
+Map4 12	2.60	RNA-binding protein
+Aldoa 8	1.21	RNA-binding protein
+Apex1 3	1.28	RNA-binding protein
+Rpl7 3	2.85	RNA-binding protein
+P4hb 3	-5.57	Non RNA-binding protein
+Apex1 4	1.10	RNA-binding protein
+Actn4 6	0.25	RNA-binding protein
+Nap1l1 4	0.14	RNA-binding protein
+Serbp1 9	4.18	RNA-binding protein
+Cct3 4	0.78	RNA-binding protein
+Actn4 7	0.98	RNA-binding protein
+Rps13 2	0.82	RNA-binding protein
+Ahcy 3	-5.57	Non RNA-binding protein
+Plec 14	-5.57	Non RNA-binding protein
+Rpl22l1 4	-2.79	Non RNA-binding protein
+Hnrnpd 10	3.60	RNA-binding protein
+Glrx3 5	-1.14	Non RNA-binding protein
+Rpl5 3	-0.32	Non RNA-binding protein
+Vdac2 5	0.33	RNA-binding protein
+Eprs 4	-3.11	Non RNA-binding protein
+Prmt1 11	1.49	RNA-binding protein
+Pabpc1 3	1.29	RNA-binding protein
+Atp5o 4	1.07	RNA-binding protein
+Mtch2 5	-2.00	Non RNA-binding protein
+Ube2n 3	0.07	RNA-binding protein
+Ppib 2	-5.57	Non RNA-binding protein
+Rpl27 3	-5.57	Non RNA-binding protein
+Slc3a2 8	1.51	RNA-binding protein
+Rps9 7	1.85	RNA-binding protein
+Cct4 4	0.82	RNA-binding protein
+Prpf19 3	-0.22	Non RNA-binding protein
+Tpt1 3	0.70	RNA-binding protein
+Msi1 5	0.15	RNA-binding protein
+Atp2a2 3	0.02	RNA-binding protein
+Tardbp 17	0.68	RNA-binding protein
+Fkbp4 4	-5.57	Non RNA-binding protein
+Hdgf 4	1.31	RNA-binding protein
+Rps19 7	2.30	RNA-binding protein
+Tpd52l2 8	1.14	RNA-binding protein
+Rbbp7 5	-0.33	Non RNA-binding protein
+Hnrnpdl 4	1.00	RNA-binding protein
+Fdps 5	-1.62	Non RNA-binding protein
+Vim 3	0.01	RNA-binding protein
+Fkbp3 7	-4.16	Non RNA-binding protein
+Samd1 3	-5.57	Non RNA-binding protein
+Pkm 8	-0.70	Non RNA-binding protein
+Hyou1 3	1.01	RNA-binding protein
+Rpl18 6	2.47	RNA-binding protein
+Plec 15	-1.08	Non RNA-binding protein
+Nap1l4 6	2.23	RNA-binding protein
+Mdh1 3	-5.57	Non RNA-binding protein
+Plec 16	0.47	RNA-binding protein
+Rplp0 4	1.32	RNA-binding protein
+Surf4 3	-3.75	Non RNA-binding protein
+Psmd4 5	0.67	RNA-binding protein
+Plec 17	1.06	RNA-binding protein
+Rbm8a 5	2.27	RNA-binding protein
+Impdh2 4	1.45	RNA-binding protein
+Atp5o 5	-0.29	Non RNA-binding protein
+Pebp1 4	-5.57	Non RNA-binding protein
+Eif5a 2	1.06	RNA-binding protein
+Tpd52l2 9	-0.51	Non RNA-binding protein
+Hnrnpa3 5	-2.31	Non RNA-binding protein
+Tcp1 4	1.10	RNA-binding protein
+Vim 4	-0.12	RNA-binding protein
+Lsm5 4	0.89	RNA-binding protein
+Rps5 3	0.62	RNA-binding protein
+Ptbp1 10	0.39	RNA-binding protein
+Eef1a1 4	-0.85	Non RNA-binding protein
+Atp5o 6	0.69	RNA-binding protein
+Eif4g1 13	2.10	RNA-binding protein
+Serbp1 10	3.97	RNA-binding protein
+H1f0 1	0.61	RNA-binding protein
+Rpl9 5	2.13	RNA-binding protein
+Rbm38 5	-0.46	Non RNA-binding protein
+Gapdh 6	-0.10	RNA-binding protein
+Rnh1 3	0.37	RNA-binding protein
+Rpl13a 10	0.75	RNA-binding protein
+Nme1 3	0.97	RNA-binding protein
+Fxr1 7	-1.30	Non RNA-binding protein
+Cct5 3	0.51	RNA-binding protein
+Pkm 9	0.55	RNA-binding protein
+Hsp90aa1 5	-0.65	Non RNA-binding protein
+Ldha 12	0.91	RNA-binding protein
+Tardbp 18	0.68	RNA-binding protein
+Rnh1 4	0.46	RNA-binding protein
+U2af2 6	0.40	RNA-binding protein
+Snrpd3 3	-0.28	Non RNA-binding protein
+Eif5 6	0.29	RNA-binding protein
+Eif4e 6	-0.54	Non RNA-binding protein
+Syncrip 11	0.42	RNA-binding protein
+Psma6 4	-5.57	Non RNA-binding protein
+Rpl6 3	-2.62	Non RNA-binding protein
+Rpl18 7	2.71	RNA-binding protein
+Aimp1 5	-0.51	Non RNA-binding protein
+Serbp1 11	3.48	RNA-binding protein
+Cct8 7	0.85	RNA-binding protein
+Rpl13a 11	2.03	RNA-binding protein
+Phgdh 2	-5.57	Non RNA-binding protein
+Paics 3	-0.10	RNA-binding protein
+Cct7 5	-0.43	Non RNA-binding protein
+Rpl9 6	1.63	RNA-binding protein
+Eif4g1 14	1.93	RNA-binding protein
+Rpl31 3	2.12	RNA-binding protein
+Rbm38 6	-0.17	RNA-binding protein
+Hyou1 4	0.70	RNA-binding protein
+Eif4g1 15	2.31	RNA-binding protein
+Hsp90ab1 6	-2.37	Non RNA-binding protein
+Nap1l4 7	1.14	RNA-binding protein
+Fxr1 8	0.94	RNA-binding protein
+Ubc 2	0.54	RNA-binding protein
+Phgdh 3	-0.24	Non RNA-binding protein
+Clic1 2	-5.57	Non RNA-binding protein
+Eif4a2 7	1.38	RNA-binding protein
+Rps13 3	1.46	RNA-binding protein
+Hspa5 3	-3.07	Non RNA-binding protein
+Cotl1 3	-2.56	Non RNA-binding protein
+Rpl18a 8	2.60	RNA-binding protein
+Cct4 5	0.11	RNA-binding protein
+Rps5 4	0.54	RNA-binding protein
+Aldoa 9	0.94	RNA-binding protein
+Tardbp 19	1.71	RNA-binding protein
+Cct3 5	0.50	RNA-binding protein
+Rps14 4	1.72	RNA-binding protein
+Eif4g1 16	0.39	RNA-binding protein
+Pfn1 3	-3.32	Non RNA-binding protein
+Paics 4	-0.37	Non RNA-binding protein
+Anxa2 5	0.90	RNA-binding protein
+Hyou1 5	0.71	RNA-binding protein
+Prmt1 12	-0.84	Non RNA-binding protein
+Fus 7	2.20	RNA-binding protein
+Eif4g1 17	0.48	RNA-binding protein
+Cfl1 2	-0.45	Non RNA-binding protein
+Rpl13a 12	3.04	RNA-binding protein
+Anxa5 3	-0.94	Non RNA-binding protein
+Cct2 7	-5.57	Non RNA-binding protein
+Rps13 4	1.08	RNA-binding protein
+Plec 18	0.64	RNA-binding protein
+Rpl15 2	2.74	RNA-binding protein
+Tardbp 20	0.18	RNA-binding protein
+Iars 3	-1.39	Non RNA-binding protein
+Lsm5 5	1.56	RNA-binding protein
+Slc3a2 9	-0.35	Non RNA-binding protein
+Pfn1 4	-5.57	Non RNA-binding protein
+Rps10 5	1.37	RNA-binding protein
+Map4 13	2.78	RNA-binding protein
+Tbca 4	-1.22	Non RNA-binding protein
+Hnrnpk 13	1.49	RNA-binding protein
+Erh 5	0.89	RNA-binding protein
+Rpl18 8	2.29	RNA-binding protein
+Pkm 10	-4.41	Non RNA-binding protein
+Plec 19	1.07	RNA-binding protein
+Map4 14	0.98	RNA-binding protein
+Cars 5	2.08	RNA-binding protein
+Cct4 6	0.80	RNA-binding protein
+Eif4b 1	0.22	RNA-binding protein
+Iars 4	-1.07	Non RNA-binding protein
+Aldoa 10	1.19	RNA-binding protein
+Eif5a 3	0.85	RNA-binding protein
+Tardbp 21	0.54	RNA-binding protein
+Aimp1 6	-0.61	Non RNA-binding protein
+Eif4g1 18	-0.73	Non RNA-binding protein
+Plec 20	0.28	RNA-binding protein
+Gspt1 4	2.40	RNA-binding protein
+Rpl31 4	1.21	RNA-binding protein
+Cct3 6	0.93	RNA-binding protein
+Rpl10 4	2.88	RNA-binding protein
+Gm15013 2	-0.18	RNA-binding protein
+Serpinh1 4	-1.17	Non RNA-binding protein
+Hnrnpd 11	-5.57	Non RNA-binding protein
+Eif3b 3	-5.57	Non RNA-binding protein
+Hnrnpc 2	1.60	RNA-binding protein
+Nars 2	-5.57	Non RNA-binding protein
+Gart 4	-5.57	Non RNA-binding protein
+Ganab 2	-5.57	Non RNA-binding protein
+Lars 2	-5.57	Non RNA-binding protein
+Srsf7 2	0.30	RNA-binding protein
+Ctnna1 2	1.04	RNA-binding protein
+Eif3a 2	-5.57	Non RNA-binding protein
+Pcbp2 3	0.60	RNA-binding protein
+Hnrnpk 14	-2.31	Non RNA-binding protein
+Pcbp2 4	1.26	RNA-binding protein
+Ctnna1 3	-5.57	Non RNA-binding protein
+Hnrnpc 3	1.37	RNA-binding protein
+Pcbp2 5	-0.30	Non RNA-binding protein
+Rpl10a 4	2.77	RNA-binding protein
+Rps14 5	1.56	RNA-binding protein
+Rps24 2	-5.57	Non RNA-binding protein
+Ipo5 2	-5.57	Non RNA-binding protein
+Eif3d 2	-5.57	Non RNA-binding protein
+Rps24 3	3.10	RNA-binding protein
+Eif3l 2	-5.57	Non RNA-binding protein
+Eif4a2 8	0.41	RNA-binding protein
+Pcbp2 6	-0.23	Non RNA-binding protein
+Nars 3	2.02	RNA-binding protein
+Pcbp2 7	0.94	RNA-binding protein
+Pcbp2 8	0.99	RNA-binding protein
+Pcbp2 9	0.71	RNA-binding protein
+Hnrnpc 4	1.38	RNA-binding protein
+Hnrnpk 15	1.54	RNA-binding protein
+Nars 4	0.95	RNA-binding protein
+Eif4b 2	-0.83	Non RNA-binding protein
+Pcbp2 10	-5.57	Non RNA-binding protein
+Pcbp2 11	1.43	RNA-binding protein
+Rpl10a 5	2.83	RNA-binding protein
+Rpl10a 6	2.74	RNA-binding protein
+Gart 5	-1.24	Non RNA-binding protein
+Hnrnpk 16	1.91	RNA-binding protein
+Nars 5	0.90	RNA-binding protein
+Eif3a 3	0.26	RNA-binding protein
+Pcbp2 12	0.34	RNA-binding protein
+Hnrnpc 5	-5.57	Non RNA-binding protein
+Ganab 3	-1.30	Non RNA-binding protein
+Prdx5 5	-1.10	Non RNA-binding protein
+Rpl3 5	2.55	RNA-binding protein
+Hspa9 2	-5.57	Non RNA-binding protein
+Nars 6	0.70	RNA-binding protein
+Gstp1 2	-5.57	Non RNA-binding protein
+Mdh1 4	0.82	RNA-binding protein
+Tkt 4	0.21	RNA-binding protein
+Pcbp2 13	1.32	RNA-binding protein
+Eif3l 3	-3.00	Non RNA-binding protein
+Srsf7 3	-5.57	Non RNA-binding protein
+Cfl1 3	-0.02	RNA-binding protein
+Rpl10a 7	1.00	RNA-binding protein
+Pabpc1 4	0.17	RNA-binding protein
+Cbr1 2	1.20	RNA-binding protein
+Ube2l3 2	0.28	RNA-binding protein
+Hnrnpc 6	1.38	RNA-binding protein
+Pcbp2 14	1.04	RNA-binding protein
+Pgam1 2	-5.57	Non RNA-binding protein
+Nars 7	-0.77	Non RNA-binding protein
+Ctnna1 4	1.75	RNA-binding protein
+Gstp1 3	-0.14	RNA-binding protein
+Ube2l3 3	0.58	RNA-binding protein
+Ywhaz 6	-0.05	RNA-binding protein
+Hnrnpc 7	-2.80	Non RNA-binding protein
+Hnrnpk 17	2.04	RNA-binding protein
+Hnrnpa1 3	1.67	RNA-binding protein
+Srsf7 4	1.94	RNA-binding protein
+Cbr1 3	-5.57	Non RNA-binding protein
+Crkl 2	0.44	RNA-binding protein
+Gart 6	0.98	RNA-binding protein
+Ube2l3 4	-0.50	Non RNA-binding protein
+Pcbp2 15	0.84	RNA-binding protein
+Ube2l3 5	0.56	RNA-binding protein
+Eif3e 2	-5.57	Non RNA-binding protein
+Eif4g1 19	0.20	RNA-binding protein
+Ctnna1 5	-0.80	Non RNA-binding protein
+Ctnna1 6	2.29	RNA-binding protein
+Cfl1 4	-5.57	Non RNA-binding protein
+Rps24 4	2.33	RNA-binding protein
+Gart 7	0.15	RNA-binding protein
+Sptan1 9	-0.19	RNA-binding protein
+Srsf7 5	2.11	RNA-binding protein
+Hnrnpk 18	1.45	RNA-binding protein
+Pcbp2 16	1.34	RNA-binding protein
+Hnrnpc 8	1.56	RNA-binding protein
+Rpl15 3	-5.57	Non RNA-binding protein
+Nars 8	0.65	RNA-binding protein
+Myh9 4	-4.43	Non RNA-binding protein
+Crkl 3	-1.49	Non RNA-binding protein
+Nars 9	0.30	RNA-binding protein
+Hnrnpc 9	1.64	RNA-binding protein
+Eif4g1 20	0.14	RNA-binding protein
+Pcbp2 17	1.01	RNA-binding protein
+Nars 10	1.30	RNA-binding protein
+Lars 3	-0.16	RNA-binding protein
+Eif5 7	1.27	RNA-binding protein
+Pcbp2 18	1.06	RNA-binding protein
+Lars 4	-0.72	Non RNA-binding protein
+Tcp1 5	0.83	RNA-binding protein
+Gstp1 4	0.73	RNA-binding protein
+Eif4b 3	-5.57	Non RNA-binding protein
+Srsf7 6	1.86	RNA-binding protein
+Lgals1 2	-0.75	Non RNA-binding protein
+Lars 5	1.48	RNA-binding protein
+Rps24 5	2.36	RNA-binding protein
+Pcbp2 19	1.04	RNA-binding protein
+Lars 6	-4.61	Non RNA-binding protein
+Pcbp2 20	0.95	RNA-binding protein
+Gdi2 5	0.58	RNA-binding protein
+Nars 11	0.99	RNA-binding protein
+Myh9 5	-3.12	Non RNA-binding protein
+Pcbp2 21	0.36	RNA-binding protein
+Pcbp2 22	1.26	RNA-binding protein
+Ctnna1 7	1.25	RNA-binding protein
+Eif5 8	1.29	RNA-binding protein
+Ube2l3 6	-5.57	Non RNA-binding protein
+Pcbp2 23	0.37	RNA-binding protein
+Pcbp2 24	0.94	RNA-binding protein
+Vdac2 6	-2.87	Non RNA-binding protein
+Ube2l3 7	-2.43	Non RNA-binding protein
+Gart 8	1.31	RNA-binding protein
+Nars 12	1.15	RNA-binding protein
+Pcbp2 25	-0.18	RNA-binding protein
+Eif5 9	1.61	RNA-binding protein
+Rpl10a 8	2.98	RNA-binding protein
+Eif3d 3	-0.12	RNA-binding protein
+Crnkl1 1	-0.71	Non RNA-binding protein
+Rpl8 1	2.55	RNA-binding protein
+Prkra 1	1.28	RNA-binding protein
+Puf60 1	1.40	RNA-binding protein
+Ssr4 1	-1.13	Non RNA-binding protein
+Cse1l 1	-0.33	Non RNA-binding protein
+Snrpd1 1	2.83	RNA-binding protein
+Farsa 1	0.44	RNA-binding protein
+Add1 1	1.96	RNA-binding protein
+Rps11 1	1.72	RNA-binding protein
+Mrpl10 1	0.87	RNA-binding protein
+Akap8 1	2.15	RNA-binding protein
+Rdx 1	-0.15	RNA-binding protein
+Ppp5c 1	0.98	RNA-binding protein
+Nhp2 1	-5.57	Non RNA-binding protein
+Sf3a1 1	0.24	RNA-binding protein
+Ccdc47 1	0.72	RNA-binding protein
+Gtf2f1 1	1.35	RNA-binding protein
+Khsrp 1	1.53	RNA-binding protein
+Acly 1	0.03	RNA-binding protein
+Celf1 1	2.39	RNA-binding protein
+Trap1 1	0.62	RNA-binding protein
+Sra1 1	1.19	RNA-binding protein
+Eif1b 1	1.30	RNA-binding protein
+Snrpb2 1	2.53	RNA-binding protein
+Lsm2 1	0.90	RNA-binding protein
+Ccdc124 1	-0.23	Non RNA-binding protein
+G6pdx 1	0.74	RNA-binding protein
+Hnrnpa0 1	0.36	RNA-binding protein
+Dus3l 1	1.03	RNA-binding protein
+Ubtf 1	1.72	RNA-binding protein
+Coro1c 1	0.85	RNA-binding protein
+Qars 1	0.67	RNA-binding protein
+Grb2 1	0.94	RNA-binding protein
+Cad 1	0.25	RNA-binding protein
+Hmgb3 1	-0.41	Non RNA-binding protein
+Prpf8 1	0.10	RNA-binding protein
+Rpl30 1	1.47	RNA-binding protein
+Rnmt 1	1.63	RNA-binding protein
+Uchl5 1	0.80	RNA-binding protein
+Luc7l3 1	0.13	RNA-binding protein
+Igf2bp1 1	2.19	RNA-binding protein
+Srsf6 1	-0.79	Non RNA-binding protein
+Edf1 1	1.47	RNA-binding protein
+Nxf1 1	1.82	RNA-binding protein
+Xpo1 1	0.16	RNA-binding protein
+Taf15 1	-0.52	Non RNA-binding protein
+Pfas 1	0.10	RNA-binding protein
+Prpf31 1	1.61	RNA-binding protein
+Rrbp1 1	1.14	RNA-binding protein
+U2af1 1	1.90	RNA-binding protein
+Ddx42 1	2.02	RNA-binding protein
+Slc25a5 1	-0.98	Non RNA-binding protein
+Sart3 1	0.45	RNA-binding protein
+Txnrd1 1	-0.21	Non RNA-binding protein
+Tmpo 1	1.86	RNA-binding protein
+Slc25a11 1	-1.43	Non RNA-binding protein
+Kpna2 1	1.22	RNA-binding protein
+Zc3h18 1	1.07	RNA-binding protein
+Hnrnph3 1	-0.24	Non RNA-binding protein
+Fam98b 1	1.25	RNA-binding protein
+Mtdh 1	1.41	RNA-binding protein
+Paip1 1	0.97	RNA-binding protein
+Pcbp4 1	0.48	RNA-binding protein
+Eif3h 1	1.47	RNA-binding protein
+Cpt1a 1	-0.96	Non RNA-binding protein
+Rnmt 2	1.97	RNA-binding protein
+Parp1 1	1.60	RNA-binding protein
+Csde1 1	2.00	RNA-binding protein
+Nudt5 1	1.12	RNA-binding protein
+Alyref 1	0.96	RNA-binding protein
+Hadhb 1	0.69	RNA-binding protein
+Sf3b2 1	1.71	RNA-binding protein
+Nop58 1	1.45	RNA-binding protein
+Nifk 1	3.13	RNA-binding protein
+Iars2 1	0.00	RNA-binding protein
+Acin1 1	0.54	RNA-binding protein
+Smndc1 1	0.79	RNA-binding protein
+Lmna 1	0.89	RNA-binding protein
+Rbm39 1	2.04	RNA-binding protein
+Nop56 1	1.73	RNA-binding protein
+Sf3b1 1	0.65	RNA-binding protein
+Nop16 1	1.52	RNA-binding protein
+Cdc5l 1	1.55	RNA-binding protein
+Hadha 1	-5.57	Non RNA-binding protein
+Lmnb1 1	0.11	RNA-binding protein
+Denr 1	-0.31	Non RNA-binding protein
+Naa15 1	0.50	RNA-binding protein
+Atp5c1 1	0.88	RNA-binding protein
+Papss1 1	0.79	RNA-binding protein
+Tars 1	1.04	RNA-binding protein
+Shmt2 1	0.52	RNA-binding protein
+Vcl 1	1.48	RNA-binding protein
+Ubap2l 1	0.84	RNA-binding protein
+Clns1a 1	1.19	RNA-binding protein
+Ncbp2 1	0.62	RNA-binding protein
+Eftud2 1	0.22	RNA-binding protein
+Sdha 1	-0.08	RNA-binding protein
+Pdcd4 1	1.87	RNA-binding protein
+Xrcc5 1	0.90	RNA-binding protein
+Raly 1	1.99	RNA-binding protein
+Snw1 1	1.67	RNA-binding protein
+Eif4a3 1	0.52	RNA-binding protein
+Pspc1 1	2.04	RNA-binding protein
+Gmps 1	1.09	RNA-binding protein
+Eif2a 1	1.56	RNA-binding protein
+Acin1 2	1.21	RNA-binding protein
+Anxa11 1	1.72	RNA-binding protein
+Dhx36 1	1.29	RNA-binding protein
+Dek 1	-0.56	Non RNA-binding protein
+Aldh18a1 1	1.04	RNA-binding protein
+Pabpn1 1	2.39	RNA-binding protein
+Api5 1	1.08	RNA-binding protein
+Copa 1	0.39	RNA-binding protein
+Nsun2 1	1.48	RNA-binding protein
+Psmb5 1	-1.54	Non RNA-binding protein
+Cstf2t 1	1.69	RNA-binding protein
+Ldhb 1	0.67	RNA-binding protein
+Immt 1	1.07	RNA-binding protein
+Sf3b3 1	0.54	RNA-binding protein
+Cast 1	1.38	RNA-binding protein
+Flnb 1	1.12	RNA-binding protein
+Tial1 1	0.62	RNA-binding protein
+Xpot 1	-0.01	RNA-binding protein
+Rrbp1 2	2.15	RNA-binding protein
+Lmna 2	0.55	RNA-binding protein
+Ncoa5 1	0.35	RNA-binding protein
+Dkc1 1	1.23	RNA-binding protein
+Gnl3 1	2.40	RNA-binding protein
+Nelfb 1	-0.17	RNA-binding protein
+Tsfm 1	0.54	RNA-binding protein
+Rbmxl1 1	1.22	RNA-binding protein
+Cryz 1	1.14	RNA-binding protein
+Hmgb2 1	0.10	RNA-binding protein
+Ddx17 1	1.48	RNA-binding protein
+Fam120a 1	0.77	RNA-binding protein
+Myef2 1	2.97	RNA-binding protein
+Hnrnpul1 1	2.39	RNA-binding protein
+Jmjd6 1	0.54	RNA-binding protein
+Thumpd3 1	0.78	RNA-binding protein
+Rpl28 1	1.62	RNA-binding protein
+Gtpbp1 1	1.57	RNA-binding protein
+Carm1 1	-0.53	Non RNA-binding protein
+Ubap2l 2	0.78	RNA-binding protein
+Copb1 1	0.94	RNA-binding protein
+Mrps21 1	0.36	RNA-binding protein
+Ncbp1 1	0.10	RNA-binding protein
+Cpne3 1	0.45	RNA-binding protein
+Celf1 2	2.21	RNA-binding protein
+Nono 1	1.29	RNA-binding protein
+Adk 1	0.70	RNA-binding protein
+Bclaf1 1	0.15	RNA-binding protein
+Atxn2l 1	1.56	RNA-binding protein
+Abcf1 1	2.15	RNA-binding protein
+Hnrnpll 1	1.78	RNA-binding protein
+Rbp1 1	0.43	RNA-binding protein
+Srrm1 1	-2.28	Non RNA-binding protein
+Mybbp1a 1	1.89	RNA-binding protein
+Metap2 1	0.83	RNA-binding protein
+Acaa2 1	0.55	RNA-binding protein
+Sf3a3 1	0.31	RNA-binding protein
+Hnrnpf 1	0.37	RNA-binding protein
+Exosc4 1	-0.07	RNA-binding protein
+Fubp3 1	1.24	RNA-binding protein
+Ppie 1	1.58	RNA-binding protein
+Rpl21 1	2.86	RNA-binding protein
+Mrps7 1	0.82	RNA-binding protein
+Snrpa1 1	0.94	RNA-binding protein
+Rpp25l 1	-0.22	Non RNA-binding protein
+Tdrkh 1	0.95	RNA-binding protein
+Hnrnph2 1	0.45	RNA-binding protein
+Hnrnpl 1	2.00	RNA-binding protein
+Zcchc8 1	2.79	RNA-binding protein
+Celf1 3	2.21	RNA-binding protein
+Rangap1 1	0.96	RNA-binding protein
+Rpl37a 1	0.64	RNA-binding protein
+Pcca 1	1.26	RNA-binding protein
+Tmem33 1	-3.65	Non RNA-binding protein
+Exosc3 1	1.17	RNA-binding protein
+Srsf3 1	2.04	RNA-binding protein
+Ewsr1 1	-3.68	Non RNA-binding protein
+Raly 2	2.47	RNA-binding protein
+Pdxk 1	1.14	RNA-binding protein
+Hmgn5 1	-0.14	RNA-binding protein
+Dhx15 1	1.02	RNA-binding protein
+Ube2i 1	0.83	RNA-binding protein
+Paip2 1	-0.65	Non RNA-binding protein
+Top2a 1	1.41	RNA-binding protein
+Uggt1 1	0.29	RNA-binding protein
+Pls3 1	1.23	RNA-binding protein
+Rdx 2	0.54	RNA-binding protein
+Ntpcr 1	2.01	RNA-binding protein
+Add1 2	1.96	RNA-binding protein
+Srsf10 1	-5.57	Non RNA-binding protein
+Psip1 1	1.45	RNA-binding protein
+Lrrc47 1	0.91	RNA-binding protein
+Eif4g3 1	-1.52	Non RNA-binding protein
+Sec23ip 1	1.16	RNA-binding protein
+Mrpl10 2	1.01	RNA-binding protein
+Hdlbp 1	1.96	RNA-binding protein
+Rps19bp1 1	3.70	RNA-binding protein
+Suclg1 1	-0.08	RNA-binding protein
+Larp4 1	2.31	RNA-binding protein
+Ccar2 1	1.16	RNA-binding protein
+Ddx21 1	2.59	RNA-binding protein
+Nudt21 1	0.37	RNA-binding protein
+Ptbp3 1	1.43	RNA-binding protein
+Uso1 1	1.43	RNA-binding protein
+Lonp1 1	1.41	RNA-binding protein
+Fau 1	2.85	RNA-binding protein
+Mcm3 1	1.01	RNA-binding protein
+Cisd2 1	0.52	RNA-binding protein
+Ppp1r8 1	1.52	RNA-binding protein
+Tnrc6b 1	1.88	RNA-binding protein
+Nudt16l1 1	-4.61	Non RNA-binding protein
+Vps35 1	0.98	RNA-binding protein
+Dnajc2 1	0.70	RNA-binding protein
+Magoh 1	0.29	RNA-binding protein
+Fbl 1	2.64	RNA-binding protein
+Ephb4 1	0.40	RNA-binding protein
+Ilf3 1	2.24	RNA-binding protein
+Tst 1	-0.18	RNA-binding protein
+Magohb 1	0.29	RNA-binding protein
+Snrpd2 1	1.90	RNA-binding protein
+Rps23 1	3.74	RNA-binding protein
+Dhx9 1	0.98	RNA-binding protein
+Mars 1	0.07	RNA-binding protein
+Cirbp 1	0.00	RNA-binding protein
+Copg1 1	0.33	RNA-binding protein
+Polr2b 1	0.92	RNA-binding protein
+Ntpcr 2	0.95	RNA-binding protein
+Sf3b6 1	1.42	RNA-binding protein
+Arcn1 1	1.44	RNA-binding protein
+Srsf9 1	1.05	RNA-binding protein
+Thumpd1 1	2.41	RNA-binding protein
+Tln1 1	1.68	RNA-binding protein
+Dis3l2 1	1.18	RNA-binding protein
+Zranb2 1	0.21	RNA-binding protein
+Khdrbs1 1	2.05	RNA-binding protein
+Eftud2 2	0.21	RNA-binding protein
+Larp1 1	2.16	RNA-binding protein
+Gm8994 1	0.24	RNA-binding protein
+Copa 2	-2.86	Non RNA-binding protein
+Ube2o 1	1.66	RNA-binding protein
+Ppp1cc 1	0.30	RNA-binding protein
+Ppp1cc 2	0.37	RNA-binding protein
+Eif4g3 2	1.70	RNA-binding protein
+Tln1 2	-0.22	Non RNA-binding protein
+Tufm 1	0.15	RNA-binding protein
+Grwd1 1	0.06	RNA-binding protein
+Prpf40a 1	0.08	RNA-binding protein
+Rnps1 1	-0.87	Non RNA-binding protein
+Kpna2 2	2.22	RNA-binding protein
+Sf3b4 1	-1.11	Non RNA-binding protein
+Fip1l1 1	2.58	RNA-binding protein
+Tsfm 2	0.52	RNA-binding protein
+Ewsr1 2	1.88	RNA-binding protein
+Gm12355 1	-5.57	Non RNA-binding protein
+Hnrnpr 1	2.38	RNA-binding protein
+Iars2 2	0.18	RNA-binding protein
+Cpne3 2	-5.57	Non RNA-binding protein
+Tial1 2	0.67	RNA-binding protein
+Tnpo1 1	0.44	RNA-binding protein
+Ncbp2 2	0.74	RNA-binding protein
+Srsf5 1	2.20	RNA-binding protein
+Srsf5 2	2.15	RNA-binding protein
+Abcf1 2	-5.57	Non RNA-binding protein
+Srsf10 2	-0.50	Non RNA-binding protein
+Fmr1 1	2.48	RNA-binding protein
+Arcn1 2	-5.57	Non RNA-binding protein
+Paip1 2	0.45	RNA-binding protein
+Ncoa5 2	1.52	RNA-binding protein
+Tagln2 1	1.81	RNA-binding protein
+Rnps1 2	-1.17	Non RNA-binding protein
+Hadhb 2	0.27	RNA-binding protein
+Ppp5c 2	-5.57	Non RNA-binding protein
+Cirbp 2	-0.14	RNA-binding protein
+Prpf31 2	1.64	RNA-binding protein
+Suclg1 2	-2.60	Non RNA-binding protein
+Ncbp2 3	-5.57	Non RNA-binding protein
+Sf1 1	-0.53	Non RNA-binding protein
+Snrnp200 1	0.89	RNA-binding protein
+Sf3b5 1	0.01	RNA-binding protein
+Pabpn1 2	2.66	RNA-binding protein
+Sap18 1	0.95	RNA-binding protein
+Luc7l3 2	-0.16	RNA-binding protein
+Ncoa5 3	-5.57	Non RNA-binding protein
+Jmjd6 2	-0.05	RNA-binding protein
+Ubtf 2	0.35	RNA-binding protein
+Ewsr1 3	-1.82	Non RNA-binding protein
+Ssrp1 1	-5.57	Non RNA-binding protein
+Srsf11 1	-5.57	Non RNA-binding protein
+Fubp1 1	0.98	RNA-binding protein
+Ddx1 1	1.29	RNA-binding protein
+Ephb4 2	0.46	RNA-binding protein
+Upf1 1	1.29	RNA-binding protein
+Tpr 1	0.12	RNA-binding protein
+Son 1	1.83	RNA-binding protein
+Srp19 1	3.50	RNA-binding protein
+Sf1 2	0.92	RNA-binding protein
+Hnrnph3 2	0.19	RNA-binding protein
+Fam98a 1	1.20	RNA-binding protein
+Rsl1d1 1	-5.57	Non RNA-binding protein
+Ptbp3 2	1.31	RNA-binding protein
+Atp5c1 2	0.81	RNA-binding protein
+Tmpo 2	2.58	RNA-binding protein
+Dnajc2 2	1.27	RNA-binding protein
+Xpo5 1	-0.29	Non RNA-binding protein
+Srsf5 3	-5.57	Non RNA-binding protein
+Coro1c 2	-5.57	Non RNA-binding protein
+Myef2 2	2.76	RNA-binding protein
+Sf1 3	0.90	RNA-binding protein
+Ssb 1	0.29	RNA-binding protein
+Zranb2 2	0.73	RNA-binding protein
+Tpr 2	-0.13	RNA-binding protein
+Tmpo 3	2.44	RNA-binding protein
+Hnrnpr 2	2.52	RNA-binding protein
+Eftud2 3	-5.57	Non RNA-binding protein
+Igf2bp2 1	-5.57	Non RNA-binding protein
+Srsf11 2	1.37	RNA-binding protein
+Mrpl43 1	1.11	RNA-binding protein
+Taf15 2	-5.57	Non RNA-binding protein
+Vars 1	-0.05	RNA-binding protein
+Psip1 2	1.42	RNA-binding protein
+Sap18 2	2.35	RNA-binding protein
+Hadhb 3	-5.57	Non RNA-binding protein
+Msn 1	-0.10	RNA-binding protein
+Tial1 3	0.50	RNA-binding protein
+Hnrnpm 1	2.19	RNA-binding protein
+Kpna2 3	0.24	RNA-binding protein
+Srpk2 1	1.47	RNA-binding protein
+Copg1 2	0.60	RNA-binding protein
+Ccdc47 2	1.82	RNA-binding protein
+Rbm39 2	-1.21	Non RNA-binding protein
+Acin1 3	0.54	RNA-binding protein
+Celf1 4	2.25	RNA-binding protein
+Fip1l1 2	-5.57	Non RNA-binding protein
+Ewsr1 4	1.87	RNA-binding protein
+Puf60 2	1.40	RNA-binding protein
+Carm1 2	-0.55	Non RNA-binding protein
+Fmr1 2	2.70	RNA-binding protein
+Srp19 2	3.04	RNA-binding protein
+Raly 3	2.47	RNA-binding protein
+Fubp3 2	1.29	RNA-binding protein
+Son 2	1.78	RNA-binding protein
+Wars 1	0.21	RNA-binding protein
+Srsf10 3	-0.54	Non RNA-binding protein
+Ubtf 3	0.22	RNA-binding protein
+Npm3 1	1.25	RNA-binding protein
+Grb2 2	1.11	RNA-binding protein
+Zc3h18 2	0.99	RNA-binding protein
+Ntpcr 3	-5.57	Non RNA-binding protein
+Nelfb 2	-3.21	Non RNA-binding protein
+Acly 2	0.11	RNA-binding protein
+Tmpo 4	2.23	RNA-binding protein
+Top1 1	0.70	RNA-binding protein
+Igf2bp2 2	1.52	RNA-binding protein
+Tln1 3	-5.57	Non RNA-binding protein
+Nsun2 2	1.57	RNA-binding protein
+Rbmx 1	1.47	RNA-binding protein
+Add1 3	2.07	RNA-binding protein
+Eif4g3 3	1.70	RNA-binding protein
+Zc3h15 1	-5.57	Non RNA-binding protein
+Anxa11 2	1.48	RNA-binding protein
+Fip1l1 3	2.31	RNA-binding protein
+Tial1 4	0.51	RNA-binding protein
+Cisd2 2	0.17	RNA-binding protein
+Acin1 4	1.19	RNA-binding protein
+Ssb 2	2.66	RNA-binding protein
+Srp19 3	-5.57	Non RNA-binding protein
+Ubap2l 3	0.86	RNA-binding protein
+Dazap1 1	2.19	RNA-binding protein
+Aco1 1	0.92	RNA-binding protein
+Tnpo1 2	0.43	RNA-binding protein
+Sf1 4	-0.08	RNA-binding protein
+Safb 1	1.93	RNA-binding protein
+Atp5c1 3	0.38	RNA-binding protein
+Rbmx 2	1.20	RNA-binding protein
+Ilf3 2	2.17	RNA-binding protein
+Fmr1 3	2.54	RNA-binding protein
+Tufm 2	0.91	RNA-binding protein
+Fip1l1 4	2.61	RNA-binding protein
+Igf2bp2 3	1.60	RNA-binding protein
+Aldh6a1 1	0.90	RNA-binding protein
+Tpr 3	0.92	RNA-binding protein
+Fmr1 4	2.71	RNA-binding protein
+Fip1l1 5	2.63	RNA-binding protein
+Srsf10 4	0.29	RNA-binding protein
+Carm1 3	-0.50	Non RNA-binding protein
+Snrpc 1	-0.71	Non RNA-binding protein
+Fmr1 5	2.54	RNA-binding protein
+Bclaf1 2	-0.15	RNA-binding protein
+Snrnp70 1	2.85	RNA-binding protein
+Immt 2	1.16	RNA-binding protein
+Rps15a 1	2.23	RNA-binding protein
+Anxa11 3	-5.57	Non RNA-binding protein
+Hnrnph3 3	-0.24	Non RNA-binding protein
+Acin1 5	-3.84	Non RNA-binding protein
+Rps15a 2	2.46	RNA-binding protein
+Acin1 6	-5.57	Non RNA-binding protein
+Immt 3	1.09	RNA-binding protein
+Slc25a3 1	-0.49	Non RNA-binding protein
+Pls3 2	1.23	RNA-binding protein
+Smarce1 1	0.72	RNA-binding protein
+Copa 3	-5.57	Non RNA-binding protein
+Larp4b 1	2.16	RNA-binding protein
+Ssrp1 2	1.45	RNA-binding protein
+Lsm2 2	0.51	RNA-binding protein
+Son 3	2.41	RNA-binding protein
+Psip1 3	1.54	RNA-binding protein
+Hnrnpm 2	2.01	RNA-binding protein
+Son 4	1.82	RNA-binding protein
+Luc7l3 3	0.48	RNA-binding protein
+Larp4 2	2.33	RNA-binding protein
+Dnajc2 3	0.87	RNA-binding protein
+Zc3h15 2	1.29	RNA-binding protein
+Dnajc2 4	0.69	RNA-binding protein
+Acin1 7	2.53	RNA-binding protein
+Hnrnpr 3	1.54	RNA-binding protein
+Add1 4	2.05	RNA-binding protein
+Lrpprc 1	0.89	RNA-binding protein
+Hsph1 1	1.67	RNA-binding protein
+Rnpep 1	-0.48	Non RNA-binding protein
+Snrnp40 1	0.02	RNA-binding protein
+Srrm1 2	-2.21	Non RNA-binding protein
+Grb2 3	0.86	RNA-binding protein
+Ewsr1 5	1.63	RNA-binding protein
+Prpf40a 2	1.06	RNA-binding protein
+Nop56 2	1.73	RNA-binding protein
+Acly 3	0.00	RNA-binding protein
+Hmgb3 2	1.58	RNA-binding protein
+Dazap1 2	2.16	RNA-binding protein
+Prpf31 3	-2.11	Non RNA-binding protein
+Eif4g3 4	1.30	RNA-binding protein
+Zranb2 3	1.13	RNA-binding protein
+Sf1 5	0.91	RNA-binding protein
+Ephb4 3	0.37	RNA-binding protein
+Fmr1 6	2.53	RNA-binding protein
+Lmna 3	0.45	RNA-binding protein
+Rbm39 3	2.02	RNA-binding protein
+Tsnax 1	0.94	RNA-binding protein
+Hnrnpul2 1	1.97	RNA-binding protein
+Eif4a3 2	0.01	RNA-binding protein
+Srrm1 3	-2.22	Non RNA-binding protein
+Nifk 2	3.04	RNA-binding protein
+Ccdc47 3	1.44	RNA-binding protein
+Rsl1d1 2	1.98	RNA-binding protein
+Ppp1r8 2	1.49	RNA-binding protein
+Lsm14a 1	2.63	RNA-binding protein
+Hnrnpul1 2	2.47	RNA-binding protein
+Farsa 2	0.38	RNA-binding protein
+Dazap1 3	2.19	RNA-binding protein
+Snrpa1 2	-5.57	Non RNA-binding protein
+Tmpo 5	2.09	RNA-binding protein
+Add1 5	2.33	RNA-binding protein
+Srsf11 3	1.29	RNA-binding protein
+Iars2 3	-0.15	RNA-binding protein
+Rnpep 2	-0.30	Non RNA-binding protein
+Nono 2	-5.57	Non RNA-binding protein
+Fip1l1 6	2.38	RNA-binding protein
+Ncoa5 4	1.23	RNA-binding protein
+Srsf2 1	0.99	RNA-binding protein
+Zranb2 4	-2.63	Non RNA-binding protein
+Srsf11 4	1.44	RNA-binding protein
+Eif4g3 5	1.71	RNA-binding protein
+Sf1 6	-0.77	Non RNA-binding protein
+Son 5	1.83	RNA-binding protein
+G3bp2 1	3.24	RNA-binding protein
+Srsf2 2	-5.57	Non RNA-binding protein
+Prpf40a 3	-5.57	Non RNA-binding protein
+Hnrnpl 2	-5.57	Non RNA-binding protein
+Pcca 2	-4.40	Non RNA-binding protein
+Srrm1 4	-5.57	Non RNA-binding protein
+Tmem33 2	-6.35	Non RNA-binding protein
+Nop58 2	-1.96	Non RNA-binding protein
+G3bp2 2	3.10	RNA-binding protein
+Hnrnph3 4	-5.57	Non RNA-binding protein
+Srsf11 5	-0.93	Non RNA-binding protein
+Fmr1 7	-5.57	Non RNA-binding protein
+Snrpb2 2	-5.57	Non RNA-binding protein
+Ptbp3 3	0.22	RNA-binding protein
+Eif4g3 6	-5.57	Non RNA-binding protein
+Add1 6	2.38	RNA-binding protein
+Vars 2	-5.57	Non RNA-binding protein
+Raly 4	-5.57	Non RNA-binding protein
+Alyref 2	-5.57	Non RNA-binding protein
+Mcm3 2	-5.57	Non RNA-binding protein
+Ewsr1 6	-5.57	Non RNA-binding protein
+Clns1a 2	-5.57	Non RNA-binding protein
+Hnrnpl 3	1.95	RNA-binding protein
+Thumpd3 2	-5.57	Non RNA-binding protein
+Atp5c1 4	1.40	RNA-binding protein
+Sf1 7	-0.94	Non RNA-binding protein
+Ubtf 4	-5.57	Non RNA-binding protein
+Qars 2	-5.57	Non RNA-binding protein
+Exosc3 2	-5.57	Non RNA-binding protein
+Uggt1 2	-5.57	Non RNA-binding protein
+Hnrnpm 3	-5.57	Non RNA-binding protein
+Usp7 1	-5.57	Non RNA-binding protein
+Magohb 2	-2.06	Non RNA-binding protein
+Nop56 3	-5.57	Non RNA-binding protein
+Celf1 5	-5.57	Non RNA-binding protein
+Uggt1 3	-0.14	RNA-binding protein
+Eif4g3 7	-0.59	Non RNA-binding protein
+Rnmt 3	2.21	RNA-binding protein
+Cirbp 3	-5.57	Non RNA-binding protein
+Mybbp1a 2	-5.57	Non RNA-binding protein
+Kpna2 4	2.22	RNA-binding protein
+Eif2a 2	-0.17	RNA-binding protein
+Nop58 3	-3.97	Non RNA-binding protein
+Lmna 4	0.50	RNA-binding protein
+Myef2 3	2.82	RNA-binding protein
+Top1 2	-5.57	Non RNA-binding protein
+Srp19 4	0.32	RNA-binding protein
+Dis3l2 2	-5.57	Non RNA-binding protein
+Exosc3 3	0.86	RNA-binding protein
+Atxn2l 2	1.65	RNA-binding protein
+Wars 2	2.12	RNA-binding protein
+Snrnp200 2	-5.57	Non RNA-binding protein
+Pcbp4 2	-5.57	Non RNA-binding protein
+Nop58 4	0.48	RNA-binding protein
+Srsf9 2	-5.57	Non RNA-binding protein
+Hnrnpf 2	1.41	RNA-binding protein
+Copa 4	0.41	RNA-binding protein
+Ssr4 2	-5.57	Non RNA-binding protein
+Immt 4	1.58	RNA-binding protein
+Uchl5 2	0.73	RNA-binding protein
+Edf1 2	-5.57	Non RNA-binding protein
+Larp4b 2	-5.57	Non RNA-binding protein
+Farsa 3	-5.57	Non RNA-binding protein
+Ube2i 2	-0.24	Non RNA-binding protein
+Pcca 3	-5.57	Non RNA-binding protein
+Pcbp4 3	0.13	RNA-binding protein
+Top2a 2	-5.57	Non RNA-binding protein
+Wars 3	0.03	RNA-binding protein
+Lrrc47 2	1.21	RNA-binding protein
+Pabpn1 3	2.34	RNA-binding protein
+Paip1 3	-5.57	Non RNA-binding protein
+Nxf1 2	1.85	RNA-binding protein
+Hdlbp 2	-5.57	Non RNA-binding protein
+Dkc1 2	-1.45	Non RNA-binding protein
+Snrnp40 2	-5.57	Non RNA-binding protein
+Pabpn1 4	-4.31	Non RNA-binding protein
+Nelfb 3	-5.57	Non RNA-binding protein
+Rbm39 4	-1.71	Non RNA-binding protein
+Crnkl1 2	-5.57	Non RNA-binding protein
+Ube2i 3	0.13	RNA-binding protein
+Rbm39 5	-1.11	Non RNA-binding protein
+Sf1 8	0.95	RNA-binding protein
+Mtdh 2	0.22	RNA-binding protein
+Cse1l 2	-5.57	Non RNA-binding protein
+Hdlbp 3	1.42	RNA-binding protein
+Fubp3 3	2.19	RNA-binding protein
+Nop58 5	0.02	RNA-binding protein
+Ptbp3 4	1.48	RNA-binding protein
+Bclaf1 3	0.18	RNA-binding protein
+Xpo1 2	-5.57	Non RNA-binding protein
+Nxf1 3	1.09	RNA-binding protein
+Snrpe 1	2.37	RNA-binding protein
+Eif4g2 1	2.23	RNA-binding protein
+Eif4a3 3	-5.57	Non RNA-binding protein
+Sf3b1 2	-5.57	Non RNA-binding protein
+Gtf2e2 1	-0.03	RNA-binding protein
+Rbmx 3	1.62	RNA-binding protein
+Ppp1cc 3	-0.99	Non RNA-binding protein
+U2af1 2	1.81	RNA-binding protein
+Prpf8 2	-5.57	Non RNA-binding protein
+Dhx9 2	-5.57	Non RNA-binding protein
+Hnrnpf 3	-0.13	RNA-binding protein
+Rbm39 6	-5.57	Non RNA-binding protein
+Nxf1 4	-5.57	Non RNA-binding protein
+Khdrbs1 2	-5.57	Non RNA-binding protein
+Naa15 2	0.63	RNA-binding protein
+Safb 2	-0.14	RNA-binding protein
+Snrpc 2	-5.57	Non RNA-binding protein
+Sra1 2	-1.98	Non RNA-binding protein
+Grb2 4	-0.62	Non RNA-binding protein
+Lsm2 3	-5.57	Non RNA-binding protein
+Rrbp1 3	-5.57	Non RNA-binding protein
+Dhx36 2	-5.57	Non RNA-binding protein
+Rbm39 7	1.02	RNA-binding protein
+Aldh18a1 2	0.03	RNA-binding protein
+Ubtf 5	1.43	RNA-binding protein
+Rpl30 2	-5.57	Non RNA-binding protein
+Sf1 9	-5.57	Non RNA-binding protein
+Ldhb 2	-5.16	Non RNA-binding protein
+Mars 2	0.08	RNA-binding protein
+Rnmt 4	-5.57	Non RNA-binding protein
+Tpr 4	-5.57	Non RNA-binding protein
+Nsun2 3	-5.57	Non RNA-binding protein
+Nop58 6	-5.57	Non RNA-binding protein
+Magohb 3	-0.15	RNA-binding protein
+Rbm39 8	2.21	RNA-binding protein
+Tial1 5	0.65	RNA-binding protein
+Ube2o 2	-5.57	Non RNA-binding protein
+Cse1l 3	-0.26	Non RNA-binding protein
+Coro1c 3	-0.77	Non RNA-binding protein
+Ube2i 4	-0.59	Non RNA-binding protein
+Ppp1cc 4	-5.57	Non RNA-binding protein
+Ptbp3 5	1.61	RNA-binding protein
+Suclg1 3	-5.57	Non RNA-binding protein
+Exosc4 2	-5.57	Non RNA-binding protein
+Paip1 4	0.07	RNA-binding protein
+Pcbp4 4	0.97	RNA-binding protein
+Hmgb3 3	-5.57	Non RNA-binding protein
+Uchl5 3	-5.57	Non RNA-binding protein
+Eif4g2 2	-5.57	Non RNA-binding protein
+Mtdh 3	-5.57	Non RNA-binding protein
+Sdha 2	-5.57	Non RNA-binding protein
+Acin1 8	1.20	RNA-binding protein
+Ncbp1 2	-5.57	Non RNA-binding protein
+Eif4g2 3	1.86	RNA-binding protein
+Add1 7	-5.57	Non RNA-binding protein
+Acly 4	-5.57	Non RNA-binding protein
+Dazap1 4	-5.57	Non RNA-binding protein
+Mars 3	-5.57	Non RNA-binding protein
+Snrpe 2	0.54	RNA-binding protein
+Hnrnpl 4	0.86	RNA-binding protein
+Eftud2 4	-0.52	Non RNA-binding protein
+Raly 5	2.16	RNA-binding protein
+Tln1 4	1.19	RNA-binding protein
+Usp7 2	1.13	RNA-binding protein
+Hnrnpll 2	2.34	RNA-binding protein
+Hnrnpm 4	2.28	RNA-binding protein
+Pcbp4 5	-1.86	Non RNA-binding protein
+Sra1 3	-5.57	Non RNA-binding protein
+Fubp3 4	0.23	RNA-binding protein
+Metap2 2	1.51	RNA-binding protein
+Nop58 7	-0.82	Non RNA-binding protein
+Metap2 3	-5.57	Non RNA-binding protein
+Myef2 4	3.02	RNA-binding protein
+Parp1 2	-5.57	Non RNA-binding protein
+Cryz 2	0.15	RNA-binding protein
+Iars2 4	-5.57	Non RNA-binding protein
+Ssb 3	3.54	RNA-binding protein
+Cryz 3	-0.39	Non RNA-binding protein
+Ntpcr 4	1.81	RNA-binding protein
+Polr2b 2	-5.57	Non RNA-binding protein
+Rnpep 3	-5.57	Non RNA-binding protein
+Pspc1 2	1.51	RNA-binding protein
+G6pdx 2	0.66	RNA-binding protein
+Aldh18a1 3	0.35	RNA-binding protein
+Sra1 4	1.23	RNA-binding protein
+Lmnb1 2	-5.57	Non RNA-binding protein
+Sf3a1 2	-5.57	Non RNA-binding protein
+Zc3h18 3	-5.57	Non RNA-binding protein
+Aldh18a1 4	-1.84	Non RNA-binding protein
+Kpna2 5	2.06	RNA-binding protein
+Magohb 4	-5.57	Non RNA-binding protein
+Hadha 2	1.64	RNA-binding protein
+Vars 3	-0.25	Non RNA-binding protein
+Luc7l3 4	-5.57	Non RNA-binding protein
+Sf3a3 2	-5.57	Non RNA-binding protein
+Snrpa1 3	2.29	RNA-binding protein
+Cryz 4	-0.32	Non RNA-binding protein
+Srsf11 6	0.25	RNA-binding protein
+Usp7 3	0.82	RNA-binding protein
+Lrpprc 2	-5.57	Non RNA-binding protein
+Tagln2 2	0.65	RNA-binding protein
+Qars 3	0.63	RNA-binding protein
+Igf2bp1 2	-5.57	Non RNA-binding protein
+Aco1 2	-5.57	Non RNA-binding protein
+Hdlbp 4	1.78	RNA-binding protein
+Abcf1 3	1.40	RNA-binding protein
+Lmna 5	-5.57	Non RNA-binding protein
+Dhx9 3	2.00	RNA-binding protein
+Hnrnpf 4	1.58	RNA-binding protein
+Tial1 6	-5.57	Non RNA-binding protein
+Hnrnpm 5	2.09	RNA-binding protein
+Nop56 4	1.74	RNA-binding protein
+Rpl21 2	-5.57	Non RNA-binding protein
+Nudt5 2	-5.57	Non RNA-binding protein
+Pabpn1 5	2.11	RNA-binding protein
+Dek 2	0.20	RNA-binding protein
+Larp4b 3	2.08	RNA-binding protein
+Prpf8 3	0.48	RNA-binding protein
+Ssrp1 3	1.28	RNA-binding protein
+Kpna2 6	-5.57	Non RNA-binding protein
+Coro1c 4	-0.39	Non RNA-binding protein
+Pcbp4 6	0.35	RNA-binding protein
+Ube2i 5	0.37	RNA-binding protein
+Son 6	1.79	RNA-binding protein
+Nono 3	0.43	RNA-binding protein
+Ncoa5 5	-0.53	Non RNA-binding protein
+Rbm39 9	0.06	RNA-binding protein
+Ube2i 6	-0.57	Non RNA-binding protein
+Prkra 2	-5.57	Non RNA-binding protein
+Nop58 8	-2.35	Non RNA-binding protein
+Eif4g2 4	1.72	RNA-binding protein
+Hnrnpr 4	0.20	RNA-binding protein
+Paip1 5	0.54	RNA-binding protein
+Nxf1 5	1.95	RNA-binding protein
+Usp7 4	-2.21	Non RNA-binding protein
+Dnajc2 5	-5.57	Non RNA-binding protein
+Larp4b 4	-3.09	Non RNA-binding protein
+Hnrnpl 5	2.05	RNA-binding protein
+Eif4g3 8	-0.70	Non RNA-binding protein
+Uggt1 4	-0.30	Non RNA-binding protein
+Eftud2 5	2.46	RNA-binding protein
+Son 7	0.35	RNA-binding protein
+Rps15a 3	-5.57	Non RNA-binding protein
+G6pdx 3	-5.57	Non RNA-binding protein
+Dis3l2 3	2.05	RNA-binding protein
+Eif4g2 5	-0.93	Non RNA-binding protein
+Ppie 2	-5.57	Non RNA-binding protein
+Dkc1 3	-5.57	Non RNA-binding protein
+Snrpe 3	-1.98	Non RNA-binding protein
+Sf3b1 3	-0.94	Non RNA-binding protein
+Slc25a11 2	-5.57	Non RNA-binding protein
+Cryz 5	0.06	RNA-binding protein
+Rbm39 10	1.47	RNA-binding protein
+Nop58 9	-2.60	Non RNA-binding protein
+Srsf11 7	-2.80	Non RNA-binding protein
+Tnpo1 3	1.12	RNA-binding protein
+Cse1l 4	-0.29	Non RNA-binding protein
+Fam98b 2	-5.57	Non RNA-binding protein
+Nop16 2	1.30	RNA-binding protein
+Zranb2 5	-5.57	Non RNA-binding protein
+Metap2 4	0.74	RNA-binding protein
+Hdlbp 5	-2.62	Non RNA-binding protein
+Xpo1 3	2.42	RNA-binding protein
+Myef2 5	2.98	RNA-binding protein
+Ptbp3 6	0.48	RNA-binding protein
+Atxn2l 3	1.85	RNA-binding protein
+Wars 4	-5.57	Non RNA-binding protein
+Atp5c1 5	1.98	RNA-binding protein
+Lrrc47 3	-5.57	Non RNA-binding protein
+Copg1 3	-5.57	Non RNA-binding protein
+Srsf5 4	1.94	RNA-binding protein
+Psip1 4	-5.57	Non RNA-binding protein
+Larp4b 5	1.97	RNA-binding protein
+Ubtf 6	0.92	RNA-binding protein
+Nop56 5	1.12	RNA-binding protein
+Trap1 2	-0.36	Non RNA-binding protein
+Acin1 9	1.35	RNA-binding protein
+Rbm39 11	2.58	RNA-binding protein
+Tmem33 3	-4.42	Non RNA-binding protein
+Kpna2 7	0.12	RNA-binding protein
+Denr 2	-5.57	Non RNA-binding protein
+Nop58 10	-0.41	Non RNA-binding protein
+Naa15 3	-0.41	Non RNA-binding protein
+Hnrnpm 6	-0.34	Non RNA-binding protein
+Nsun2 4	1.60	RNA-binding protein
+Coro1c 5	0.26	RNA-binding protein
+Lsm14a 2	1.50	RNA-binding protein
+Snrpe 4	0.62	RNA-binding protein
+Aldh18a1 5	-5.57	Non RNA-binding protein
+Ddx42 2	-5.57	Non RNA-binding protein
+Trap1 3	-5.57	Non RNA-binding protein
+Srsf11 8	0.74	RNA-binding protein
+Purb 1	2.16	RNA-binding protein
+Pls3 3	-5.57	Non RNA-binding protein
+Pfas 2	-5.57	Non RNA-binding protein
+Gtf2e2 2	1.97	RNA-binding protein
+Hdlbp 6	-2.82	Non RNA-binding protein
+Srrm1 5	-5.20	Non RNA-binding protein
+Api5 2	-5.57	Non RNA-binding protein
+Prpf31 4	-5.57	Non RNA-binding protein
+Nop58 11	1.43	RNA-binding protein
+Srsf10 5	0.22	RNA-binding protein
+Lsm2 4	-0.31	Non RNA-binding protein
+Son 8	-5.57	Non RNA-binding protein
+Eif2a 3	-5.57	Non RNA-binding protein
+Ppp1r8 3	-5.57	Non RNA-binding protein
+Mars 4	2.49	RNA-binding protein
+Smarce1 2	-5.57	Non RNA-binding protein
+Psip1 5	-0.10	RNA-binding protein
+Srsf2 3	-3.50	Non RNA-binding protein
+Psip1 6	-0.54	Non RNA-binding protein
+Ptbp3 7	-5.57	Non RNA-binding protein
+Gtf2e2 3	-5.57	Non RNA-binding protein
+Slc25a3 2	-5.57	Non RNA-binding protein
+Fubp3 5	2.03	RNA-binding protein
+Ptbp3 8	-0.22	Non RNA-binding protein
+Jmjd6 3	-5.57	Non RNA-binding protein
+Kctd12 1	-5.57	Non RNA-binding protein
+Metap2 5	0.96	RNA-binding protein
+Safb 3	-5.57	Non RNA-binding protein
+Msn 2	-5.57	Non RNA-binding protein
+Zc3h18 4	1.02	RNA-binding protein
+Paip1 6	1.62	RNA-binding protein
+Naa15 4	-5.57	Non RNA-binding protein
+Gtf2e2 4	0.68	RNA-binding protein
+Srsf9 3	0.35	RNA-binding protein
+Luc7l3 5	0.17	RNA-binding protein
+Tnpo1 4	0.47	RNA-binding protein
+Snrpe 5	-2.74	Non RNA-binding protein
+Eif4g3 9	1.58	RNA-binding protein
+Myef2 6	-5.57	Non RNA-binding protein
+Ptbp3 9	1.21	RNA-binding protein
+Mrps7 2	-5.57	Non RNA-binding protein
+Pcca 4	1.15	RNA-binding protein
+Vars 4	-0.33	Non RNA-binding protein
+Gtf2e2 5	2.49	RNA-binding protein
+Fam98a 2	-5.57	Non RNA-binding protein
+Fubp3 6	-2.29	Non RNA-binding protein
+Magohb 5	-3.90	Non RNA-binding protein
+Srrm1 6	-1.55	Non RNA-binding protein
+Srrm1 7	-2.22	Non RNA-binding protein
+Mrps21 2	-5.57	Non RNA-binding protein
+Pfas 3	-0.84	Non RNA-binding protein
+Cryz 6	0.25	RNA-binding protein
+Tsfm 3	-5.57	Non RNA-binding protein
+Nhp2 2	0.38	RNA-binding protein
+Srsf3 2	2.40	RNA-binding protein
+Zc3h18 5	-1.00	Non RNA-binding protein
+Slc25a11 3	-2.01	Non RNA-binding protein
+Snrpb2 3	2.71	RNA-binding protein
+Slc25a5 2	-5.57	Non RNA-binding protein
+Srsf3 3	-5.57	Non RNA-binding protein
+Fbll1 1	2.04	RNA-binding protein
+Copa 5	0.30	RNA-binding protein
+Safb 4	1.95	RNA-binding protein
+Srrm1 8	-0.38	Non RNA-binding protein
+Dhx9 4	2.30	RNA-binding protein
+Cryz 7	1.37	RNA-binding protein
+Tsfm 4	-0.36	Non RNA-binding protein
+Sap18 3	-5.57	Non RNA-binding protein
+Pspc1 3	-1.29	Non RNA-binding protein
+Dek 3	-5.57	Non RNA-binding protein
+Dek 4	0.87	RNA-binding protein
+Nop56 6	0.87	RNA-binding protein
+Dhx9 5	0.98	RNA-binding protein
+Rps15a 4	3.06	RNA-binding protein
+Eftud2 6	0.29	RNA-binding protein
+Ccdc47 4	-5.57	Non RNA-binding protein
+Slc25a3 3	-0.67	Non RNA-binding protein
+Ppp1cc 5	-3.23	Non RNA-binding protein
+Pcbp4 7	0.96	RNA-binding protein
+Acin1 10	0.22	RNA-binding protein
+Xpo1 4	1.34	RNA-binding protein
+Zranb2 6	-0.61	Non RNA-binding protein
+Uchl5 4	0.99	RNA-binding protein
+Immt 5	1.30	RNA-binding protein
+Tial1 7	0.56	RNA-binding protein
+Hnrnpll 3	-5.57	Non RNA-binding protein
+Matr3 1	2.29	RNA-binding protein
+Npm3 2	-5.57	Non RNA-binding protein
+Eif4g2 6	-2.39	Non RNA-binding protein
+Immt 6	1.22	RNA-binding protein
+Larp1 2	2.13	RNA-binding protein
+Lsm14a 3	2.50	RNA-binding protein
+Carm1 4	-5.57	Non RNA-binding protein
+Ppp1cc 6	-2.76	Non RNA-binding protein
+Tmem33 4	-3.14	Non RNA-binding protein
+Tagln2 3	-5.57	Non RNA-binding protein
+Pcca 5	2.00	RNA-binding protein
+Pabpn1 6	1.65	RNA-binding protein
+Slc25a3 4	-2.46	Non RNA-binding protein
+Add1 8	2.26	RNA-binding protein
+Bclaf1 4	-0.22	Non RNA-binding protein
+Srsf6 2	0.90	RNA-binding protein
+Qars 4	-0.91	Non RNA-binding protein
+Acin1 11	-0.92	Non RNA-binding protein
+Aldh18a1 6	1.02	RNA-binding protein
+Vars 5	0.27	RNA-binding protein
+Fubp3 7	1.51	RNA-binding protein
+Jmjd6 4	0.56	RNA-binding protein
+Dis3l2 4	1.15	RNA-binding protein
+Hnrnpl 6	0.17	RNA-binding protein
+Bclaf1 5	-5.57	Non RNA-binding protein
+Taf15 3	1.70	RNA-binding protein
+Uggt1 5	-1.97	Non RNA-binding protein
+Luc7l3 6	-1.92	Non RNA-binding protein
+Jmjd6 5	1.02	RNA-binding protein
+Bclaf1 6	-0.46	Non RNA-binding protein
+Denr 3	-0.21	Non RNA-binding protein
+Pspc1 4	-5.57	Non RNA-binding protein
+Myef2 7	3.05	RNA-binding protein
+Larp1 3	-5.57	Non RNA-binding protein
+Cse1l 5	-0.15	RNA-binding protein
+Vars 6	-3.81	Non RNA-binding protein
+Hnrnpr 5	1.63	RNA-binding protein
+Paip1 7	0.12	RNA-binding protein
+Tln1 5	0.56	RNA-binding protein
+Farsa 4	-0.14	RNA-binding protein
+Eftud2 7	-2.71	Non RNA-binding protein
+Ldhb 3	0.82	RNA-binding protein
+Sap18 4	1.95	RNA-binding protein
+Atxn2l 4	0.75	RNA-binding protein
+Hnrnpr 6	-5.57	Non RNA-binding protein
+Hdlbp 7	1.83	RNA-binding protein
+Rnmt 5	2.30	RNA-binding protein
+Srrm1 9	0.86	RNA-binding protein
+Dkc1 4	1.07	RNA-binding protein
+Rbmx 4	-0.35	Non RNA-binding protein
+Ube2i 7	-5.57	Non RNA-binding protein
+Mtdh 4	1.23	RNA-binding protein
+Uchl5 5	0.60	RNA-binding protein
+Bclaf1 7	-0.19	RNA-binding protein
+Nolc1 1	-0.52	Non RNA-binding protein
+Pabpn1 7	2.21	RNA-binding protein
+Gm20521 1	0.73	RNA-binding protein
+Sap18 5	0.62	RNA-binding protein
+Acin1 12	1.17	RNA-binding protein
+Pcca 6	0.74	RNA-binding protein
+Nop56 7	1.97	RNA-binding protein
+Tpr 5	-0.98	Non RNA-binding protein
+Mtdh 5	0.46	RNA-binding protein
+Rbm39 12	0.56	RNA-binding protein
+Eif2a 4	-0.07	RNA-binding protein
+Tmem33 5	-5.57	Non RNA-binding protein
+Safb 5	2.42	RNA-binding protein
+Metap2 6	0.63	RNA-binding protein
+Metap2 7	0.45	RNA-binding protein
+Sf3b4 2	-5.57	Non RNA-binding protein
+Pcbp4 8	0.53	RNA-binding protein
+Nudt5 3	1.50	RNA-binding protein
+Magoh 2	-5.57	Non RNA-binding protein
+Fubp3 8	-5.57	Non RNA-binding protein
+Dhx9 6	1.48	RNA-binding protein
+Pls3 4	1.23	RNA-binding protein
+Nop56 8	-0.03	RNA-binding protein
+Tial1 8	0.17	RNA-binding protein
+Hdlbp 8	2.02	RNA-binding protein
+Cirbp 4	1.31	RNA-binding protein
+Dazap1 5	1.23	RNA-binding protein
+Nop56 9	-2.05	Non RNA-binding protein
+Wars 5	3.61	RNA-binding protein
+Mtdh 6	0.91	RNA-binding protein
+Mrps21 3	-0.48	Non RNA-binding protein
+Nsun2 5	-0.96	Non RNA-binding protein
+Tmem33 6	-3.66	Non RNA-binding protein
+Sf1 10	1.82	RNA-binding protein
+Eif2a 5	0.71	RNA-binding protein
+Rpl30 3	0.47	RNA-binding protein
+Nop56 10	0.45	RNA-binding protein
+Pcca 7	1.47	RNA-binding protein
+Lrpprc 3	0.88	RNA-binding protein
+Dkc1 5	1.06	RNA-binding protein
+Paip1 8	2.07	RNA-binding protein
+Ntpcr 5	-0.03	RNA-binding protein
+Nifk 3	1.78	RNA-binding protein
+Raly 6	2.38	RNA-binding protein
+Ppp5c 3	1.07	RNA-binding protein
+Add1 9	1.71	RNA-binding protein
+Ssb 4	0.83	RNA-binding protein
+Ppp1cc 7	-1.68	Non RNA-binding protein
+Metap2 8	-1.90	Non RNA-binding protein
+Sf1 11	-2.75	Non RNA-binding protein
+Thumpd3 3	1.45	RNA-binding protein
+Rnmt 6	1.15	RNA-binding protein
+Nop16 3	1.59	RNA-binding protein
+Ssr4 3	-1.10	Non RNA-binding protein
+Pcca 8	1.01	RNA-binding protein
+Rps15a 5	3.31	RNA-binding protein
+Immt 7	-5.57	Non RNA-binding protein
+Nelfb 4	0.10	RNA-binding protein
+Mtdh 7	0.60	RNA-binding protein
+Eif4g2 7	2.44	RNA-binding protein
+Ccdc47 5	2.16	RNA-binding protein
+Atp5c1 6	1.76	RNA-binding protein
+Immt 8	1.24	RNA-binding protein
+Luc7l3 7	-0.08	RNA-binding protein
+Iqgap1 1	1.69	RNA-binding protein
+Lrrc47 4	2.83	RNA-binding protein
+Hnrnpm 7	2.11	RNA-binding protein
+Abcf1 4	-0.85	Non RNA-binding protein
+Rbmx 5	2.77	RNA-binding protein
+Thumpd3 4	0.94	RNA-binding protein
+Carm1 5	0.01	RNA-binding protein
+Hnrnpf 5	-2.39	Non RNA-binding protein
+Lrrc47 5	0.95	RNA-binding protein
+Aldh18a1 7	0.83	RNA-binding protein
+Rpl28 2	-5.57	Non RNA-binding protein
+Kctd12 2	0.30	RNA-binding protein
+Hnrnpf 6	-1.31	Non RNA-binding protein
+Pcbp4 9	0.50	RNA-binding protein
+Slc25a11 4	-3.65	Non RNA-binding protein
+Pfas 4	2.08	RNA-binding protein
+Hnrnpr 7	-0.25	Non RNA-binding protein
+Atp5c1 7	1.69	RNA-binding protein
+Zc3h18 6	0.41	RNA-binding protein
+Ptbp3 10	1.27	RNA-binding protein
+Cse1l 6	-3.60	Non RNA-binding protein
+Rpl28 3	0.21	RNA-binding protein
+Nxf1 6	1.32	RNA-binding protein
+Ddx6 1	1.43	RNA-binding protein
+Pabpn1 8	-5.57	Non RNA-binding protein
+Usp7 5	1.13	RNA-binding protein
+Dkc1 6	1.04	RNA-binding protein
+Bclaf1 8	0.77	RNA-binding protein
+Uggt1 6	0.06	RNA-binding protein
+Jmjd6 6	0.15	RNA-binding protein
+Ssb 5	-5.57	Non RNA-binding protein
+Fubp3 9	-2.71	Non RNA-binding protein
+Ptbp3 11	-1.40	Non RNA-binding protein
+Tst 2	-5.57	Non RNA-binding protein
+Rps11 2	1.53	RNA-binding protein
+Sf3b2 2	-5.57	Non RNA-binding protein
+Tmpo 6	-5.57	Non RNA-binding protein
+Txnrd1 2	-5.57	Non RNA-binding protein
+Fubp1 2	-5.57	Non RNA-binding protein
+Lsm14a 4	0.13	RNA-binding protein
+Eif4g3 10	1.62	RNA-binding protein
+Akap8 2	-0.02	RNA-binding protein
+Gtpbp1 2	1.08	RNA-binding protein
+Pdcd4 2	-5.57	Non RNA-binding protein
+Sf3b3 2	-5.57	Non RNA-binding protein
+Srsf3 4	-8.55	Non RNA-binding protein
+Xpot 2	-1.06	Non RNA-binding protein
+Lonp1 2	-2.59	Non RNA-binding protein
+Cast 2	1.29	RNA-binding protein
+Tnpo1 5	-5.57	Non RNA-binding protein
+Naa15 5	0.39	RNA-binding protein
+Ilf3 3	2.13	RNA-binding protein
+Ppp1cc 8	0.47	RNA-binding protein
+Dhx15 2	0.73	RNA-binding protein
+Iqgap1 2	-5.57	Non RNA-binding protein
+Gnl3 2	-5.57	Non RNA-binding protein
+G3bp2 3	0.50	RNA-binding protein
+Puf60 3	-5.57	Non RNA-binding protein
+Fubp1 3	1.83	RNA-binding protein
+Fubp1 4	-0.37	Non RNA-binding protein
+Grwd1 2	1.12	RNA-binding protein
+Hsph1 2	1.97	RNA-binding protein
+G3bp2 4	-5.57	Non RNA-binding protein
+Gtpbp1 3	1.12	RNA-binding protein
+Snrpd1 2	-5.57	Non RNA-binding protein
+Sra1 5	0.68	RNA-binding protein
+Tdrkh 2	0.87	RNA-binding protein
+Akap8 3	-5.57	Non RNA-binding protein
+Ddx17 2	1.45	RNA-binding protein
+Lsm14a 5	-0.15	RNA-binding protein
+Snrnp70 2	0.75	RNA-binding protein
+Ubap2l 4	-2.59	Non RNA-binding protein
+Cad 2	-5.57	Non RNA-binding protein
+Tars 2	-5.57	Non RNA-binding protein
+Akap8 4	-0.19	RNA-binding protein
+Tufm 3	1.51	RNA-binding protein
+Sart3 2	-5.57	Non RNA-binding protein
+Dus3l 2	-5.57	Non RNA-binding protein
+Matr3 2	2.43	RNA-binding protein
+Gnl3 3	0.16	RNA-binding protein
+Matr3 3	-5.57	Non RNA-binding protein
+Snrnp70 3	-5.57	Non RNA-binding protein
+Ubap2l 5	-5.57	Non RNA-binding protein
+Matr3 4	0.12	RNA-binding protein
+Sf3b2 3	-0.27	Non RNA-binding protein
+Csde1 2	1.92	RNA-binding protein
+Ilf3 4	1.59	RNA-binding protein
+Ldhb 4	1.00	RNA-binding protein
+Khsrp 2	-5.57	Non RNA-binding protein
+Fam98a 3	0.60	RNA-binding protein
+Upf1 2	1.34	RNA-binding protein
+Sf3b6 2	-5.57	Non RNA-binding protein
+Nolc1 2	-3.45	Non RNA-binding protein
+Tial1 9	-0.23	Non RNA-binding protein
+Uso1 2	1.51	RNA-binding protein
+Cad 3	0.24	RNA-binding protein
+Nolc1 3	-0.55	Non RNA-binding protein
+Ddx21 2	-5.57	Non RNA-binding protein
+Ubap2l 6	0.57	RNA-binding protein
+Csde1 3	-5.57	Non RNA-binding protein
+Fbl 2	-5.57	Non RNA-binding protein
+Cast 3	1.46	RNA-binding protein
+Zcchc8 2	-0.84	Non RNA-binding protein
+Paip2 2	-5.57	Non RNA-binding protein
+Exosc4 3	0.47	RNA-binding protein
+Ilf3 5	-5.57	Non RNA-binding protein
+Nolc1 4	-0.54	Non RNA-binding protein
+U2af1 3	-5.57	Non RNA-binding protein
+Pcbp4 10	-0.04	RNA-binding protein
+Hsph1 3	-5.57	Non RNA-binding protein
+Cad 4	0.23	RNA-binding protein
+Cryz 8	2.32	RNA-binding protein
+Adk 2	-5.57	Non RNA-binding protein
+Txnrd1 3	-0.23	Non RNA-binding protein
+Tnrc6b 2	-5.57	Non RNA-binding protein
+Rangap1 2	-5.57	Non RNA-binding protein
+Rnps1 3	-5.57	Non RNA-binding protein
+G3bp2 5	0.67	RNA-binding protein
+Txnrd1 4	0.24	RNA-binding protein
+Vcl 2	-5.57	Non RNA-binding protein
+Hnrnpm 8	2.33	RNA-binding protein
+Gtpbp1 4	0.11	RNA-binding protein
+Papss1 2	-2.50	Non RNA-binding protein
+Sf3b6 3	0.80	RNA-binding protein
+Vps35 2	-5.57	Non RNA-binding protein
+Immt 9	1.54	RNA-binding protein
+Gtpbp1 5	-0.09	RNA-binding protein
+Qars 5	-0.88	Non RNA-binding protein
+Matr3 5	0.91	RNA-binding protein
+Qars 6	-1.99	Non RNA-binding protein
+Snrnp70 4	0.41	RNA-binding protein
+Sdha 3	-1.30	Non RNA-binding protein
+Csde1 4	0.87	RNA-binding protein
+Qars 7	-2.32	Non RNA-binding protein
+Snrnp70 5	1.04	RNA-binding protein
+Tufm 4	-5.57	Non RNA-binding protein
+Hsph1 4	1.73	RNA-binding protein
+Rps19bp1 2	-5.57	Non RNA-binding protein
+Snrpd2 2	-5.57	Non RNA-binding protein
+Larp4 3	-5.57	Non RNA-binding protein
+Hsph1 5	1.81	RNA-binding protein
+Larp4 4	2.41	RNA-binding protein
+Nudt21 2	-0.42	Non RNA-binding protein
+Rangap1 3	-0.41	Non RNA-binding protein
+Snrnp70 6	-1.06	Non RNA-binding protein
+Psmb5 2	-2.98	Non RNA-binding protein
+Prpf40a 4	0.88	RNA-binding protein
+Rpl37a 2	-1.70	Non RNA-binding protein
+Parp1 3	1.04	RNA-binding protein
+Rps23 2	-5.57	Non RNA-binding protein
+Hnrnpul1 3	-5.57	Non RNA-binding protein
+Lsm14a 6	-5.57	Non RNA-binding protein
+Adk 3	0.22	RNA-binding protein
+Ubap2l 7	-3.64	Non RNA-binding protein
+Uso1 3	-5.57	Non RNA-binding protein
+Exosc6 1	-1.68	Non RNA-binding protein
+Tmem33 7	-5.10	Non RNA-binding protein
+Shmt2 2	0.49	RNA-binding protein
+Tsnax 2	0.61	RNA-binding protein
+Tdrkh 3	0.93	RNA-binding protein
+Akap8 5	-0.47	Non RNA-binding protein
+Nolc1 5	-0.35	Non RNA-binding protein
+Gtpbp1 6	-4.74	Non RNA-binding protein
+Xpot 3	1.95	RNA-binding protein
+Atxn2l 5	1.50	RNA-binding protein
+Smndc1 2	0.25	RNA-binding protein
+Iqgap1 3	-2.59	Non RNA-binding protein
+Adk 4	-0.20	RNA-binding protein
+Rpl37a 3	-5.57	Non RNA-binding protein
+Qars 8	1.04	RNA-binding protein
+Aldh6a1 2	0.77	RNA-binding protein
+Pcbp4 11	1.02	RNA-binding protein
+Csde1 5	1.80	RNA-binding protein
+Qars 9	1.59	RNA-binding protein
+Prpf40a 5	0.44	RNA-binding protein
+Xpo5 2	-5.57	Non RNA-binding protein
+Vcl 3	-0.42	Non RNA-binding protein
+Suclg1 4	-0.29	Non RNA-binding protein
+Eif3h 2	-5.57	Non RNA-binding protein
+Fubp1 5	-1.42	Non RNA-binding protein
+Cryz 9	-5.57	Non RNA-binding protein
+Hnrnpul1 4	2.64	RNA-binding protein
+Flnb 2	-5.57	Non RNA-binding protein
+Khsrp 3	-0.11	RNA-binding protein
+Matr3 6	-0.61	Non RNA-binding protein
+Uso1 4	-0.69	Non RNA-binding protein
+Dhx15 3	-5.57	Non RNA-binding protein
+Cast 4	-5.57	Non RNA-binding protein
+Qars 10	0.97	RNA-binding protein
+Qars 11	1.64	RNA-binding protein
+Zcchc8 3	1.72	RNA-binding protein
+Nudt16l1 2	-5.57	Non RNA-binding protein
+Cryz 10	1.20	RNA-binding protein
+Srpk2 2	-5.57	Non RNA-binding protein
+Nudt21 3	-0.53	Non RNA-binding protein
+Rangap1 4	-0.24	Non RNA-binding protein
+Csde1 6	0.06	RNA-binding protein
+Dek 5	-2.09	Non RNA-binding protein
+Pcbp4 12	1.06	RNA-binding protein
+Pcbp4 13	0.15	RNA-binding protein
+Sec23ip 2	-5.57	Non RNA-binding protein
+Fau 2	4.75	RNA-binding protein
+Zcchc8 4	-0.10	RNA-binding protein
+Iqgap1 4	-0.12	RNA-binding protein
+Cast 5	1.47	RNA-binding protein
+Copb1 2	-5.57	Non RNA-binding protein
+Smndc1 3	2.07	RNA-binding protein
+Rps11 3	-5.57	Non RNA-binding protein
+Ddx17 3	1.57	RNA-binding protein
+Cdc5l 2	-5.57	Non RNA-binding protein
+Immt 10	-0.16	RNA-binding protein
+Ddx6 2	-5.57	Non RNA-binding protein
+Fubp1 6	0.99	RNA-binding protein
+Snw1 2	-5.57	Non RNA-binding protein
+Hmgb2 2	1.22	RNA-binding protein
+Rpl8 2	-5.57	Non RNA-binding protein
+Gm8994 2	-0.68	Non RNA-binding protein
+Shmt2 3	-5.57	Non RNA-binding protein
+Aldh6a1 3	-5.57	Non RNA-binding protein
+Matr3 7	-2.16	Non RNA-binding protein
+Tial1 10	1.08	RNA-binding protein
+Fau 3	-5.57	Non RNA-binding protein
+Pdcd4 3	2.02	RNA-binding protein
+Akap8 6	1.19	RNA-binding protein
+Pcbp4 14	1.12	RNA-binding protein
+Rsl1d1 3	-2.32	Non RNA-binding protein
+Prpf40a 6	0.97	RNA-binding protein
+Cisd2 3	-5.57	Non RNA-binding protein
+Cpt1a 2	-1.28	Non RNA-binding protein
+Tnrc6b 3	1.07	RNA-binding protein
+Mtdh 8	0.20	RNA-binding protein
+Sec23ip 3	1.69	RNA-binding protein
+Fubp1 7	-0.86	Non RNA-binding protein
+Grwd1 3	2.44	RNA-binding protein
+Zcchc8 5	0.28	RNA-binding protein
+Srpk2 3	0.07	RNA-binding protein
+Ilf3 6	-0.36	Non RNA-binding protein
+Srpk2 4	-3.52	Non RNA-binding protein
+Adk 5	0.53	RNA-binding protein
+Srpk2 5	1.33	RNA-binding protein
+Zcchc8 6	-5.57	Non RNA-binding protein
+Eif1b 2	0.61	RNA-binding protein
+Snrpd1 3	-8.36	Non RNA-binding protein
+Ilf3 7	1.49	RNA-binding protein
+Qars 12	1.17	RNA-binding protein
+Cad 5	0.06	RNA-binding protein
+Qars 13	0.29	RNA-binding protein
+Fubp3 10	1.83	RNA-binding protein
+Fubp1 8	0.88	RNA-binding protein
+Matr3 8	2.41	RNA-binding protein
+Papss1 3	0.72	RNA-binding protein
+Tdrkh 4	-2.34	Non RNA-binding protein
+Fbl 3	3.26	RNA-binding protein
+Ilf3 8	1.43	RNA-binding protein
+Hnrnpm 9	-4.11	Non RNA-binding protein
+Matr3 9	-0.31	Non RNA-binding protein
+Mrpl43 2	-5.57	Non RNA-binding protein
+Nolc1 6	-0.51	Non RNA-binding protein
+Thumpd1 2	-5.57	Non RNA-binding protein
+Gtpbp1 7	0.68	RNA-binding protein
+Parp1 4	0.87	RNA-binding protein
+Ccdc124 2	2.56	RNA-binding protein
+Cad 6	-0.31	Non RNA-binding protein
+Srsf9 4	0.35	RNA-binding protein
+Prpf40a 7	-0.09	RNA-binding protein
+Ubap2l 8	0.99	RNA-binding protein
+Hsph1 6	0.06	RNA-binding protein
+Gnl3 4	0.52	RNA-binding protein
+Snrnp70 7	0.74	RNA-binding protein
+Matr3 10	-0.88	Non RNA-binding protein
+Ubap2l 9	0.78	RNA-binding protein
+Qars 14	0.69	RNA-binding protein
+Srsf6 3	-5.57	Non RNA-binding protein
+Qars 15	-5.50	Non RNA-binding protein
+Qars 16	-0.68	Non RNA-binding protein
+Zcchc8 7	0.51	RNA-binding protein
+Nudt16l1 3	-3.80	Non RNA-binding protein
+Larp4 5	2.16	RNA-binding protein
+Iqgap1 5	-2.99	Non RNA-binding protein
+Ddx1 2	-5.57	Non RNA-binding protein
+Dhx15 4	1.21	RNA-binding protein
+Prpf40a 8	-1.71	Non RNA-binding protein
+Ilf3 9	2.10	RNA-binding protein
+Fau 4	3.58	RNA-binding protein
+Ilf3 10	2.43	RNA-binding protein
+Thumpd3 5	1.29	RNA-binding protein
+Hnrnpul2 2	-5.57	Non RNA-binding protein
+Ubap2l 10	0.74	RNA-binding protein
+Xpot 4	-5.57	Non RNA-binding protein
+Ilf3 11	-1.00	Non RNA-binding protein
+Akap8 7	1.01	RNA-binding protein
+Cast 6	1.15	RNA-binding protein
+Fubp1 9	1.55	RNA-binding protein
+Ddx1 3	-0.29	Non RNA-binding protein
+Puf60 4	-1.84	Non RNA-binding protein
+Nolc1 7	-5.57	Non RNA-binding protein
+Snrpd1 4	3.47	RNA-binding protein
+Sart3 3	-1.01	Non RNA-binding protein
+Add1 10	2.37	RNA-binding protein
+Dhx15 5	1.10	RNA-binding protein
+Tdrkh 5	1.07	RNA-binding protein
+Fubp1 10	0.92	RNA-binding protein
+Gtpbp1 8	-5.57	Non RNA-binding protein
+Gnl3 5	0.92	RNA-binding protein
+Papss1 4	-3.42	Non RNA-binding protein
+Xpot 5	0.03	RNA-binding protein
+Fubp1 11	1.42	RNA-binding protein
+Hsph1 7	0.24	RNA-binding protein
+Sec23ip 4	0.04	RNA-binding protein
+U2af1 4	1.64	RNA-binding protein
+Qars 17	1.45	RNA-binding protein
+Rps19bp1 3	1.51	RNA-binding protein
+Smndc1 4	0.52	RNA-binding protein
+Srsf11 9	-0.68	Non RNA-binding protein
+Fubp1 12	2.32	RNA-binding protein
+Srpk2 6	-4.10	Non RNA-binding protein
+Nudt21 4	0.67	RNA-binding protein
+Nudt16l1 4	-2.15	Non RNA-binding protein
+Tars 3	0.70	RNA-binding protein
+Pcbp4 15	0.84	RNA-binding protein
+Ddx17 4	1.64	RNA-binding protein
+Ilf3 12	2.08	RNA-binding protein
+Zranb2 7	-1.55	Non RNA-binding protein
+U2af1 5	0.50	RNA-binding protein
+Pdxk 2	-5.57	Non RNA-binding protein
+Hadhb 4	-4.48	Non RNA-binding protein
+Khsrp 4	1.60	RNA-binding protein
+Tdrkh 6	1.69	RNA-binding protein
+Adk 6	0.73	RNA-binding protein
+Larp4 6	2.24	RNA-binding protein
+Ccar2 2	-5.57	Non RNA-binding protein
+Akap8 8	0.37	RNA-binding protein
+Atxn2l 6	-1.45	Non RNA-binding protein
+Tufm 5	1.44	RNA-binding protein
+Cast 7	1.41	RNA-binding protein
+Ubap2l 11	1.08	RNA-binding protein
+Puf60 5	-2.49	Non RNA-binding protein
+Snrnp70 8	1.62	RNA-binding protein
+Srpk2 7	1.18	RNA-binding protein
+Cpt1a 3	-5.57	Non RNA-binding protein
+Gnl3 6	0.48	RNA-binding protein
+Hmgb2 3	-5.57	Non RNA-binding protein
+Cpt1a 4	-1.49	Non RNA-binding protein
+Acaa2 2	-0.31	Non RNA-binding protein
+Cad 7	0.18	RNA-binding protein
+Rps11 4	1.27	RNA-binding protein
+Cast 8	1.41	RNA-binding protein
+Rsl1d1 4	1.52	RNA-binding protein
+Parp1 5	-0.55	Non RNA-binding protein
+Cpt1a 5	-1.62	Non RNA-binding protein
+Cast 9	1.97	RNA-binding protein
+Tnrc6b 4	2.29	RNA-binding protein
+Akap8 9	1.23	RNA-binding protein
+Nudt5 4	0.13	RNA-binding protein
+U2af1 6	0.40	RNA-binding protein
+Qars 18	0.98	RNA-binding protein
+Fubp1 13	-0.54	Non RNA-binding protein
+Carm1 6	-1.22	Non RNA-binding protein
+Snrpc 3	-1.01	Non RNA-binding protein
+Ubap2l 12	-0.85	Non RNA-binding protein
+Immt 11	-0.96	Non RNA-binding protein
+Qars 19	0.76	RNA-binding protein
+Snrpc 4	-1.16	Non RNA-binding protein
+Ubap2l 13	0.50	RNA-binding protein
+Lsm14a 7	1.41	RNA-binding protein
+Rdx 3	-0.08	RNA-binding protein

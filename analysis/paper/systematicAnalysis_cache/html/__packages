@@ -10,3 +10,5 @@ stringr
 forcats
 magrittr
 ggpubr
+ggimage
+ggrepel

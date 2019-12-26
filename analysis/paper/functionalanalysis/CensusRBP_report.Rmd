@@ -1,0 +1,88 @@
+---
+title: "Census RBP"
+author: "Paul Langard"
+date: "23 décembre 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(tidyverse)
+require(magrittr)
+library(CveklRBP2019)
+require(biomaRt)
+```
+
+The post-transcriptional regulation network is not extensively studied in the lens. With this aim in mind, we wanted to study RNA-binding proteins functions that are expressed in the lens. 
+
+The first step of this analysis is to make a list of RNA-binding proteins, and filter for lens-expression.
+
+# Make a list of RNA-binding proteins
+
+So as to produce a list of RNA-binding proteins, we can use published census such as Gerstberger et al. (2014), the RBP database, the functional annotations of our proteomic dataset and concatenate those. 
+
+## Census from RBPDB
+
+```{r censusRBPDB, cache=T}
+t_CensusRBPDB <- read_tsv("../../data/raw_data/RBPCensus/CensusRBPDB2012.tsv", col_names = c("genename"), col_types = "____c") %>% 
+  drop_na() %>% 
+  distinct() %>%
+  mutate(genename=sapply(genename, simpleCap)) %>%
+  #from alias2Symbol, if a Symbol is available, otherwise return the initial genename
+  mutate(genename=unlist(sapply(genename, alias2Symbol_Cvekl))) %>% 
+  distinct() %$% genename
+```
+
+## RNA-binding annotated proteins from Zhao proteomic dataset
+
+```{r censusZhao, cache=T}
+t_CensusZhao2018 <- t_proteomicZhao2018 %>% 
+  filter_all(any_vars(str_detect(., pattern = "RNA-binding"))) %>%
+  filter(!GeneNames %in% c('Tsn','Impdh2','Nudt5','Tdrkh','Trir','Jmjd6','Ro60', "Trove2"))%>%
+  arrange(GeneNames) %$% GeneNames
+```
+
+```{r}
+t_proteomicZhao2018_RBP <- t_proteomicZhao2018 %>%
+  dplyr::filter(gene %in% c(t_CensusRBPDB, t_CensusZhao2018)) %>%
+  filter_at(vars(rankEpith, rankFibers), any_vars(.<=1800)) %>%
+  dplyr::filter(!str_detect(gene, "Gm|D1Pas1")) %>%
+  mutate(PWMavailable = case_when(gene %in% t_CensusRBPDB ~ T,
+                                   T ~ F)) %>%
+  mutate(tissue = case_when(rankFibers <= 1800 & rankEpith > 1800 ~ "fibers",
+                            rankEpith <= 1800 & rankFibers > 1800 ~ "epi",
+                            rankEpith <= 1800 & rankFibers <= 1800 ~ "both"))
+
+t_proteomicZhao2018_RBP %>% write_rds("../../data/derived_data/t_proteomicZhao2018_RBP.rds")
+```
+
+
+<!-- ## Census from Huang 2018 -->
+
+<!-- ```{r censusHuang, eval=F, include=F} -->
+<!-- t_CensusHuang2018 <- readxl::read_xlsx("CensusRBPHuang2018_PNAS.xlsx", sheet="DS1.Mass Data", skip=1)  %>% drop_na() %>% -->
+<!--   dplyr::select(proteinname=`Protein name`, genename=Gene, Classification) %>% -->
+<!--   separate_rows(genename, sep=";") %>% -->
+<!--     #use MGI symbol convention, first letter is a major caps, the rest is lower -->
+<!--   mutate(genename=sapply(genename, simpleCap)) %>% -->
+<!--   #from alias2Symbol, if a Symbol is available, otherwise return the initial genename -->
+<!--   mutate(genename=unlist(sapply(genename, alias2Symbol_Cvekl)))  -->
+<!-- ``` -->
+
+
+<!-- ## Census from Nature -->
+
+<!-- ```{r censusNature, eval=F, include=F} -->
+<!-- t_CensusGerstberger2014 <-readxl::read_xls(path="CensusRBPGerstberger2014_Nature.xls",sheet="RBP table")  %>% -->
+<!--   rename(genename=`gene name`) %>% -->
+<!--   #use MGI symbol convention, first letter is a major caps, the rest is lower -->
+<!--   mutate(genename=sapply(genename, simpleCap)) %>% -->
+<!--   #from alias2Symbol, if a Symbol is available, otherwise return the initial genename -->
+<!--   mutate(genename=unlist(sapply(genename, alias2Symbol_Cvekl)))  -->
+
+<!-- ``` -->
+
+<!-- Then we gather everything together, and filter for expression within our proteomic dataset.  -->
+
+
+

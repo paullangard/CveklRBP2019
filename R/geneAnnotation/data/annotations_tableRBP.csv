@@ -1,0 +1,19 @@
+gene,category,comment,pmid,date
+Carhsp1,mRNA stability,CARHSP1 is a TNF-α mRNA stability enhancer,21078874,2019-11-18T14:08:46Z
+Carhsp1,Stress response,CRHSP-24 participates in oxidative stress response via a dynamic and temporal association between stress granules and processing bodies,21177848,2019-11-18T14:15:35Z
+Carhsp1,mRNA sequestration,CRHSP-24 Localizes Stress Granules Possibly via an Interaction with mRNA in SG,21177848,2019-11-18T14:15:45Z
+Carhsp1,translational regulation,not verified,NA,2019-11-18T14:40:29Z
+Aars,tRNA binding,"Alanyl-tRNA synthetase (AlaRS) specifically recognizes the major identity determinant, the G3:U70 base pair, in the acceptor stem of tRNAAla by both the tRNA-recognition and editing domains",19423669,2019-11-18T14:44:10Z
+Aars,translational regulation,not verified,NA,2019-11-18T14:48:16Z
+Aco1,Stress response,"IRP1 suppressed TfR1/DMT1 (+IRE) expression, limited the cellular iron content and decreased lactate dehydrogenase (LDH) release induced by hypoxia.",25727755,2019-11-18T14:50:43Z
+Aco1,translational regulation,IRP1 emerged as a key regulator of erythropoiesis and iron absorption by controlling hypoxia inducible factor 2α (HIF2α) mRNA translation,25120486,2019-11-18T14:54:48Z
+Aco1,translational regulation,Iron regulatory protein 1 (IRP1) controls the translation or stability of several mRNAs by binding to iron responsive elements (IREs) within their untranslated regions.,18274988,2019-11-18T15:01:27Z
+Aco1,mRNA stability,Iron regulatory protein 1 (IRP1) controls the translation or stability of several mRNAs by binding to iron responsive elements (IREs) within their untranslated regions.,18274988,2019-11-18T15:01:32Z
+Aimp1,tRNA binding,C‐terminal OB‐fold of AIMP1 binds tRNA species and contributes to the efficiency of translation,27714804,2019-11-19T15:25:44Z
+Alyref,mRNA transport,important role of ALYREF in coordinating 3'-end processing and nuclear export of non-polyadenylated mRNAs,30858280,2019-11-19T15:27:27Z
+Alyref,mRNA processing,important role of ALYREF in coordinating 3'-end processing and nuclear export of non-polyadenylated mRNAs,30858280,2019-11-19T15:27:30Z
+Alyref,splicing,Alyref alters splicing decisions,31104896,2019-11-19T15:28:51Z
+Alyref,splicing,Alyref alters splicing decisions,31104896,2019-11-19T15:29:28Z
+Apex1,Stress response,"Mammalian apurinic/apyrimidinic endonuclease 1 is a DNA repair enzyme involved in genome stability and expression of genes involved in oxidative stress responses, tumor progression and chemoresistance. ",28986522,2019-11-19T15:37:57Z
+Apex1,mRNA degradation,"we and others showed that APE1: (i) binds, in vitro, structured RNA molecules via its 33 amino acids N-terminal domain17; (ii) cleaves abasic single-stranded RNA, taking part in RNA-decay dependent on its endonuclease activity; (iii) has 3ʹ-RNA phosphatase and 3ʹ-exoribonuclease activities; (iv) regulates c-Myc mRNA levels and half-life in tumor cells",28986522,2019-11-19T15:40:30Z
+Apex1,mRNA stability,"we and others showed that APE1: (i) binds, in vitro, structured RNA molecules via its 33 amino acids N-terminal domain17; (ii) cleaves abasic single-stranded RNA, taking part in RNA-decay dependent on its endonuclease activity; (iii) has 3ʹ-RNA phosphatase and 3ʹ-exoribonuclease activities; (iv) regulates c-Myc mRNA levels and half-life in tumor cells",28986522,2019-11-19T15:40:33Z

@@ -55,7 +55,6 @@ t_proteomicZhao2018 <- readxl::read_xlsx(filepath_ProteomeZhao2018,
                                          sheet = "proteinGroups",
                                          col_types = coltypes_ProteomeZhao2018,
                                          col_names = colnames_ProteomeZhao2018) %>%
-  mutate(GeneNames=MGIGeneNames) %>%
   separate_rows(sep=";",GeneNames) %>% #split lines with mentionning multiple genes
   dplyr::filter(!is.na(GeneNames))
 

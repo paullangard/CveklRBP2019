@@ -12,94 +12,51 @@ Igf2bp1	RBP	mRNA binding	mRNA stability	NA	1
 Khsrp	RBP	mRNA binding	NA	NA	2
 Upf1	RBP	mRNA binding	NA	NA	2
 Hnrnpd	RBP	mRNA binding	NA	NA	2
-Qk	RBP	mRNA binding	NA	NA	2
 Khsrp	RBP	mRNA binding	mRNA degradation	NA	1
 Upf1	RBP	mRNA binding	mRNA degradation	NA	1
 Hnrnpd	RBP	mRNA binding	mRNA degradation	NA	1
-Qk	RBP	mRNA binding	mRNA degradation	NA	1
+Rbm38	RBP	mRNA binding	mRNA stability	NA	1
 Tardbp	RBP	mRNA binding	mRNA stability	NA	1
 Hnrnpc	RBP	mRNA binding	mRNA stability	NA	1
 Ptbp1	RBP	mRNA binding	mRNA stability	NA	1
 Igf2bp2	RBP	mRNA binding	NA	NA	2
 Aco1	RBP	mRNA binding	NA	NA	2
-Alyref	RBP	NA	NA	NA	3
-Celf1	RBP	NA	NA	NA	3
-Dazap1	RBP	NA	NA	NA	3
-Ddx17	RBP	NA	NA	NA	3
-Ddx42	RBP	NA	NA	NA	3
-Dhx9	RBP	NA	NA	NA	3
-Dis3l2	RBP	NA	NA	NA	3
-Fip1l1	RBP	NA	NA	NA	3
-G3bp2	RBP	NA	NA	NA	3
-Larp1	RBP	NA	NA	NA	3
-Larp4b	RBP	NA	NA	NA	3
-Nsun2	RBP	NA	NA	NA	3
-Rnmt	RBP	NA	NA	NA	3
-Rbm39	RBP	NA	NA	NA	3
-Rbm8a	RBP	NA	NA	NA	3
-Son	RBP	NA	NA	NA	3
-Thumpd3	RBP	NA	NA	NA	3
-Upf1	RBP	NA	NA	NA	3
-Ybx3	RBP	NA	NA	NA	3
-Caprin2	RBP	NA	NA	NA	3
-Eif4g3	RBP	NA	NA	NA	3
-Eif4g1	RBP	NA	NA	NA	3
-Eif4a2	RBP	NA	NA	NA	3
-Eif4h	RBP	NA	NA	NA	3
-Xpo5	RBP	NA	NA	NA	3
-Fxr1	RBP	NA	NA	NA	3
-Fmr1	RBP	NA	NA	NA	3
-Hnrnpa1	RBP	NA	NA	NA	3
-Hnrnpa2b1	RBP	NA	NA	NA	3
-Hnrnpc	RBP	NA	NA	NA	3
-Hnrnpd	RBP	NA	NA	NA	3
-Hnrnpf	RBP	NA	NA	NA	3
-Hnrnpk	RBP	NA	NA	NA	3
-Hnrnpll	RBP	NA	NA	NA	3
-Hnrnpm	RBP	NA	NA	NA	3
-Hnrnpul1	RBP	NA	NA	NA	3
-Raly	RBP	NA	NA	NA	3
-Igf2bp2	RBP	NA	NA	NA	3
-Ilf3	RBP	NA	NA	NA	3
-Msi1	RBP	NA	NA	NA	3
-Myef2	RBP	NA	NA	NA	3
-Nono	RBP	NA	NA	NA	3
-Nifk	RBP	NA	NA	NA	3
-Nudt16l1	RBP	NA	NA	NA	3
-Pspc1	RBP	NA	NA	NA	3
-Pabpn1	RBP	NA	NA	NA	3
-Pcbp2	RBP	NA	NA	NA	3
-Puf60	RBP	NA	NA	NA	3
-Ptbp3	RBP	NA	NA	NA	3
-Prpf31	RBP	NA	NA	NA	3
-Pa2g4	RBP	NA	NA	NA	3
-Qk	RBP	NA	NA	NA	3
-Rnps1	RBP	NA	NA	NA	3
-Srrm1	RBP	NA	NA	NA	3
-Srsf1	RBP	NA	NA	NA	3
-Srsf10	RBP	NA	NA	NA	3
-Srsf3	RBP	NA	NA	NA	3
-Srsf7	RBP	NA	NA	NA	3
+Rbm3	RBP	NA	NA	NA	3
 Serbp1	RBP	NA	NA	NA	3
-Snrnp70	RBP	NA	NA	NA	3
-Sf1	RBP	NA	NA	NA	3
-Sart3	RBP	NA	NA	NA	3
-Syncrip	RBP	NA	NA	NA	3
-Tnrc6b	RBP	NA	NA	NA	3
-Zranb2	RBP	NA	NA	NA	3
+Ybx3	RBP	NA	NA	NA	3
+Fmr1	RBP	NA	NA	NA	3
+Hnrnpa2b1	RBP	NA	NA	NA	3
+Hnrnpa3	RBP	NA	NA	NA	3
+Hnrnpd	RBP	NA	NA	NA	3
+Hnrnph1	RBP	NA	NA	NA	3
+Hnrnpl	RBP	NA	NA	NA	3
+Hnrnpm	RBP	NA	NA	NA	3
+Ilf3	RBP	NA	NA	NA	3
+Npm1	RBP	NA	NA	NA	3
+Puf60	RBP	NA	NA	NA	3
+Ptbp1	RBP	NA	NA	NA	3
+Pdcd4	RBP	NA	NA	NA	3
+Pa2g4	RBP	NA	NA	NA	3
+Srsf5	RBP	NA	NA	NA	3
+Tdrd7	RBP	NA	NA	NA	3
+Zc3h18	RBP	NA	NA	NA	3
 Aars	RBP	ncRNA binding	tRNA binding	NA	1
 Eprs	RBP	ncRNA binding	tRNA binding	NA	1
 Mars	RBP	ncRNA binding	tRNA binding	NA	1
 Yars	RBP	ncRNA binding	tRNA binding	NA	1
 Ddx1	RBP	NA	NA	NA	3
-Ddx19a	RBP	NA	NA	NA	3
-Ddx21	RBP	NA	NA	NA	3
-Ddx39b	RBP	NA	NA	NA	3
+Ddx17	RBP	NA	NA	NA	3
+Ddx3x	RBP	NA	NA	NA	3
+Ddx42	RBP	NA	NA	NA	3
 Ddx5	RBP	NA	NA	NA	3
 Ddx6	RBP	NA	NA	NA	3
-Ddx3x	RBP	NA	NA	NA	3
 Dhx36	RBP	NA	NA	NA	3
+Ddx21	RBP	NA	NA	NA	3
+Ddx39b	RBP	NA	NA	NA	3
+Dhx9	RBP	NA	NA	NA	3
+Upf1	RBP	NA	NA	NA	3
 Eif4a1	RBP	NA	NA	NA	3
+Eif4a2	RBP	NA	NA	NA	3
 Eif4a3	RBP	NA	NA	NA	3
 Tial1	RBP	mRNA binding	NA	NA	2
 Exosc4	RBP	mRNA binding	NA	NA	2
@@ -108,25 +65,24 @@ Park7	RBP	mRNA binding	Stress response	NA	1
 Apex1	RBP	mRNA binding	Stress response	NA	1
 Rps3	RBP	mRNA binding	Stress response	NA	1
 Upf1	RBP	mRNA binding	Stress response	NA	1
+Hnrnpm	RBP	mRNA binding	Stress response	NA	1
 Ncl	RBP	mRNA binding	Stress response	NA	1
 Pabpn1	RBP	mRNA binding	Stress response	NA	1
 Prpf8	RBP	mRNA binding	Stress response	NA	1
 Rbm3	RBP	mRNA binding	Stress response	NA	1
 Cirbp	RBP	mRNA binding	Stress response	NA	1
 Dhx9	RBP	mRNA binding	mRNA stability	NA	1
-Ybx1	RBP	mRNA binding	mRNA stability	NA	1
 Csde1	RBP	mRNA binding	mRNA stability	NA	1
 Hnrnpu	RBP	mRNA binding	mRNA stability	NA	1
 Syncrip	RBP	mRNA binding	mRNA stability	NA	1
+Ybx1	RBP	mRNA binding	mRNA stability	NA	1
 Ddx6	RBP	mRNA binding	mRNA sequestration	NA	1
 Dis3l2	RBP	mRNA binding	mRNA sequestration	NA	1
 Lsm2	RBP	mRNA binding	mRNA sequestration	NA	1
 Lsm3	RBP	mRNA binding	mRNA sequestration	NA	1
-Upf1	RBP	mRNA binding	mRNA sequestration	NA	1
 Carhsp1	RBP	mRNA binding	mRNA sequestration	NA	1
 Caprin1	RBP	mRNA binding	mRNA sequestration	NA	1
 Eif4e	RBP	mRNA binding	mRNA sequestration	NA	1
-Tnrc6b	RBP	mRNA binding	mRNA sequestration	NA	1
 Ddx3x	RBP	mRNA binding	mRNA sequestration	NA	1
 Dhx9	RBP	mRNA binding	mRNA sequestration	NA	1
 Fmr1	RBP	mRNA binding	mRNA sequestration	NA	1
@@ -148,6 +104,8 @@ Eif4h	RBP	mRNA binding	Translation	NA	1
 Rpl22	RBP	mRNA binding	Translation	NA	1
 Rpl7	RBP	mRNA binding	Translation	NA	1
 Rpl8	RBP	mRNA binding	Translation	NA	1
+Nhp2l1	RBP	mRNA binding	Translation	ribosome	0
+Nhp2	RBP	mRNA binding	Translation	ribosome	0
 Rpl12	RBP	mRNA binding	Translation	ribosome	0
 Rpl22	RBP	mRNA binding	Translation	ribosome	0
 Rpl5	RBP	mRNA binding	Translation	ribosome	0
@@ -192,20 +150,24 @@ Ptbp1	RBP	mRNA binding	Translation	translational initiation	0
 Ssb	RBP	mRNA binding	Translation	translational regulation	0
 Pcbp2	RBP	mRNA binding	Translation	translational regulation	0
 Ptbp1	RBP	mRNA binding	Translation	translational regulation	0
+Tnrc6b	RBP	NA	NA	NA	3
+Dis3l2	RBP	NA	NA	NA	3
 Celf1	RBP	mRNA binding	NA	NA	2
+Fxr1	RBP	mRNA binding	NA	NA	2
 G3bp1	RBP	mRNA binding	NA	NA	2
 G3bp2	RBP	mRNA binding	NA	NA	2
 Park7	RBP	mRNA binding	NA	NA	2
 Rbm38	RBP	mRNA binding	NA	NA	2
 Rbm8a	RBP	mRNA binding	NA	NA	2
-Rbmxl1	RBP	mRNA binding	NA	NA	2
-Snrpc	RBP	mRNA binding	NA	NA	2
+Rbmx	RBP	mRNA binding	NA	NA	2
 Ybx1	RBP	mRNA binding	NA	NA	2
 Cstf2t	RBP	mRNA binding	NA	NA	2
 Eif3a	RBP	mRNA binding	NA	NA	2
 Eif4a3	RBP	mRNA binding	NA	NA	2
 Xpo5	RBP	mRNA binding	NA	NA	2
 Fmr1	RBP	mRNA binding	NA	NA	2
+Hnrnpa1	RBP	mRNA binding	NA	NA	2
+Hnrnpa3	RBP	mRNA binding	NA	NA	2
 Hnrnpc	RBP	mRNA binding	NA	NA	2
 Hnrnpll	RBP	mRNA binding	NA	NA	2
 Nxf1	RBP	mRNA binding	NA	NA	2
@@ -213,47 +175,58 @@ Ncbp2	RBP	mRNA binding	NA	NA	2
 Pabpc1	RBP	mRNA binding	NA	NA	2
 Pcbp1	RBP	mRNA binding	NA	NA	2
 Ptbp1	RBP	mRNA binding	NA	NA	2
+Ppp1r8	RBP	mRNA binding	NA	NA	2
 Rpl5	RBP	mRNA binding	NA	NA	2
 Rpl7	RBP	mRNA binding	NA	NA	2
 Rps3	RBP	mRNA binding	NA	NA	2
 Srsf1	RBP	mRNA binding	NA	NA	2
 Snrnp70	RBP	mRNA binding	NA	NA	2
+Snrpc	RBP	mRNA binding	NA	NA	2
 Sf3b1	RBP	mRNA binding	NA	NA	2
 Tdrd7	RBP	mRNA binding	NA	NA	2
 Serbp1	RBP	mRNA binding	NA	NA	2
-Fxr1	RBP	mRNA binding	NA	NA	2
 Igf2bp3	RBP	mRNA binding	NA	NA	2
 Alyref	RBP	mRNA binding	NA	NA	2
 Dhx9	RBP	mRNA binding	NA	NA	2
+Celf1	RBP	NA	NA	NA	3
+Fxr1	RBP	NA	NA	NA	3
 G3bp1	RBP	NA	NA	NA	3
+G3bp2	RBP	NA	NA	NA	3
 Khsrp	RBP	NA	NA	NA	3
 Park7	RBP	NA	NA	NA	3
 Rbm38	RBP	NA	NA	NA	3
-Rbmxl1	RBP	NA	NA	NA	3
-Snrpc	RBP	NA	NA	NA	3
+Rbm8a	RBP	NA	NA	NA	3
+Rbmx	RBP	NA	NA	NA	3
 Ybx1	RBP	NA	NA	NA	3
+Aco1	RBP	NA	NA	NA	3
 Cstf2t	RBP	NA	NA	NA	3
 Eif3a	RBP	NA	NA	NA	3
+Xpo5	RBP	NA	NA	NA	3
+Hnrnpa1	RBP	NA	NA	NA	3
+Hnrnpc	RBP	NA	NA	NA	3
+Hnrnpll	RBP	NA	NA	NA	3
 Igf2bp1	RBP	NA	NA	NA	3
+Igf2bp2	RBP	NA	NA	NA	3
 Nxf1	RBP	NA	NA	NA	3
 Ncbp2	RBP	NA	NA	NA	3
 Nudt21	RBP	NA	NA	NA	3
 Pabpc1	RBP	NA	NA	NA	3
 Pcbp1	RBP	NA	NA	NA	3
-Ptbp1	RBP	NA	NA	NA	3
+Ppp1r8	RBP	NA	NA	NA	3
 Rpl5	RBP	NA	NA	NA	3
 Rpl7	RBP	NA	NA	NA	3
 Rps3	RBP	NA	NA	NA	3
+Srsf1	RBP	NA	NA	NA	3
+Snrnp70	RBP	NA	NA	NA	3
+Snrpc	RBP	NA	NA	NA	3
 Sf3b1	RBP	NA	NA	NA	3
-Tdrd7	RBP	NA	NA	NA	3
 Tial1	RBP	NA	NA	NA	3
 Igf2bp3	RBP	NA	NA	NA	3
+Alyref	RBP	NA	NA	NA	3
 Cryz	RBP	mRNA binding	NA	NA	2
 Rnmt	RBP	mRNA binding	NA	NA	2
 Eif4e	RBP	mRNA binding	NA	NA	2
 Dis3l2	RBP	mRNA binding	mRNA degradation	NA	1
-Lsm2	RBP	mRNA binding	mRNA degradation	NA	1
-Lsm5	RBP	mRNA binding	mRNA degradation	NA	1
 Fip1l1	RBP	mRNA binding	mRNA processing	NA	1
 Cstf2t	RBP	mRNA binding	mRNA processing	NA	1
 Thumpd3	RBP	mRNA binding	mRNA degradation	NA	1
@@ -267,41 +240,33 @@ Pabpc1	RBP	mRNA binding	mRNA degradation	NA	1
 Pabpn1	RBP	mRNA binding	mRNA degradation	NA	1
 Ddx6	RBP	mRNA binding	mRNA degradation	NA	1
 Nudt16l1	RBP	mRNA binding	mRNA degradation	NA	1
-Ddx19a	RBP	mRNA binding	mRNA transport	NA	1
+Alyref	RBP	mRNA binding	mRNA transport	NA	1
 Ddx39b	RBP	mRNA binding	mRNA transport	NA	1
 Eif5a	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpa2b1	RBP	mRNA binding	mRNA transport	NA	1
 Nxf1	RBP	mRNA binding	mRNA transport	NA	1
-Srsf10	RBP	mRNA binding	mRNA transport	NA	1
 Nudt21	RBP	mRNA binding	mRNA processing	NA	1
-Pabpn1	RBP	mRNA binding	mRNA processing	NA	1
-Alyref	RBP	mRNA binding	mRNA processing	NA	1
 Celf1	RBP	mRNA binding	mRNA processing	NA	1
 Ddx1	RBP	mRNA binding	mRNA processing	NA	1
 Ddx39b	RBP	mRNA binding	mRNA processing	NA	1
-Ddx5	RBP	mRNA binding	mRNA processing	NA	1
 Khdrbs1	RBP	mRNA binding	mRNA processing	NA	1
 Khsrp	RBP	mRNA binding	mRNA processing	NA	1
 Lsm2	RBP	mRNA binding	mRNA processing	NA	1
-Lsm3	RBP	mRNA binding	mRNA processing	NA	1
-Lsm5	RBP	mRNA binding	mRNA processing	NA	1
-Lsm8	RBP	mRNA binding	mRNA processing	NA	1
+Nhp2l1	RBP	mRNA binding	mRNA processing	NA	1
 Rnmt	RBP	mRNA binding	mRNA processing	NA	1
-Rbm38	RBP	mRNA binding	mRNA processing	NA	1
 Rbm39	RBP	mRNA binding	mRNA processing	NA	1
 Rbm8a	RBP	mRNA binding	mRNA processing	NA	1
+Rbmx	RBP	mRNA binding	mRNA processing	NA	1
 Rbmxl1	RBP	mRNA binding	mRNA processing	NA	1
+Rnps1	RBP	mRNA binding	mRNA processing	NA	1
 Son	RBP	mRNA binding	mRNA processing	NA	1
-Tardbp	RBP	mRNA binding	mRNA processing	NA	1
-Snrpb2	RBP	mRNA binding	mRNA processing	NA	1
-U2af1	RBP	mRNA binding	mRNA processing	NA	1
-U2af2	RBP	mRNA binding	mRNA processing	NA	1
 Ybx1	RBP	mRNA binding	mRNA processing	NA	1
 Cdc5l	RBP	mRNA binding	mRNA processing	NA	1
 Eif4a3	RBP	mRNA binding	mRNA processing	NA	1
 Fmr1	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpa1	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpa2b1	RBP	mRNA binding	mRNA processing	NA	1
+Hnrnpa3	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpc	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpf	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnph1	RBP	mRNA binding	mRNA processing	NA	1
@@ -309,62 +274,37 @@ Hnrnpk	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpl	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpll	RBP	mRNA binding	mRNA processing	NA	1
 Hnrnpm	RBP	mRNA binding	mRNA processing	NA	1
-Hnrnpu	RBP	mRNA binding	mRNA processing	NA	1
-Raly	RBP	mRNA binding	mRNA processing	NA	1
-Magohb	RBP	mRNA binding	mRNA processing	NA	1
+Magoh	RBP	mRNA binding	mRNA processing	NA	1
 Nono	RBP	mRNA binding	mRNA processing	NA	1
 Ncbp2	RBP	mRNA binding	mRNA processing	NA	1
-Ppie	RBP	mRNA binding	mRNA processing	NA	1
 Pabpc1	RBP	mRNA binding	mRNA processing	NA	1
-Pcbp1	RBP	mRNA binding	mRNA processing	NA	1
 Puf60	RBP	mRNA binding	mRNA processing	NA	1
 Ptbp1	RBP	mRNA binding	mRNA processing	NA	1
 Ptbp3	RBP	mRNA binding	mRNA processing	NA	1
-Prpf31	RBP	mRNA binding	mRNA processing	NA	1
-Prpf8	RBP	mRNA binding	mRNA processing	NA	1
-Ppp1r8	RBP	mRNA binding	mRNA processing	NA	1
-Qk	RBP	mRNA binding	mRNA processing	NA	1
-Rnps1	RBP	mRNA binding	mRNA processing	NA	1
 Srrm1	RBP	mRNA binding	mRNA processing	NA	1
-Srsf1	RBP	mRNA binding	mRNA processing	NA	1
-Srsf10	RBP	mRNA binding	mRNA processing	NA	1
 Srsf2	RBP	mRNA binding	mRNA processing	NA	1
-Srsf3	RBP	mRNA binding	mRNA processing	NA	1
 Srsf5	RBP	mRNA binding	mRNA processing	NA	1
 Srsf6	RBP	mRNA binding	mRNA processing	NA	1
-Srsf7	RBP	mRNA binding	mRNA processing	NA	1
 Srsf9	RBP	mRNA binding	mRNA processing	NA	1
-Snrpd3	RBP	mRNA binding	mRNA processing	NA	1
-Snrpe	RBP	mRNA binding	mRNA processing	NA	1
-Snrpa1	RBP	mRNA binding	mRNA processing	NA	1
-Sf1	RBP	mRNA binding	mRNA processing	NA	1
-Sf3b6	RBP	mRNA binding	mRNA processing	NA	1
-Sf3b1	RBP	mRNA binding	mRNA processing	NA	1
+Sf3a1	RBP	mRNA binding	mRNA processing	NA	1
 Sf3b4	RBP	mRNA binding	mRNA processing	NA	1
-Sf3b5	RBP	mRNA binding	mRNA processing	NA	1
-Sfpq	RBP	mRNA binding	mRNA processing	NA	1
-Sart3	RBP	mRNA binding	mRNA processing	NA	1
 Syncrip	RBP	mRNA binding	mRNA processing	NA	1
 Zranb2	RBP	mRNA binding	mRNA processing	NA	1
 Tdrd7	RBP	mRNA binding	mRNA processing	NA	1
+Srsf10	RBP	NA	NA	NA	3
 Srsf6	RBP	NA	NA	NA	3
-Alyref	RBP	pre-mRNA binding	splicing	NA	1
 Celf1	RBP	pre-mRNA binding	splicing	NA	1
 Ddx39b	RBP	pre-mRNA binding	splicing	NA	1
-Ddx5	RBP	pre-mRNA binding	splicing	NA	1
 Khsrp	RBP	pre-mRNA binding	splicing	NA	1
 Lsm2	RBP	pre-mRNA binding	splicing	NA	1
 Lsm3	RBP	pre-mRNA binding	splicing	NA	1
 Lsm5	RBP	pre-mRNA binding	splicing	NA	1
 Lsm8	RBP	pre-mRNA binding	splicing	NA	1
-Rbm38	RBP	pre-mRNA binding	splicing	NA	1
-Rbm39	RBP	pre-mRNA binding	splicing	NA	1
+Nhp2l1	RBP	pre-mRNA binding	splicing	NA	1
 Rbm8a	RBP	pre-mRNA binding	splicing	NA	1
+Rbmx	RBP	pre-mRNA binding	splicing	NA	1
 Rbmxl1	RBP	pre-mRNA binding	splicing	NA	1
-Son	RBP	pre-mRNA binding	splicing	NA	1
-Tardbp	RBP	pre-mRNA binding	splicing	NA	1
-Snrpc	RBP	pre-mRNA binding	splicing	NA	1
-Snrpb2	RBP	pre-mRNA binding	splicing	NA	1
+Rnps1	RBP	pre-mRNA binding	splicing	NA	1
 U2af1	RBP	pre-mRNA binding	splicing	NA	1
 U2af2	RBP	pre-mRNA binding	splicing	NA	1
 Ybx1	RBP	pre-mRNA binding	splicing	NA	1
@@ -373,59 +313,63 @@ Eif4a3	RBP	pre-mRNA binding	splicing	NA	1
 Fmr1	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpa1	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpa2b1	RBP	pre-mRNA binding	splicing	NA	1
+Hnrnpa3	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpc	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpf	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnph1	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpk	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpm	RBP	pre-mRNA binding	splicing	NA	1
-Hnrnpu	RBP	pre-mRNA binding	splicing	NA	1
-Raly	RBP	pre-mRNA binding	splicing	NA	1
-Magohb	RBP	pre-mRNA binding	splicing	NA	1
+Magoh	RBP	pre-mRNA binding	splicing	NA	1
 Nono	RBP	pre-mRNA binding	splicing	NA	1
 Ncbp2	RBP	pre-mRNA binding	splicing	NA	1
 Pspc1	RBP	pre-mRNA binding	splicing	NA	1
-Ppie	RBP	pre-mRNA binding	splicing	NA	1
 Pabpc1	RBP	pre-mRNA binding	splicing	NA	1
 Puf60	RBP	pre-mRNA binding	splicing	NA	1
 Ptbp1	RBP	pre-mRNA binding	splicing	NA	1
 Ptbp3	RBP	pre-mRNA binding	splicing	NA	1
 Prpf31	RBP	pre-mRNA binding	splicing	NA	1
 Prpf8	RBP	pre-mRNA binding	splicing	NA	1
-Ppp1r8	RBP	pre-mRNA binding	splicing	NA	1
-Qk	RBP	pre-mRNA binding	splicing	NA	1
-Rnps1	RBP	pre-mRNA binding	splicing	NA	1
-Srrm1	RBP	pre-mRNA binding	splicing	NA	1
-Srsf1	RBP	pre-mRNA binding	splicing	NA	1
 Srsf10	RBP	pre-mRNA binding	splicing	NA	1
 Srsf2	RBP	pre-mRNA binding	splicing	NA	1
-Srsf3	RBP	pre-mRNA binding	splicing	NA	1
 Srsf5	RBP	pre-mRNA binding	splicing	NA	1
 Srsf6	RBP	pre-mRNA binding	splicing	NA	1
-Srsf7	RBP	pre-mRNA binding	splicing	NA	1
 Srsf9	RBP	pre-mRNA binding	splicing	NA	1
 Snrnp70	RBP	pre-mRNA binding	splicing	NA	1
-Snrpd3	RBP	pre-mRNA binding	splicing	NA	1
-Snrpe	RBP	pre-mRNA binding	splicing	NA	1
 Snrpa1	RBP	pre-mRNA binding	splicing	NA	1
+Snrpb2	RBP	pre-mRNA binding	splicing	NA	1
+Snrpc	RBP	pre-mRNA binding	splicing	NA	1
 Sf1	RBP	pre-mRNA binding	splicing	NA	1
 Sf3b6	RBP	pre-mRNA binding	splicing	NA	1
+Sf3a1	RBP	pre-mRNA binding	splicing	NA	1
 Sf3b1	RBP	pre-mRNA binding	splicing	NA	1
 Sf3b4	RBP	pre-mRNA binding	splicing	NA	1
 Sf3b5	RBP	pre-mRNA binding	splicing	NA	1
-Sfpq	RBP	pre-mRNA binding	splicing	NA	1
 Sart3	RBP	pre-mRNA binding	splicing	NA	1
 Syncrip	RBP	pre-mRNA binding	splicing	NA	1
 Zranb2	RBP	pre-mRNA binding	splicing	NA	1
+Raly	RBP	pre-mRNA binding	splicing	NA	1
 Dazap1	RBP	pre-mRNA binding	splicing	NA	1
 Snu13	RBP	pre-mRNA binding	splicing	NA	1
+Srsf3	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpll	RBP	pre-mRNA binding	splicing	NA	1
+Son	RBP	pre-mRNA binding	splicing	NA	1
+Srrm1	RBP	pre-mRNA binding	splicing	NA	1
+Qk	RBP	pre-mRNA binding	splicing	NA	1
 Npm1	RBP	pre-mRNA binding	splicing	NA	1
+Srsf1	RBP	pre-mRNA binding	splicing	NA	1
+Srsf7	RBP	pre-mRNA binding	splicing	NA	1
 Ddx3x	RBP	pre-mRNA binding	splicing	NA	1
 Hnrnpl	RBP	pre-mRNA binding	splicing	NA	1
+Sfpq	RBP	pre-mRNA binding	splicing	NA	1
+Ddx5	RBP	pre-mRNA binding	splicing	NA	1
+Snrpd3	RBP	pre-mRNA binding	splicing	NA	1
 Khdrbs1	RBP	pre-mRNA binding	splicing	NA	1
+Snrpe	RBP	pre-mRNA binding	splicing	NA	1
+Magohb	RBP	pre-mRNA binding	splicing	NA	1
 Ddx1	RBP	pre-mRNA binding	splicing	NA	1
+Rbm39	RBP	pre-mRNA binding	splicing	NA	1
+Ppie	RBP	pre-mRNA binding	splicing	NA	1
 Ddx17	RBP	pre-mRNA binding	splicing	NA	1
-Rbm38	RBP	mRNA binding	mRNA stability	NA	1
 Larp4	RBP	mRNA binding	mRNA stability	NA	1
 Fam120a	RBP	mRNA binding	mRNA stability	NA	1
 Pcbp4	RBP	mRNA binding	mRNA stability	NA	1
@@ -447,73 +391,80 @@ Myef2	RBP	mRNA binding	mRNA stability	NA	1
 Aco1	RBP	mRNA binding	mRNA stability	NA	1
 Ilf3	RBP	mRNA binding	mRNA stability	NA	1
 Hnrnpd	RBP	mRNA binding	mRNA stability	NA	1
-Qk	RBP	mRNA binding	mRNA stability	NA	1
+Dazap1	RBP	NA	NA	NA	3
+Rnmt	RBP	NA	NA	NA	3
+Rnps1	RBP	NA	NA	NA	3
+Acin1	RBP	NA	NA	NA	3
+Fip1l1	RBP	NA	NA	NA	3
 Magohb	RBP	NA	NA	NA	3
-Alyref	RBP	mRNA binding	mRNA transport	NA	1
-G3bp2	RBP	mRNA binding	mRNA transport	NA	1
+Magoh	RBP	NA	NA	NA	3
+Msi1	RBP	NA	NA	NA	3
+Pabpc6	RBP	NA	NA	NA	3
+Pabpn1	RBP	NA	NA	NA	3
+Srrm1	RBP	NA	NA	NA	3
 Khsrp	RBP	mRNA binding	mRNA transport	NA	1
 Rbm8a	RBP	mRNA binding	mRNA transport	NA	1
 Eif4a3	RBP	mRNA binding	mRNA transport	NA	1
 Xpo1	RBP	mRNA binding	mRNA transport	NA	1
 Fmr1	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpa1	RBP	mRNA binding	mRNA transport	NA	1
+Hnrnpa3	RBP	mRNA binding	mRNA transport	NA	1
 Igf2bp1	RBP	mRNA binding	mRNA transport	NA	1
-Igf2bp2	RBP	mRNA binding	mRNA transport	NA	1
-Igf2bp3	RBP	mRNA binding	mRNA transport	NA	1
 Lrpprc	RBP	mRNA binding	mRNA transport	NA	1
-Magohb	RBP	mRNA binding	mRNA transport	NA	1
+Magoh	RBP	mRNA binding	mRNA transport	NA	1
 Ncbp2	RBP	mRNA binding	mRNA transport	NA	1
-Qk	RBP	mRNA binding	mRNA transport	NA	1
-Srsf1	RBP	mRNA binding	mRNA transport	NA	1
-Srsf3	RBP	mRNA binding	mRNA transport	NA	1
-Srsf7	RBP	mRNA binding	mRNA transport	NA	1
 Caprin2	RBP	mRNA binding	mRNA transport	NA	1
 Upf1	RBP	mRNA binding	mRNA transport	NA	1
 Ewsr1	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpul1	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpu	RBP	mRNA binding	mRNA transport	NA	1
 Ybx1	RBP	mRNA binding	mRNA transport	NA	1
+Srsf7	RBP	mRNA binding	mRNA transport	NA	1
 Rtraf	RBP	mRNA binding	mRNA transport	NA	1
 Syncrip	RBP	mRNA binding	mRNA transport	NA	1
 Ddx3x	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpl	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpf	RBP	mRNA binding	mRNA transport	NA	1
 Hnrnpdl	RBP	mRNA binding	mRNA transport	NA	1
+Igf2bp3	RBP	mRNA binding	mRNA transport	NA	1
 Pabpn1	RBP	mRNA binding	mRNA transport	NA	1
 Khdrbs1	RBP	mRNA binding	mRNA transport	NA	1
+Igf2bp2	RBP	mRNA binding	mRNA transport	NA	1
 Rnps1	RBP	mRNA binding	mRNA transport	NA	1
 Hdlbp	RBP	mRNA binding	mRNA transport	NA	1
 Ilf3	RBP	mRNA binding	mRNA transport	NA	1
 Srp19	RBP	mRNA binding	mRNA transport	NA	1
 Exosc4	RBP	NA	NA	NA	3
-Rbm3	RBP	NA	NA	NA	3
 Nhp2	RBP	NA	NA	NA	3
 Xpo1	RBP	NA	NA	NA	3
 Safb	RBP	NA	NA	NA	3
 Trove2 (official: Ro60)	RBP	NA	NA	NA	3
 U2af2	RBP	NA	NA	NA	3
-Hnrnpl	RBP	NA	NA	NA	3
-Npm1	RBP	NA	NA	NA	3
+Hnrnpk	RBP	NA	NA	NA	3
 Pcbp4	RBP	NA	NA	NA	3
+Ptbp3	RBP	NA	NA	NA	3
+Srsf7	RBP	NA	NA	NA	3
 Srsf9	RBP	NA	NA	NA	3
 Ddx3x	RBP	mRNA binding	Translation	NA	1
-Caprin2	RBP	mRNA binding	Translation	NA	1
+Fxr1	RBP	mRNA binding	Translation	NA	1
 Caprin1	RBP	mRNA binding	Translation	NA	1
+Cirbp	RBP	mRNA binding	Translation	NA	1
 Eif4a3	RBP	mRNA binding	Translation	NA	1
 Eif4e	RBP	mRNA binding	Translation	NA	1
-Fxr1	RBP	mRNA binding	Translation	NA	1
 Fmr1	RBP	mRNA binding	Translation	NA	1
 Eprs	RBP	mRNA binding	Translation	NA	1
+Gapdh	RBP	mRNA binding	Translation	NA	1
 Igf2bp1	RBP	mRNA binding	Translation	NA	1
 Ilf3	RBP	mRNA binding	Translation	NA	1
 Rps3	RBP	mRNA binding	Translation	NA	1
 Syncrip	RBP	mRNA binding	Translation	NA	1
-Caprin2	RBP	mRNA binding	Translation	translational regulation	0
-Caprin1	RBP	mRNA binding	Translation	translational regulation	0
-Eif4a3	RBP	mRNA binding	Translation	translational regulation	0
 Fxr1	RBP	mRNA binding	Translation	translational regulation	0
+Caprin1	RBP	mRNA binding	Translation	translational regulation	0
+Cirbp	RBP	mRNA binding	Translation	translational regulation	0
+Eif4a3	RBP	mRNA binding	Translation	translational regulation	0
 Fmr1	RBP	mRNA binding	Translation	translational regulation	0
 Eprs	RBP	mRNA binding	Translation	translational regulation	0
+Gapdh	RBP	mRNA binding	Translation	translational regulation	0
 Igf2bp1	RBP	mRNA binding	Translation	translational regulation	0
 Ilf3	RBP	mRNA binding	Translation	translational regulation	0
 Rps3	RBP	mRNA binding	Translation	translational regulation	0
@@ -521,80 +472,94 @@ Syncrip	RBP	mRNA binding	Translation	translational regulation	0
 Eif4a3	RBP	mRNA binding	mRNA degradation	NA	1
 Rbm8a	RBP	mRNA binding	mRNA degradation	NA	1
 Rnps1	RBP	mRNA binding	mRNA degradation	NA	1
+Magoh	RBP	mRNA binding	mRNA degradation	NA	1
 Ncbp2	RBP	mRNA binding	mRNA degradation	NA	1
+Lsm5	RBP	mRNA binding	mRNA degradation	NA	1
 Csde1	RBP	mRNA binding	mRNA degradation	NA	1
 Exosc4	RBP	mRNA binding	mRNA degradation	NA	1
 Magohb	RBP	mRNA binding	mRNA degradation	NA	1
 Ptbp1	RBP	mRNA binding	mRNA degradation	NA	1
 Prkra	RBP	mRNA binding	Stress response	NA	1
-Hnrnpm	RBP	mRNA binding	Stress response	NA	1
 Fam120a	RBP	mRNA binding	Stress response	NA	1
 Tdrd7	RBP	mRNA binding	mRNA sequestration	NA	1
 Ddx1	RBP	mRNA binding	NA	NA	2
 Ddx3x	RBP	mRNA binding	NA	NA	2
 Khdrbs1	RBP	mRNA binding	NA	NA	2
-Pabpn1	RBP	mRNA binding	NA	NA	2
+Hnrnpdl	RBP	mRNA binding	NA	NA	2
+Pabpc6	RBP	mRNA binding	NA	NA	2
 Syncrip	RBP	mRNA binding	NA	NA	2
+Pabpn1	RBP	mRNA binding	NA	NA	2
 Dazap1	RBP	mRNA binding	NA	NA	2
 Ddx17	RBP	mRNA binding	NA	NA	2
-Ddx21	RBP	mRNA binding	NA	NA	2
-Ddx39b	RBP	mRNA binding	NA	NA	2
 Ddx42	RBP	mRNA binding	NA	NA	2
 Ddx5	RBP	mRNA binding	NA	NA	2
 Ddx6	RBP	mRNA binding	NA	NA	2
 Dhx36	RBP	mRNA binding	NA	NA	2
+Ddx21	RBP	mRNA binding	NA	NA	2
+Ddx39b	RBP	mRNA binding	NA	NA	2
 Ewsr1	RBP	mRNA binding	NA	NA	2
-Fip1l1	RBP	mRNA binding	NA	NA	2
 Lsm2	RBP	mRNA binding	NA	NA	2
 Lsm3	RBP	mRNA binding	NA	NA	2
 Lsm8	RBP	mRNA binding	NA	NA	2
 Larp1	RBP	mRNA binding	NA	NA	2
 Larp4	RBP	mRNA binding	NA	NA	2
 Larp4b	RBP	mRNA binding	NA	NA	2
+Nhp2l1	RBP	mRNA binding	NA	NA	2
 Nhp2	RBP	mRNA binding	NA	NA	2
 Nsun2	RBP	mRNA binding	NA	NA	2
+Raly	RBP	mRNA binding	NA	NA	2
 Rbm3	RBP	mRNA binding	NA	NA	2
 Rbm39	RBP	mRNA binding	NA	NA	2
+Rnps1	RBP	mRNA binding	NA	NA	2
+Sec23ip	RBP	mRNA binding	NA	NA	2
 Ssb	RBP	mRNA binding	NA	NA	2
 Son	RBP	mRNA binding	NA	NA	2
 Tardbp	RBP	mRNA binding	NA	NA	2
+Taf15	RBP	mRNA binding	NA	NA	2
+Thumpd1	RBP	mRNA binding	NA	NA	2
+U2af1	RBP	mRNA binding	NA	NA	2
 U2af2	RBP	mRNA binding	NA	NA	2
+Acin1	RBP	mRNA binding	NA	NA	2
 Apex1	RBP	mRNA binding	NA	NA	2
 Caprin1	RBP	mRNA binding	NA	NA	2
 Cdc5l	RBP	mRNA binding	NA	NA	2
 Csde1	RBP	mRNA binding	NA	NA	2
+Dus3l	RBP	mRNA binding	NA	NA	2
 Dkc1	RBP	mRNA binding	NA	NA	2
 Eif2s1	RBP	mRNA binding	NA	NA	2
 Eif3d	RBP	mRNA binding	NA	NA	2
 Eif3g	RBP	mRNA binding	NA	NA	2
-Eif4g3	RBP	mRNA binding	NA	NA	2
 Eif4g1	RBP	mRNA binding	NA	NA	2
+Eif4g3	RBP	mRNA binding	NA	NA	2
 Eif4a1	RBP	mRNA binding	NA	NA	2
 Eif4a2	RBP	mRNA binding	NA	NA	2
 Eif4b	RBP	mRNA binding	NA	NA	2
 Eif4h	RBP	mRNA binding	NA	NA	2
 Eif5a	RBP	mRNA binding	NA	NA	2
 Exosc6	RBP	mRNA binding	NA	NA	2
-Fam120a	RBP	mRNA binding	NA	NA	2
+Fip1l1	RBP	mRNA binding	NA	NA	2
+FAM120A	RBP	mRNA binding	NA	NA	2
+Fubp1	RBP	mRNA binding	NA	NA	2
+Fubp3	RBP	mRNA binding	NA	NA	2
 Fbl	RBP	mRNA binding	NA	NA	2
 Fus	RBP	mRNA binding	NA	NA	2
 Hnrnpab	RBP	mRNA binding	NA	NA	2
-Hnrnpa1	RBP	mRNA binding	NA	NA	2
 Hnrnpa2b1	RBP	mRNA binding	NA	NA	2
-Hnrnpdl	RBP	mRNA binding	NA	NA	2
 Hnrnpf	RBP	mRNA binding	NA	NA	2
 Hnrnph1	RBP	mRNA binding	NA	NA	2
 Hnrnph2	RBP	mRNA binding	NA	NA	2
+Hnrnph3	RBP	mRNA binding	NA	NA	2
 Hnrnpk	RBP	mRNA binding	NA	NA	2
 Hnrnpl	RBP	mRNA binding	NA	NA	2
 Hnrnpm	RBP	mRNA binding	NA	NA	2
+Hnrnpr	RBP	mRNA binding	NA	NA	2
 Hnrnpu	RBP	mRNA binding	NA	NA	2
 Hnrnpul1	RBP	mRNA binding	NA	NA	2
 Hdlbp	RBP	mRNA binding	NA	NA	2
-Raly	RBP	mRNA binding	NA	NA	2
 Ilf3	RBP	mRNA binding	NA	NA	2
 Lrpprc	RBP	mRNA binding	NA	NA	2
 Magohb	RBP	mRNA binding	NA	NA	2
+Magoh	RBP	mRNA binding	NA	NA	2
 Matr3	RBP	mRNA binding	NA	NA	2
 Msi1	RBP	mRNA binding	NA	NA	2
 Myef2	RBP	mRNA binding	NA	NA	2
@@ -608,12 +573,12 @@ Ppie	RBP	mRNA binding	NA	NA	2
 Pcbp2	RBP	mRNA binding	NA	NA	2
 Pcbp4	RBP	mRNA binding	NA	NA	2
 Puf60	RBP	mRNA binding	NA	NA	2
+Ptrf	RBP	mRNA binding	NA	NA	2
 Ptbp3	RBP	mRNA binding	NA	NA	2
 Prpf31	RBP	mRNA binding	NA	NA	2
 Prpf8	RBP	mRNA binding	NA	NA	2
 Pa2g4	RBP	mRNA binding	NA	NA	2
 Prkra	RBP	mRNA binding	NA	NA	2
-Rnps1	RBP	mRNA binding	NA	NA	2
 Rpl12	RBP	mRNA binding	NA	NA	2
 Rpl22	RBP	mRNA binding	NA	NA	2
 Rpl8	RBP	mRNA binding	NA	NA	2
@@ -623,6 +588,7 @@ Rps9	RBP	mRNA binding	NA	NA	2
 Safb	RBP	mRNA binding	NA	NA	2
 Srrm1	RBP	mRNA binding	NA	NA	2
 Srsf10	RBP	mRNA binding	NA	NA	2
+Srsf11	RBP	mRNA binding	NA	NA	2
 Srsf2	RBP	mRNA binding	NA	NA	2
 Srsf3	RBP	mRNA binding	NA	NA	2
 Srsf5	RBP	mRNA binding	NA	NA	2
@@ -631,24 +597,28 @@ Srsf7	RBP	mRNA binding	NA	NA	2
 Srsf9	RBP	mRNA binding	NA	NA	2
 Srp14	RBP	mRNA binding	NA	NA	2
 Srp19	RBP	mRNA binding	NA	NA	2
+Snrpd1	RBP	mRNA binding	NA	NA	2
+Snrpd2	RBP	mRNA binding	NA	NA	2
 Snrpd3	RBP	mRNA binding	NA	NA	2
 Snrpa1	RBP	mRNA binding	NA	NA	2
 Sf1	RBP	mRNA binding	NA	NA	2
 Sf3b6	RBP	mRNA binding	NA	NA	2
+Sf3a1	RBP	mRNA binding	NA	NA	2
 Sf3b4	RBP	mRNA binding	NA	NA	2
 Sfpq	RBP	mRNA binding	NA	NA	2
 Sart3	RBP	mRNA binding	NA	NA	2
 Tnrc6b	RBP	mRNA binding	NA	NA	2
 Yars	RBP	mRNA binding	NA	NA	2
+Zc3h15	RBP	mRNA binding	NA	NA	2
+Zc3h18	RBP	mRNA binding	NA	NA	2
 Zranb2	RBP	mRNA binding	NA	NA	2
 Dis3l2	RBP	mRNA binding	NA	NA	2
 Sf3b4	RBP	NA	NA	NA	3
-Srsf5	RBP	NA	NA	NA	3
 Ddx39b	RBP	mRNA binding	Translation	NA	1
 Elavl1	RBP	mRNA binding	Translation	NA	1
+Larp1	RBP	mRNA binding	Translation	NA	1
 Larp4b	RBP	mRNA binding	Translation	NA	1
 Rbm3	RBP	mRNA binding	Translation	NA	1
-Cirbp	RBP	mRNA binding	Translation	NA	1
 Eif4g3	RBP	mRNA binding	Translation	NA	1
 Hnrnpd	RBP	mRNA binding	Translation	NA	1
 Hnrnpl	RBP	mRNA binding	Translation	NA	1
@@ -657,9 +627,9 @@ Ptbp1	RBP	mRNA binding	Translation	NA	1
 Rps4x	RBP	mRNA binding	Translation	NA	1
 Ddx39b	RBP	mRNA binding	Translation	translational regulation	0
 Elavl1	RBP	mRNA binding	Translation	translational regulation	0
+Larp1	RBP	mRNA binding	Translation	translational regulation	0
 Larp4b	RBP	mRNA binding	Translation	translational regulation	0
 Rbm3	RBP	mRNA binding	Translation	translational regulation	0
-Cirbp	RBP	mRNA binding	Translation	translational regulation	0
 Eif4g3	RBP	mRNA binding	Translation	translational regulation	0
 Hnrnpd	RBP	mRNA binding	Translation	translational regulation	0
 Hnrnpl	RBP	mRNA binding	Translation	translational regulation	0
@@ -682,68 +652,60 @@ Hnrnpab	RBP	pre-mRNA binding	pre-mRNA Transport and processing	NA	1
 Fus	RBP	pre-mRNA binding	pre-mRNA Transport and processing	NA	1
 Hnrnpd	RBP	pre-mRNA binding	pre-mRNA Transport and processing	NA	1
 Ncbp2	RBP	pre-mRNA binding	pre-mRNA Transport and processing	NA	1
+Snrpd1	RBP	pre-mRNA binding	splicing	NA	1
+Snrpd2	RBP	pre-mRNA binding	splicing	NA	1
 Lsm2	RBP	NA	NA	NA	3
 Lsm3	RBP	NA	NA	NA	3
+Nhp2l1	RBP	NA	NA	NA	3
+Son	RBP	NA	NA	NA	3
+Prpf31	RBP	NA	NA	NA	3
+Snrpd1	RBP	NA	NA	NA	3
+Snrpd2	RBP	NA	NA	NA	3
 Snrpd3	RBP	NA	NA	NA	3
 Snrpe	RBP	NA	NA	NA	3
 Sf3b6	RBP	NA	NA	NA	3
 Sf3b5	RBP	NA	NA	NA	3
 Ssb	RBP	mRNA binding	mRNA sequestration	NA	1
 Srsf2	RBP	NA	NA	NA	3
+Sf3a1	RBP	NA	NA	NA	3
 Aco1	RBP	mRNA binding	Stress response	NA	1
 Khdrbs1	RBP	NA	NA	NA	3
+Srsf3	RBP	NA	NA	NA	3
 Khsrp	RBP	mRNA binding	mRNA stability	NA	1
 Apex1	RBP	mRNA binding	mRNA stability	NA	1
 Fmr1	RBP	mRNA binding	mRNA stability	NA	1
-Hnrnph1	RBP	NA	NA	NA	3
+Hnrnpf	RBP	NA	NA	NA	3
 Ddx6	RBP	mRNA binding	Translation	NA	1
 Rbm8a	RBP	mRNA binding	Translation	NA	1
 Aco1	RBP	mRNA binding	Translation	NA	1
-Eif2s1	RBP	mRNA binding	Translation	NA	1
-Eif4g1	RBP	mRNA binding	Translation	NA	1
-Igf2bp2	RBP	mRNA binding	Translation	NA	1
-Igf2bp3	RBP	mRNA binding	Translation	NA	1
+Magoh	RBP	mRNA binding	Translation	NA	1
 Ncbp2	RBP	mRNA binding	Translation	NA	1
 Pa2g4	RBP	mRNA binding	Translation	NA	1
-Qk	RBP	mRNA binding	Translation	NA	1
-Tnrc6b	RBP	mRNA binding	Translation	NA	1
 Ddx6	RBP	mRNA binding	Translation	translational regulation	0
 Rbm8a	RBP	mRNA binding	Translation	translational regulation	0
 Aco1	RBP	mRNA binding	Translation	translational regulation	0
-Igf2bp2	RBP	mRNA binding	Translation	translational regulation	0
-Igf2bp3	RBP	mRNA binding	Translation	translational regulation	0
+Magoh	RBP	mRNA binding	Translation	translational regulation	0
 Ncbp2	RBP	mRNA binding	Translation	translational regulation	0
 Pa2g4	RBP	mRNA binding	Translation	translational regulation	0
-Qk	RBP	mRNA binding	Translation	translational regulation	0
-Tnrc6b	RBP	mRNA binding	Translation	translational regulation	0
 Ncbp2	RBP	mRNA binding	Translation	translational initiation	0
 Eif4a1	RBP	mRNA binding	Translation	translational regulation	0
 Eif4a2	RBP	mRNA binding	Translation	translational regulation	0
 Xpo1	RBP	mRNA binding	Stress response	NA	1
+Hnrnpd	RBP	mRNA binding	Stress response	NA	1
 Srp14	RBP	mRNA binding	Stress response	NA	1
 Srp19	RBP	mRNA binding	Stress response	NA	1
 Eif2s1	RBP	mRNA binding	Translation	ribosome	0
 Ssb	RBP	NA	NA	NA	3
-Dkc1	RBP	NA	NA	NA	3
 Fbl	RBP	NA	NA	NA	3
-Lsm5	RBP	NA	NA	NA	3
-Lsm8	RBP	NA	NA	NA	3
+Hnrnpul1	RBP	NA	NA	NA	3
+Rbmxl1	RBP	NA	NA	NA	3
 Tardbp	RBP	NA	NA	NA	3
-Snrpb2	RBP	NA	NA	NA	3
-U2af1	RBP	NA	NA	NA	3
 Cdc5l	RBP	NA	NA	NA	3
-Hnrnpu	RBP	NA	NA	NA	3
-Ppie	RBP	NA	NA	NA	3
-Prpf8	RBP	NA	NA	NA	3
-Ppp1r8	RBP	NA	NA	NA	3
-Snrpa1	RBP	NA	NA	NA	3
-Sfpq	RBP	NA	NA	NA	3
+Syncrip	RBP	NA	NA	NA	3
+Zranb2	RBP	NA	NA	NA	3
 Eprs	RBP	NA	NA	NA	3
 Ddx21	RBP	ncRNA binding	rRNA binding	NA	1
 Npm1	RBP	ncRNA binding	rRNA binding	NA	1
-Rpl12	RBP	ncRNA binding	rRNA binding	NA	1
-Rpl5	RBP	ncRNA binding	rRNA binding	NA	1
-Rpl8	RBP	ncRNA binding	rRNA binding	NA	1
 Rps11	RBP	ncRNA binding	rRNA binding	NA	1
 Rps4x	RBP	ncRNA binding	rRNA binding	NA	1
 Rps9	RBP	ncRNA binding	rRNA binding	NA	1
@@ -760,17 +722,36 @@ Dkc1	RBP	ncRNA binding	rRNA binding	NA	1
 Dis3l2	RBP	ncRNA binding	rRNA binding	NA	1
 Eif4a3	RBP	ncRNA binding	rRNA binding	NA	1
 Exosc3	RBP	ncRNA binding	rRNA binding	NA	1
-Exosc6	RBP	ncRNA binding	rRNA binding	NA	1
+Rpl5	RBP	ncRNA binding	rRNA binding	NA	1
 Rpl7	RBP	ncRNA binding	rRNA binding	NA	1
+Ptrf	RBP	ncRNA binding	rRNA binding	NA	1
+Rpl8	RBP	ncRNA binding	rRNA binding	NA	1
 Npm1	RBP	mRNA binding	Translation	ribosome	0
 Ddx21	RBP	ncRNA binding	NA	NA	2
-Nhp2	RBP	ncRNA binding	NA	NA	2
+Nhp2l1	RBP	ncRNA binding	NA	NA	2
 Nudt16l1	RBP	ncRNA binding	NA	NA	2
 Xpo1	RBP	ncRNA binding	snRNA binding	NA	1
 Dkc1	RBP	ncRNA binding	snRNA binding	NA	1
+U2af1	RBP	NA	NA	NA	3
+Prpf8	RBP	NA	NA	NA	3
+Snrpa1	RBP	NA	NA	NA	3
+Snrpb2	RBP	NA	NA	NA	3
+Sf1	RBP	NA	NA	NA	3
+Sart3	RBP	NA	NA	NA	3
+Alyref	RBP	pre-mRNA binding	splicing	NA	1
 Ddx42	RBP	pre-mRNA binding	splicing	NA	1
+Acin1	RBP	pre-mRNA binding	splicing	NA	1
+Hnrnpu	RBP	pre-mRNA binding	splicing	NA	1
 Pcbp1	RBP	pre-mRNA binding	splicing	NA	1
+Lsm5	RBP	NA	NA	NA	3
+Lsm8	RBP	NA	NA	NA	3
+Hnrnpu	RBP	NA	NA	NA	3
+Ppie	RBP	NA	NA	NA	3
+Raly	RBP	NA	NA	NA	3
 Snu13	RBP	NA	NA	NA	3
+Qk	RBP	NA	NA	NA	3
+Sfpq	RBP	NA	NA	NA	3
+Rbm39	RBP	NA	NA	NA	3
 G3bp1	RBP	mRNA binding	Stress response	NA	1
 Ybx3	RBP	mRNA binding	Stress response	NA	1
 Tdrd7	RBP	mRNA binding	Stress response	NA	1
@@ -781,30 +762,31 @@ Caprin1	RBP	mRNA binding	Stress response	NA	1
 Safb	RBP	mRNA binding	Stress response	NA	1
 Dhx9	RBP	mRNA binding	Stress response	NA	1
 Myef2	RBP	mRNA binding	Stress response	NA	1
+Nhp2	RBP	ncRNA binding	NA	NA	2
 Dkc1	RBP	ncRNA binding	NA	NA	2
 Hnrnpc	RBP	ncRNA binding	NA	NA	2
 Hnrnpu	RBP	ncRNA binding	NA	NA	2
 Snrpd3	RBP	ncRNA binding	NA	NA	2
+Nhp2l1	RBP	mRNA binding	Translation	NA	1
 Nhp2	RBP	mRNA binding	Translation	NA	1
-Aars	RBP	mRNA binding	Translation	NA	1
-Aimp1	RBP	mRNA binding	Translation	NA	1
-Eif3a	RBP	mRNA binding	Translation	NA	1
-Eif3b	RBP	mRNA binding	Translation	NA	1
-Eif3d	RBP	mRNA binding	Translation	NA	1
-Eif3g	RBP	mRNA binding	Translation	NA	1
-Eif4a1	RBP	mRNA binding	Translation	NA	1
-Eif4a2	RBP	mRNA binding	Translation	NA	1
-Mars	RBP	mRNA binding	Translation	NA	1
+Eif2s1	RBP	mRNA binding	Translation	NA	1
 Rpl12	RBP	mRNA binding	Translation	NA	1
 Rpl5	RBP	mRNA binding	Translation	NA	1
 Rps11	RBP	mRNA binding	Translation	NA	1
 Rps9	RBP	mRNA binding	Translation	NA	1
-Yars	RBP	mRNA binding	Translation	NA	1
+Eif4a2	RBP	mRNA binding	Translation	NA	1
 Celf1	RBP	mRNA binding	Translation	NA	1
 Pdcd4	RBP	mRNA binding	Translation	NA	1
+Eif4a1	RBP	mRNA binding	Translation	NA	1
+Eif3b	RBP	mRNA binding	Translation	NA	1
+Eif3g	RBP	mRNA binding	Translation	NA	1
+Eif3a	RBP	mRNA binding	Translation	NA	1
+Eif3d	RBP	mRNA binding	Translation	NA	1
+Eif4g1	RBP	mRNA binding	Translation	NA	1
 G3bp2	RBP	mRNA binding	Translation	NA	1
+Eef1g	RBP	mRNA binding	Translation	NA	1
+Nelfb	RBP	mRNA binding	Translation	NA	1
 Larp1	RBP	mRNA binding	Translation	translational initiation	0
-Larp1	RBP	mRNA binding	Translation	translational regulation	0
 Tdrd7	RBP	mRNA binding	Translation	translational regulation	0
 Csde1	RBP	mRNA binding	Translation	translational regulation	0
 Celf1	RBP	mRNA binding	Translation	translational regulation	0
@@ -814,8 +796,10 @@ Carhsp1	RBP	mRNA binding	Translation	translational regulation	0
 Pcbp1	RBP	mRNA binding	Translation	translational regulation	0
 Tardbp	RBP	mRNA binding	Translation	translational regulation	0
 Ybx1	RBP	mRNA binding	Translation	translational regulation	0
+Igf2bp3	RBP	mRNA binding	Translation	translational regulation	0
 Aars	RBP	mRNA binding	Translation	translational regulation	0
 Msi1	RBP	mRNA binding	Translation	translational regulation	0
+Igf2bp2	RBP	mRNA binding	Translation	translational regulation	0
 Hdlbp	RBP	mRNA binding	Translation	translational regulation	0
 G3bp2	RBP	mRNA binding	Translation	translational regulation	0
 Nsun2	RBP	ncRNA binding	tRNA binding	NA	1
@@ -825,6 +809,7 @@ Xpo5	RBP	ncRNA binding	tRNA binding	NA	1
 Xpot	RBP	ncRNA binding	tRNA binding	NA	1
 Ssb	RBP	ncRNA binding	tRNA binding	NA	1
 Ddx1	RBP	ncRNA binding	tRNA binding	NA	1
+Dus3l	RBP	ncRNA binding	tRNA binding	NA	1
 Fbl	RBP	ncRNA binding	tRNA binding	NA	1
 Fbll1	RBP	ncRNA binding	tRNA binding	NA	1
 Eif5a	RBP	pre-mRNA binding	splicing	NA	1
