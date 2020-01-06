@@ -39,7 +39,10 @@ Igf2bp1,mRNA stability,RNA-binding protein IGF2BP1 (IGF-II mRNA binding protein 
 Igf2bp1,mRNA sequestration,"not verified; In contrast, RNA-binding proteins like IGF2BP1 or HUR, which are dispensable for SG-assembly, are stably associated with SGs and the IGF2BP1/HUR-G3BP1 association is increased during stress.",25488811,2020-01-06T13:43:57Z
 Khsrp,mRNA degradation,"Here, we demonstrate that KSRP, a KH domain-containing ARE-BP, is an essential factor for ARE-directed mRNA decay. Some of the KH motifs (KHs) of KSRP directly mediate RNA binding, mRNA decay, and interactions with the exosome and poly(A) ribonuclease (PARN). The ability of KHs to promote mRNA decay correlates with their ability to bind the ARE and associate with RNA-degrading enzymes. Thus, KHs promote rapid mRNA decay by recruiting degradation machinery to ARE-containing mRNAs.",15175153,2020-01-06T13:48:03Z
 Khsrp,mRNA degradation,These results support a model that KSRP recruits mRNA decay machinery/factors to elicit decay. The ability of tethered KSRP to elicit mRNA decay depends on functions of known mRNA decay enzymes.,16648466,2020-01-06T13:49:01Z
-Khsrp,mRNA sequestration,not verified,,2020-01-06T16:14:10Z
-Khsrp,mRNA processing,not verified,,2020-01-06T16:14:15Z
-Khsrp,mRNA transport,not verified,,2020-01-06T16:14:23Z
-Khsrp,mRNA stability,not verified,,2020-01-06T16:14:30Z
+Khsrp,mRNA sequestration,not verified,NA,2020-01-06T16:14:10Z
+Khsrp,mRNA processing,not verified,NA,2020-01-06T16:14:15Z
+Khsrp,mRNA transport,not verified,NA,2020-01-06T16:14:23Z
+Khsrp,mRNA stability,not verified,NA,2020-01-06T16:14:30Z
+Upf1,mRNA degradation,"The central component of the NMD pathway in all organisms studied is the protein UPF1/SMG2, an ATP-dependent RNA helicase of the SF1 superfamily, which undergoes cycles of phosphorylation and dephosphorylation that are essential for NMD progression.",26773057,2020-01-06T16:38:22Z
+Upf1,Stress response,"not verified; seems that stress response involve modification of UPF1 to prevent NMD, but UPF1 is not directly involved in stress response",,2020-01-06T16:44:09Z
+Upf1,mRNA transport,not verified,,2020-01-06T16:45:50Z
