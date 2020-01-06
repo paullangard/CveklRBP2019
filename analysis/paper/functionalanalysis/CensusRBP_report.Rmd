@@ -38,8 +38,8 @@ t_CensusRBPDB <- read_tsv("../../data/raw_data/RBPCensus/CensusRBPDB2012.tsv", c
 ```{r censusZhao, cache=T}
 t_CensusZhao2018 <- t_proteomicZhao2018 %>% 
   filter_all(any_vars(str_detect(., pattern = "RNA-binding"))) %>%
-  filter(!GeneNames %in% c('Tsn','Impdh2','Nudt5','Tdrkh','Trir','Jmjd6','Ro60', "Trove2"))%>%
-  arrange(GeneNames) %$% GeneNames
+  filter(!gene %in% c('Tsn','Impdh2','Nudt5','Tdrkh','Trir','Jmjd6','Ro60', "Trove2"))%>%
+  arrange(gene) %$% gene
 ```
 
 ```{r}
@@ -85,4 +85,10 @@ t_proteomicZhao2018_RBP %>% write_rds("../../data/derived_data/t_proteomicZhao20
 <!-- Then we gather everything together, and filter for expression within our proteomic dataset.  -->
 
 
+```{r}
+unique(t_proteomicZhao2018_RBP$gene)
+read_tsv("../../../../Cvekl_lensRBP/data/functionalanalysis/processed/functionalannotationsRBP_processedannotated.tsv") %>% 
+  {unique(.[["gene"]])} %>% {base::setdiff(t_proteomicZhao2018_RBP$gene,.)} %>% sort() %>% #paste(collapse=", ") %>%
+  {filter(t_proteomicZhao2018_RBP, gene %in% .)} %$% paste0(gene, " (rank epi:", rankEpith, ";rank fibers:",rankFibers,")", collapse = ", ")
+```
 

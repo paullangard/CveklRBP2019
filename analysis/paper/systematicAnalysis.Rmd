@@ -4,8 +4,6 @@ require(ggpubr)
 require(magrittr)
 require(ggimage)
 require(ggrepel)
-
-tibble(a=c("a", "b", "c", "a"), b=c("a","d", "e", "f")) %>% distinct()
 ```
 
 
