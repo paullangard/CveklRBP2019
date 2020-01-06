@@ -54,5 +54,9 @@ Hnrnpd,pre-mRNA Transport and processing,"Integration of AUF1 PAR-CLIP with diff
 Hnrnpd,Stress response,not verified,NA,2020-01-06T17:29:01Z
 Rbm38,splicing,RBM38 regulated splicing during late erythroid differentiation.,24250749,2020-01-06T17:36:20Z
 Rbm38,mRNA stability,Only RNPC1a is able to stabilize both the basal and stress-induced p21 transcripts,17050675,2020-01-06T17:36:56Z
-Rbm38,mRNA stability,"Phosphorylated RNPC1, RNPC1-S195D, and RNPC1(Δ189-204) promote p53 mRNA translation through interaction with eukaryotic translation factor eIF4G, which then facilitates the assembly of the eIF4F complex on p53 mRNA.",24142875,2020-01-06T17:37:22Z
 Rbm38,translational regulation,"Phosphorylated RNPC1, RNPC1-S195D, and RNPC1(Δ189-204) promote p53 mRNA translation through interaction with eukaryotic translation factor eIF4G, which then facilitates the assembly of the eIF4F complex on p53 mRNA.",24142875,2020-01-06T21:14:03Z
+Tardbp,mRNA stability,"Finally, we showed that TDP-43 regulates Add2 gene expression levels by increasing Add2 mRNA stability. ",25602706,2020-01-06T21:31:46Z
+Tardbp,translational regulation,"our study has uncovered a paradigm scenario of how TDP-43 regulates the translation of specific mRNAs. Furthermore, for the first time, we reveal a functional synergy between FMRP and TDP-43 in translational co-repression of a class of neuronal genes important for the regulation of spinogenesis, neuron architecture and neuronal plasticity.",27518042,2020-01-06T21:34:13Z
+Tardbp,translational regulation,Our data reveal that TDP-43 can function as an mRNA-specific translational enhancer. ,30357366,2020-01-06T21:34:41Z
+Tardbp,splicing,We also found that binding of TDP-43 to pre-mRNAs influenced alternative splicing in a similar position-dependent manner to Nova proteins.,21358640,2020-01-06T21:36:01Z
+Tardbp,Stress response,"We found that in response to oxidative stress and to environmental insults of different types TDP‐43 is capable to assemble into stress granules (SGs), ribonucleoprotein complexes where protein synthesis is temporarily arrested. ",19765185,2020-01-06T21:37:04Z
