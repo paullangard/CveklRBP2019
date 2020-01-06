@@ -44,5 +44,11 @@ Khsrp,mRNA processing,not verified,NA,2020-01-06T16:14:15Z
 Khsrp,mRNA transport,not verified,NA,2020-01-06T16:14:23Z
 Khsrp,mRNA stability,not verified,NA,2020-01-06T16:14:30Z
 Upf1,mRNA degradation,"The central component of the NMD pathway in all organisms studied is the protein UPF1/SMG2, an ATP-dependent RNA helicase of the SF1 superfamily, which undergoes cycles of phosphorylation and dephosphorylation that are essential for NMD progression.",26773057,2020-01-06T16:38:22Z
-Upf1,Stress response,"not verified; seems that stress response involve modification of UPF1 to prevent NMD, but UPF1 is not directly involved in stress response",,2020-01-06T16:44:09Z
-Upf1,mRNA transport,not verified,,2020-01-06T16:45:50Z
+Upf1,Stress response,"not verified; seems that stress response involve modification of UPF1 to prevent NMD, but UPF1 is not directly involved in stress response",NA,2020-01-06T16:44:09Z
+Upf1,mRNA transport,not verified,NA,2020-01-06T16:45:50Z
+Hnrnpd,mRNA degradation,These results demonstrate a specific cytoplasmic function for hnRNP D as an RNA-destabilizing protein in ARE-mediated decay pathway.,10421639,2020-01-06T16:52:35Z
+Hnrnpd,translational regulation,"Second, AUF1 does not change the abundance of many target RNAs, but ribosome profiling reveals that AUF1 promotes the translation of numerous mRNAs in this group",25366541,2020-01-06T17:02:50Z
+Hnrnpd,mRNA stability,not verified,,2020-01-06T17:22:21Z
+Hnrnpd,translational regulation,An earlier report showed that AUF1 promoted the translation of MYC mRNA by displacing the translational repressor TIAR,25366541,2020-01-06T17:26:50Z
+Hnrnpd,pre-mRNA Transport and processing,"Integration of AUF1 PAR-CLIP with differential RNA expression profile using RNA-Seq indicated that AUF1 binding, which was most frequently observed at intron sites, was associated with the exclusion and inclusion of different introns (Supplementary Fig. 3c). In earlier global studies, AUF1 was shown to associate with pre-mRNA25,48, but to our knowledge this is the first indication that AUF1 could modulate alternative splicing. Studies are underway to investigate this function in depth.",25366541,2020-01-06T17:28:49Z
+Hnrnpd,Stress response,not verified,,2020-01-06T17:29:01Z
